@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>Form</class>
+    <widget class="QWidget" name="Form">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>600</width>
+                <height>400</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Form</string>
+        </property>
+        <widget class="QFrame" name="frame">
+            <property name="geometry">
+                <rect>
+                    <x>0</x>
+                    <y>0</y>
+                    <width>240</width>
+                    <height>400</height>
+                </rect>
+            </property>
+            <property name="frameShape">
+                <enum>QFrame::Box</enum>
+            </property>
+            <property name="frameShadow">
+                <enum>QFrame::Raised</enum>
+            </property>
+            <widget class="QListView" name="listView">
+                <property name="geometry">
+                    <rect>
+                        <x>1</x>
+                        <y>1</y>
+                        <width>238</width>
+                        <height>398</height>
+                    </rect>
+                </property>
+            </widget>
+        </widget>
+        <widget class="QScrollArea" name="scrollArea">
+            <property name="geometry">
+                <rect>
+                    <x>240</x>
+                    <y>0</y>
+                    <width>361</width>
+                    <height>341</height>
+                </rect>
+            </property>
+            <property name="widgetResizable">
+                <bool>true</bool>
+            </property>
+            <widget class="QWidget" name="scrollAreaWidgetContents">
+                <property name="geometry">
+                    <rect>
+                        <x>0</x>
+                        <y>0</y>
+                        <width>359</width>
+                        <height>339</height>
+                    </rect>
+                </property>
+            </widget>
+        </widget>
+        <widget class="QLineEdit" name="lineEdit">
+            <property name="geometry">
+                <rect>
+                    <x>241</x>
+                    <y>360</y>
+                    <width>280</width>
+                    <height>30</height>
+                </rect>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="pushButton">
+            <property name="geometry">
+                <rect>
+                    <x>520</x>
+                    <y>360</y>
+                    <width>81</width>
+                    <height>36</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>发送</string>
+            </property>
+        </widget>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>
