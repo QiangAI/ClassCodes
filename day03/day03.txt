@@ -1,0 +1,242 @@
+1. 网络编程的背景
+	1.1. 多进程
+		|- 运行多个程序
+			|- 进程：资源最小分配单位
+			|- 进程的内存空间是独立，保护的。
+				|- 进程之间数据交换是问题。
+					|- 文件
+						|- 普通
+						|- FIFO：管道文件：有名管道文件（单工）
+						|- 双工管道文件：socket文件
+							|- socket编程接口
+								|- socket文件（同一个系统的两个进程）
+								|- inet网卡（两个不同系统之间的进程）
+								|- find  /   -type s  
+					|- 内存
+						|- 匿名管道
+						|- 匿名socket管道
+						|- 消息队列
+						|- 信号量
+						|- 共享内存
+						|- 粘贴板
+		1.2. 背景
+			|- 进程通信
+			|- 双工管道
+				|- socket文件
+				|- inet4，inet6（socket网络编程）
+	案例1：
+		体会创建两个进程的编程方法
+
+	案例2:
+		两个程序之间使用管道文件数据交换
+
+	案例3：
+		SOCK_RAW:	抓IP层的包（ICMP，TCP，UDP）【内核层RAW】
+			|- su
+
+		pcap包（数据链路层）
+
+		注意：
+			mac os tcp与udp的数据包走的不是RAW内核。
+
+	案例4：
+		socket文件通信
+			udp
+			tcp
+
+	案例5：
+		获取本机的IP
+
+
+socket编程实际上是通信接口规范：
+	socket：插座
+		|- 设备
+			|- socket文件
+			|- net
+
+	规范：
+		一组函数
+			socket
+			bind
+			listendd
+			accept
+			send
+			recv
+			send_msg
+			recv_msg
+			connect
+			send_to
+			recv_from
+			setscocketopt
+
+	案例6：
+		域名与ip
+
+
+2. HTTP协议
+	IP->TCP->HTTP(文本协议)
+	案例1：
+		体验HTTP协议
+
+	2.1. 协议格式
+		每行结束：\r\n
+		a. 请求行(位移)
+			GET / HTTP/1.1
+			请求方法，请求资源，请求协议
+			  |- GET
+			  |- POST
+			  |- PUT
+			  |- OPTION
+			  |- TRACE
+			  |- HEAD
+			  |- 
+		b. 请求头
+			header name: header value
+			多行
+
+		c. 空行
+		d. 数据体（Msg Body）
+
+	重点：
+		方法的区别get，post，put
+				|- 构造请求协议
+
+		没有头的含义
+				|- 常用
+
+3. 请求与响应
+	3.1. 构造一个请求头
+		|- header
+		|- get/post
+		|- body
+
+
+		<meta charset='utf-8'>
+		<meta http-equiv='accept:'>
+
+	3.2. 构造响应头
+		|- header影响着服务器与浏览器的处理的方式
+			|- 标准头（所有浏览器与web服务器都实现）
+			|- 非标准头（某些浏览器，某些web服务器）
+
+
+		响应格式：
+			| 响应行
+			| 响应头
+			| 空行
+			| 数据
+
+案例1：
+	|- 控制头：Accept-Encoding
+	|- 控制服务器连接时间：connection
+	|- 响应：Refresh
+	|- 授权：WWW-Authenticate  /  Authorization
+
+	|- Cookie
+    |
+	|- Set-Cookie
+
+
+4. 请求方法：
+	get(得到网页：上传数据)/post（上传数据：得到网页）
+		|-  Querystring 
+
+
+	post：
+		|- 表单：application/x-www-form-urlencoded（使用最多）
+		|- 文件上传：multipart/form-data
+
+	get：
+		文件绝对不使用get传递（根本没有body）
+
+
+5. url解码与编码
+	urllib.parse.quote()
+	urllib.parse.unquote() 
+	urllib.parse.urlsplit()
+	urllib.parse.urlunsplit()
+
+
+6. SSL
+	scoket security layer(ssl)
+
+	6.1.   产生CA根证书与私钥
+		openssl req  -newkey rsa:2048  -passout pass:123456 -keyout ca_rsa_private.pem -x509 -days 365 -out ca.crt -subj "/C=CN/ST=BJ/L=CP/O=MAGEEDU/OU=DEVELOP/CN=NO/emailAddress=38395870@qq.com"
+
+		|- 具有权威性质的机构发放
+
+	6.2. 根证书与私钥产生服务器签名（服务器）
+		待签名整数
+		openssl req -newkey rsa:2048 -passout  pass:server  -keyout server_rsa_private -out server.csr -subj "/C=CN/ST=GZ/L=BY/O=MAGEBJ/OU=MANAGMENT/CN=SERVER/emailAddress=38395870@qq.com"
+
+		openssl x509 -req -days 365 -in server.csr -CA ca.crt -CAkey  ca_rsa_private.pem -passin pass:123456 -CAcreateserial -out server.crt
+
+
+	6.3 根证书与私钥产生客户端签名（客户端）
+		|- 浏览器内置非常多的客户端整数 
+
+
+
+
+	6.4. SSL编程-服务器
+			服务器需要的是签过名的证书与私钥
+			|- server.crt
+			|- server_rsa_private.pem
+	
+	6.5. SSL编码-客户端	
+			客户端需要根证书
+
+7. https的工作原理
+	
+	|- 服务器使用第三方签名的证书 +  私钥  ->   根证书
+
+	|- web服务器厂商，提供默认443端口，提供ssl Web服务（必须使用ssl公用的加密方式）
+		|- 没有使用定制证书
+
+
+
+ 
+要求：
+	1. socket
+		编程：RAW抓包
+
+	2. HTTP协议
+		使用某些协议
+			|- 压缩
+			|- 数据长度
+			|- 解析：行，头，体
+			|- user-agent
+			|- Connect
+			|- Cookie
+
+		构造请求头，响应头
+
+	3. 上传。下传
+		|- get，post
+		|- form + multipart
+
+	4. ssl的编程套路
+		|- openssl产生根证书
+
+		|- openssl产生服务器证书与私钥（签名）
+
+	5. 443 SSL默认端口的通信
+		443
+
+作用：
+	1. 百度首页爬下来
+	2. 得到百度翻译的某个词的翻译内容：test
+
+	3. 上课的几个协议显示程序写一遍
+	4. ssl服务端+客户端通信。
+
+
+
+
+
+
+
+
+
+
+
