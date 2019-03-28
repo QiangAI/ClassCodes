@@ -1,0 +1,155 @@
+0. 回顾
+	0.1. HTTP
+		|- 请求（4个构成部分）
+			|- 头
+			|- 体     ---|
+			|- 请求方法---|POST，GET，PUT
+
+		|- 响应（4个构成部分）
+			|- 头
+			|- 体 
+
+		|- 常用头
+			|- Content-Length:  不分包
+			|- Centent-Encoding: 分包
+			|- Refresh
+			|- Accept
+			|- Content-Type
+			|- Host
+
+		|- 能力
+			|- 构建请求头（熟练）
+			|- 构建响应头（了解）
+
+	0.2. SSL
+		|- 对称SSL
+			|- https：
+				443端口：特征，不需要根证书
+
+		|- 非对称SSL
+			|- 特点：客户的根证书
+				|- 客户的私钥使用根证书进行加密（安全行更高）
+
+		|- 能力：
+			|- 使用openssl完成证书，私有，签名。
+
+			|- Python熟悉SSL非对称编程模式
+			|- Python熟悉SSL对称的编程模式
+
+
+1. HTTP，HTTPS
+	
+	1.1. 创建socket
+	1.2. 包装socket
+	1.3. 使用包装的socket实现网络通信
+		|- 链接
+		|- 发送数据
+		|- 接收数据
+
+		Spider
+2. 爬取页面 & 爬取web服务数据（json[推荐]，xml[不推荐]，html/xhtml[推荐]） 
+	|- 分块的页面爬取
+	|- 不分块的页面爬取
+
+	|- 构造请求体
+
+
+ 
+ 练习：
+ 	1. 完成不分包的程序实现。
+ 	2. 完成最后这个程序。（逻辑出现的问题）
+
+
+3. 综合案例
+	在线翻译器
+
+	项目
+		|- main.py
+		|- App类（组合）
+			|- UI类
+			|- 爬虫类
+
+
+		实现UI
+			|- UI
+			|- 事件
+
+		实现百度翻译：
+			|- 网络爬虫
+
+练习：
+	完成简易的翻译器
+
+
+阶段目标：
+	1.下载网页
+	2. POST完成数据轻轨请求：百度翻译	
+
+
+
+
+
+------ 封装模块
+4. 了解，不掌握的模块（标准模块）
+	|- urllib：封装了HTTP的网络请求头的封装以及网络的的通信（爬虫）
+				|- 发起请求
+				|- 控制头
+				|- 控制体
+
+				|- 得到数据
+				|- cookie
+
+		封装http：请求。响应，cookie
+		|- urllib.request
+			|- 请求
+		|- urllib.response
+			|- 响应
+	
+	|- http: 
+			|- 实现http server
+			|- 实现请求（爬虫）
+			|- Cookies
+				|- 解析
+				|- 保存
+
+		封装http：请求，响应，cookie
+		|- http.server
+			|- 响应
+		|- http.client: 发起请求
+			|- 请求
+
+5. requests模块（第三方模块）
+	pip install requests
+		|- 实现请求
+			| - 跟踪cookie
+
+
+
+	异同：
+
+补充知识：
+	1. 文档结构
+		|- name
+		|- description
+		|- classes
+			|- 主要几个对外的类
+		|- functions
+			|- 主要几个对外的函数
+		|- data 
+
+
+
+
+
+作业；
+	1. 使用https请求拉勾的python的职位
+	2. 使用https下载腾讯的首页。拉勾网的首页
+	3. 完成翻译器
+	4. 查阅urllib，http，requets的帮助结构
+
+
+
+
+
+
+
