@@ -1,6 +1,5 @@
 # coding = utf-8
 import requests
-
 session = requests.Session()
 response = session.request(
     method='GET',

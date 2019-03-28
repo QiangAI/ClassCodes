@@ -14,6 +14,7 @@ def handle_int(signum, handler):
 # 绑定对ctrl+c信号的处理
 signal.signal(signalnum=signal.SIGINT, handler=handle_int)
 
+
 server_name = 'www.baidu.com'
 # 获取IP地址（这个过程不是必须的）
 list_info = socket.getaddrinfo(

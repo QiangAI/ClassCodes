@@ -13,7 +13,6 @@ def read_bytes(s, size):
         len_ -= len(buf)
     return buffer_
 
-
 """
 def wrap_socket(sock, keyfile=None, certfile=None,
                 server_side=False, cert_reqs=CERT_NONE,

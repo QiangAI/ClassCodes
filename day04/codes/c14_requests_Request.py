@@ -1,6 +1,5 @@
 # coding = utf-8
 import requests
-
 request = requests.Request(
     method='GET',
     url='http://www.baidu.com',

@@ -3,7 +3,6 @@ import requests
 import requests.adapters
 import requests.api
 
-
 class MyAdapter(requests.adapters.BaseAdapter):
     def send(self, request, stream=False, timeout=None, verify=True,
              cert=None, proxies=None):
@@ -15,7 +14,6 @@ class MyAdapter(requests.adapters.BaseAdapter):
 
     def close(self):
         print("close")
-
 
 request = requests.Request(
     method='GET',

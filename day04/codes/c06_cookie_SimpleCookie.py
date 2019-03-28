@@ -1,6 +1,7 @@
 # coding = utf-8
 import http.cookies
 
+
 cookies = http.cookies.BaseCookie('name=louis')
 print(cookies)
 print(type(cookies))

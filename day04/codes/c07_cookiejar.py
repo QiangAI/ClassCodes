@@ -14,3 +14,4 @@ cookie.extract_cookies(response, request)
 for item in cookie:
     # print(item)
     print(item.name, ':', item.value)
+

@@ -19,3 +19,4 @@ urllib.request.install_opener(opener)
 url = 'http://www.baidu.com'
 request = urllib.request.Request(url=url, method='GET')
 response = urllib.request.urlopen(url=request)
+
