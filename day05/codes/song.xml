@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song:body xmlns:song="http://www.example.org/athena"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.example.org/athena athena.xsd">
+    <song:id>12</song:id>
+    <song:name>song</song:name>
+    <song:birthday>2002-10-10T12:00:00-05:00</song:birthday>
+</song:body>

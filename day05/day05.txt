@@ -1,0 +1,257 @@
+0. s知识的顺序
+	|- 0.1 socket -(https:ssl)> HTTP
+		|- HTML
+		|- JSON(XMLHttpRequest:XHR)
+		|- XML
+
+
+		使用原生的socket爬取网页（http，https）：
+				XHR的：json
+				XML
+				图片
+	
+	|-  0.2 HTTP请求、服务器响应做了封装
+		|- 封装
+		|- HTTP的通用封装
+			|- 服务器：客户链接 http.server  http.client  http.cookies  http.cookiejar
+						|- 只有1-2个主类
+
+				|- urllib：更简洁的封装（只封装了客户的请求）	
+
+					|- requests		
+
+		选择：
+			http服务器：Apache、Django：http模块 / socket
+
+			web服务器访问工具：socket -> http(socket全部封装，头封装的不太好) -> urllib（头封装的很好，cookie没有实现自动跟踪），requests（封装cookie的自动跟踪）
+
+1. http模块
+	1.0. 状态码封装起来
+		http.HTTPStatus.OK
+		a. 响应码使用
+
+	1.1. http.server
+		使用http server实现 http服务器
+		|- 清楚模块几个类
+		|- 每个类的作用：
+			|- 望文生义：
+				HTTPServer
+					|- 怎么封装	
+						|- socket
+						|- bind
+						|- listen
+						|- accept
+						|- recv
+						|- send
+
+		怎么使用类：
+			1. 直接使用（入门）
+			创建对象
+				server = http.server.HTTPServer(
+				    ('', 22222),
+				    RequestHandlerClass=http.server.SimpleHTTPRequestHandler,
+				    bind_and_activate=True)
+			使用方法
+				server.handle_request()
+				server.serve_forever()
+
+			2. 继承使用
+				|- 定制Handler
+				|- 定制HTTPServer
+					|- 请求处理：process_request
+					|- 绑定
+					|- 监听
+					|- 关闭
+
+			境界：
+				|- 通过简单把流程跑通（利用API类实现）
+				|- 扩展的方式
+					|- 继承的方式实现定制
+
+				|- 看源代码
+					|- 明白使用方式
+						|- 发现很多成员变量
+							文档：包，类，成员函数，属性，类数据，函数	
+
+		练习：
+			写一个HTTPServer
+				|- 实现目录查看，文件打开
+
+
+
+作业：实现简易Web服务器
+		| - 提供服务器共享目录与文件管理
+		| - 提供服务器文件上传与下载
+
+
+	1.2. http.client
+		
+		|- HTTPConnection实现链接
+			| - HTTPSConnection
+
+		|- HTTP链接
+		|- HTTPS链接
+			|- 发送请求
+
+	1.3.  复杂一点的头数据：http.cookie
+		| -cookie
+			| - 请求的  Cookie：			
+			| - 响应的  Set-Cookie
+			Set-Cookie: 
+				|- BAIDUID=7B9D3DB4DD74402717FFCED0F94900C7:FG=1;  键=值
+				|- expires=Thu, 31-Dec-37 23:55:55 GMT;  cookie的生命周期
+				|- max-age=2147483647;                   生存的时间长度
+				|- path=/; 
+				|- domain=.baidu.com
+				|- secure
+			类封装
+
+		a.自己构造cookie
+			HTTP:cookie  < - > BaseCookie| SimpleCookie <-> 数据字典
+
+			使用字典构造cookie
+				|- 导出Request需要的Cookie头：
+						|- Cookie ->(字典)
+				|- 导出Reponse需要的Set-cookie
+						|- SetCookie
+
+
+		b. Cookie存放 ： http.cookiejar 保存
+			jar: archieve:归档：
+				|- cookie 钝化成文件（序列化）		
+
+2. urllib
+	|- 在http.client.HTTPConnection提供更加强大的客户封装。
+		|- request 发起请求
+		|- response  封装返回的响应
+
+	封装请求为一个函数：
+		Request   ---|  封装请求的数据
+        URLopener ---|----urlopen
+
+    |-使用类：
+    |-提供函数封装类的（常规的模式）
+
+    编程模式：
+    	直接调用urlopen完成请求
+    	得到响应：处理响应
+
+3. 应用：cookie保存
+	Response
+	Resquest
+	步骤：
+		3.1. 使用urlopen函数发起一个请求
+		3.2. 得到一个响应
+		3.3. CookieJar提供了一个功能从Request与Response抽取Cookie：CookieJar
+		
+				|- 保存LWPCookieJar
+
+
+4. 应用：加载cookie
+	LWPCookieJar.load()
+	编程步骤：
+		4.1. 构造的时候，直接指定构造器参数
+		4.2. 调用load（）
+
+5. urllib应用：
+	百度翻译：
+	urlopen发起请求的时候，怎么对请求做处理
+	5.1. socket
+	5.2. HTTPConnection(没有例子)
+		|- HTTPServer
+
+	5.3. urllib.openurl
+		编程步骤：
+			a. 使用openurl打开链接
+				|-  b.https
+				|-  c.headers
+				|-  d.请求体 
+					|- 直接天际
+					|- 处理器添加
+
+			e.读取解析HTTPResponse
+
+
+6. urllib的Handler的使用（了解）
+	6.1. 使用继承的方式，实现处理器BaseHandler
+			|- 覆盖的方法default_open(self,req)
+	6.2. 实现头的处理
+			|- 使用参数传递的Request添加头
+	6.3. 请求绑定
+			|- 构建UrlOpener（处理器）
+			|- 构建器安装
+
+		使用到的API：
+			|- BaseHandler
+				|- def default_open(self,req):
+			|- opener = urllib.request.build_opener(BaseHandler)	
+			|- urllib.request.install_opener(opener)
+
+---------------------------------
+
+7. requests：第三方框架
+	|- 封装HTTP客户端 
+		|- session的思想：
+				打开，响应。继续打开-> 浏览器不关闭（一次完整的访问：会话：Session）
+					|- 浏览器每次自动把上次的Cookie传递给服务器
+							jsession_id=sdsfsfsqrw
+
+					cookie关闭：url重写
+		最大特色：安按照session封装
+
+	7.1. 使用requests
+		a.创建Session对象
+		b.请求
+			|- url
+			|- method
+			|- headers
+			|- data
+			|- https(天生支持HTTPS)
+		c.响应：
+			|- 响应码
+			|- 响应头（Cookies）
+			|- 响应的数据
+
+		d. 定制请求
+			|- ？		 
+
+	7.2. 下载页面
+		编程步骤
+			：创建Session
+			：request
+				|- get
+				|- post
+			：得到响应？	
+				|- text
+				|- content
+				|- status_code
+				|- headers',
+				|-  'url', 
+				|- 'history', 
+				|- 'encoding'
+				|-'reason', 
+				|- 'cookies', 
+				|- 'elapsed', 
+				|- 'request']
+
+
+	7.3. 请求XHR
+
+
+8. ScraPy框架
+
+作业：
+
+	1. 使用HTTPConnection爬取百度翻译：sug
+	2. 使用urllib爬取百度翻译：sug
+	3. 使用resquests保存：boss直聘的页面
+
+下周五：验收微信程序
+
+
+
+
+
+
+
+

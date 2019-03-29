@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HH
+        PUBLIC '-//mybatis.org//DTD Config 3.0//EN'
+        'http://mybatis.org/dtd/mybatis-3-config.dtd'>
+<HH>
+    <myroot 属性="属性值">我是文本</myroot>
+</HH>

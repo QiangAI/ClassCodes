@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book category="Python">
+        <title lang="zh">网络爬虫开发</title>
+        <author>蜘蛛精</author>
+        <year>2018</year>
+        <price>66.50</price>
+        <publisher>清华大学出版社</publisher>
+    </book>
+    <book category="系统运维">
+        <title lang="zh">K8S运维指南r</title>
+        <author>马哥教育</author>
+        <year>2018</year>
+        <price>99.00</price>
+        <publisher>机械版社</publisher>
+    </book>
+    <book category="区块链">
+        <title lang="en">以太坊智能合约开发</title>
+        <author>钱多多</author>
+        <year>2019</year>
+        <price>88.95</price>
+        <publisher>邮电出版社</publisher>
+    </book>
+</books>

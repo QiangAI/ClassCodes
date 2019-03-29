@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<webpage>
+    <body>Hello world!</body>
+    <xi:include href="codes/footer.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+</webpage>
