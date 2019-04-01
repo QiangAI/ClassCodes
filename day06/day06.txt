@@ -1,0 +1,252 @@
+1. requests下载API
+
+2. xml的解析
+	xml.sax
+	xml.dom
+	xml.etree
+		|- xpath
+
+3. html的解析
+	bs4
+		|-xpath
+		|-selector
+	lxml
+
+4. re正则表达式
+
+
+5. base64,base32加密与解密
+
+
+6. 文件存储
+	csv文件
+
+
+1. requests
+	adapters
+    api    ： 
+    auth
+    certs
+    compat
+    cookies     ： 封装headers中的Cookie
+    exceptions  ： 封装异常结构
+    help
+    hooks
+    models		： 封装请求：封装响应
+    packages
+    sessions    ： 请求的核心模块Session：组合类：暴露给用户直接访问
+    status_codes： 响应的状态码
+    structures
+    utils
+
+    1.1. Session的使用 + PreparedRequest -> Response   
+    	|-  标准方式（对象）
+    	
+    		|- 构建对象
+    			|- 调用方法（模式：顺序）
+    					|  - 构造请求
+    					|  - 发起请求
+
+    				|- 快捷顺序封装
+    					|  - 发起请求
+    						Session.get
+
+    		|-  快捷方式（函数）
+    			|- 快捷的特例
+    				resuqests.api全局函数
+
+    	session：
+    		直接集成了Request的功能 |
+    		集成了PreparedRequest  |- Session.request()
+    		集成send的功能         |         |
+    		                               |- get /post /put /options/head/.... 
+    请求方式：
+    	Request + PreparedRequestuest + Session
+    	PreparedRequest + Session
+    	Session.request 
+    	Session.get ......
+    	request
+    	get....post
+
+
+
+
+    1.2.requests编程技巧
+    	|- 控制请求Adapter
+    			|- 请求前的预处理（统一规范）
+    				把一个前缀（url的前缀）与一个适配器（Adapter）绑定一起
+
+    			编程步骤
+    				实现适配器（继承实现）
+    					|- 产生对象
+    				使用mount函数挂载适配器
+                          
+
+    	|- 控制响应hooks：HOOKS = ['response']
+
+    			|- 钩子：回调（干预响应的结果）：请求与响应处理分隔
+    			hooks字典：
+    				目前只支持一个:response:函数	
+
+    		Request + PreparedRequest + Session + request 
+
+
+2. requests的应用
+	会话跟踪
+		|- 请求https://fanyi.baidu.com
+
+		|- 继续请求https://fanyi.baidu.com/sug
+
+		观察cookie
+			# request.cookies
+			response.cookies(每次请求的响应的cookie)
+			sesssion.cookies（保留所有的cookie）
+
+
+3. xml的处理  源（缓冲+文件） -  节点 （节点名 + 属性  = 文本）
+	<name id='00001'>Louis Young</name>
+	xml.sax (package)  : 事件模型：读（缓冲:字符串，字节流 + 文件），不能写。
+	xml.dom (package)
+    xml.etree (package)
+    xml.parsers (package)
+
+    3.1. 基本单元
+    	element：元素：节点（节点有很多类型：元素节点Element）
+    				|- 注释节点
+    				|- 文本节点
+    				|- 属性节点
+    				|- 数据节点
+    	element的语法：
+    		<元素名 属性名='属性值''>文本</元素名>
+    		<元素名 属性名='属性值''></元素名> = <元素名 属性名='属性值''/> 独节点。单节点
+
+    	xml规范：
+    		结构良好
+	    		节点有开始有结束
+	    		拼写区分大小写
+	    		空格是有意义的
+	    		属性必须带值
+	    		属性的值必须使用引号：双，单
+	    		每个节点嵌套，但是不能交错
+	    	文档结构：
+	    		xml头
+	    		只有一个根标记（根节点）
+
+	    手工写一个xml
+
+	    	合法
+	    		DTD(文档类型定义)  			： 非xml描述xml的节点|--- 定义节点的含义
+	    		XSD（XML Schema Defination）	： 使用xml描述xml   | 
+
+	    		xml描述树状数据结构
+
+	    	xml节点的定义，属性的定义：
+	    		|- 数据接口 ： xml，json数据格式
+	    	
+	爬虫爬取的json，xml，html格式，要取值就必须研究格式（私有）与公有的格式（DTD，XSD）。
+
+
+    任务：xml解析任务：（文件，网络缓冲）
+    	|- 找到节点
+    	|- 获取节点的值。
+
+    任务：创建xml：
+    		|- 缓冲
+    		|- 文件
+
+    xml.sax (package)  : 事件模型：读（缓冲:字符串，字节流 + 文件），不能写。
+	xml.dom (package)  : 读 | 写
+		|- 遍历
+    xml.etree (package)  ： etree：读写|xpath查找
+    
+    xml.parsers (package)：文件，缓冲的数据源的打开方式
+
+
+    lxml：
+
+
+4. SAX
+	：数据的封装模块   &nbsp;&emsp;
+
+	handler     
+		|- 文档开始
+		|- 元素开始（无前缀元素）
+		|- 文本
+		|- 元素结束（无前缀元素）
+		|- 文档结束
+	：文件的读取
+
+    xmlreader 
+    expatreader
+    	|- 数据源（文件 + feed）
+
+
+    编程基本模式：
+    	1. ExpatParser 读取数据，并解析
+    	2. 实现ContentHandler处理数据
+    	3. 绑定ExpatParser与ContentHandler
+
+
+    	qname = 命名空间:标记名
+
+5. DOM
+	DOM缓冲：利用SAX模型读取形成DOM
+	|- 读（处理）
+		|- 缓冲
+		|- 文件
+			|- 遍历
+	|- 写
+		|- 创建节点
+		|- 保存节点
+
+
+    	NodeFilter     ： 节点过滤：辅助功能
+    	domreg         ： dom的辅助处理
+    expatbuilder   ： DOM构建器（SAX直接返回树状结构）
+    				     |- 事件
+    				     |- 列表方式
+    	|- xmlbuilder    |- builder实现细节，被  expatbuilder调用
+    	|- minicompat   
+    	|- minidom       | - Node的实现
+    	|- pulldom       | - 事件节点处理的实现 
+
+
+    编程模型：
+    	|- 构建一个ExpatBuilder对象
+    	|- 调用parseFile parseString开始加载xml为Document Node
+    	|- 解析Document Node
+    		|- 没有好的算法：
+    			|- 从头到尾遍历
+    			childNodes ： 子节点  getElementByTagName
+    				| 循环
+    					childNodes
+
+
+    
+
+    	节点：
+    		节点名
+    		节点属性
+    		节点子节点
+
+
+   	编程模型：
+   		：创建Document
+   			Document
+   		：利用文档创建各种节点
+
+   		：形成节点的父子关系
+   		：保存文件
+
+
+作业：
+	
+		1. requests下载汉英翻译，解析出翻译结果与mp3文件名
+		2. 使用requests根据上体解析出来mp3，下载mp3，并解析出来。
+
+		3. 使用xml.dom生成一个xml文件
+
+
+
+
+
