@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<!DOCTYPE root SYSTEM "some.dtd">
+<books>
+    <book name="好书" no="0001">
+        <title>好书</title>
+    </book>
+</books>

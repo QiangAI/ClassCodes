@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<books id="0001" name="马哥书库">
+    <!--注释-->
+    <book no="0001">
+        <title>Python编程</title>
+        <author>赵德柱</author>
+        <year>2016</year>
+        <price>88.50</price>
+        <publisher>清华出版社</publisher>
+    </book>
+    <book no="0002">
+        <title>爬虫编程</title>
+        <author>黄金花</author>
+        <year>2018</year>
+        <price>100.00</price>
+        <test>
+            <title>XXXX</title>
+        </test>
+        <publisher>水电出版社</publisher>
+    </book>
+</books>
