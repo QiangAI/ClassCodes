@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+    <title>测试Q函数调用</title>
+    <meta charset="utf-8">
+</head>
+<body>
+<script src="p03_js_use_in_html.js"></script>
+<script>
+    /*
+    *  注意 "undefined" != typeof window && (new G).J(... 这段代码前的判定
+    *  "undefined" != typeof window 为false后面永远执行不到。
+    *  这个判定就是防止爬虫的手段，为false后面(new G).J(..影院执行不到，Q函数中的_encrypt就永远不存在
+    * */
+    var re = Q('abcdefgh')
+    document.write("<p style='color: red;'>" + re + "</p>")
+</script>
+</body>
+</html>

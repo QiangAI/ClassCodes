@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>dlg_login</class>
+    <widget class="QDialog" name="dlg_login">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>400</width>
+                <height>300</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Dialog</string>
+        </property>
+        <widget class="QLineEdit" name="edt_username">
+            <property name="geometry">
+                <rect>
+                    <x>60</x>
+                    <y>50</y>
+                    <width>291</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="placeholderText">
+                <string>手机或者邮箱</string>
+            </property>
+        </widget>
+        <widget class="QLineEdit" name="edt_password">
+            <property name="geometry">
+                <rect>
+                    <x>60</x>
+                    <y>110</y>
+                    <width>291</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="placeholderText">
+                <string>密码</string>
+            </property>
+        </widget>
+        <widget class="QLabel" name="lbl_captcha">
+            <property name="geometry">
+                <rect>
+                    <x>60</x>
+                    <y>170</y>
+                    <width>151</width>
+                    <height>51</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>加载校验码</string>
+            </property>
+            <property name="alignment">
+                <set>Qt::AlignCenter</set>
+            </property>
+        </widget>
+        <widget class="QLineEdit" name="edt_captcha">
+            <property name="geometry">
+                <rect>
+                    <x>220</x>
+                    <y>180</y>
+                    <width>131</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="placeholderText">
+                <string>校验码</string>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="btn_login">
+            <property name="geometry">
+                <rect>
+                    <x>140</x>
+                    <y>240</y>
+                    <width>111</width>
+                    <height>41</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>登录</string>
+            </property>
+        </widget>
+    </widget>
+    <resources/>
+    <connections>
+        <connection>
+            <sender>btn_login</sender>
+            <signal>clicked()</signal>
+            <receiver>dlg_login</receiver>
+            <slot>login()</slot>
+            <hints>
+                <hint type="sourcelabel">
+                    <x>195</x>
+                    <y>260</y>
+                </hint>
+                <hint type="destinationlabel">
+                    <x>199</x>
+                    <y>149</y>
+                </hint>
+            </hints>
+        </connection>
+    </connections>
+    <slots>
+        <slot>login()</slot>
+    </slots>
+</ui>
