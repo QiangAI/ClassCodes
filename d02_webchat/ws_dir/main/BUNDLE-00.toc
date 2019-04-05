@@ -1,1 +1,0 @@
-([('main', 'out_dir/main', 'EXECUTABLE')],)

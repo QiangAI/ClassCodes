@@ -6,7 +6,7 @@ from PyQt5.QtCore import *
 class WebChatHelper(QThread):
     sign_qr = pyqtSignal(bytes)
     sign_login_ok = pyqtSignal()
-    sign_coming_msg = pyqtSignal(str)
+    sign_coming_msg = pyqtSignal(str,str)
 
     def __init__(self):
         super().__init__()
@@ -14,10 +14,11 @@ class WebChatHelper(QThread):
     def run(self):
         print('开始登录')
 
-        @itchat.msg_register(msgType=itchat.content.TEXT, isGroupChat=True)
+        @itchat.msg_register(msgType=itchat.content.TEXT, isFriendChat=True)
         def recv_msg(msg):
+            print(msg)
             if msg['MsgType'] == 1:
-                self.sign_coming_msg.emit(msg['Content'])
+                self.sign_coming_msg.emit(msg['Content'], msg['FromUserName'])
 
         # 登录
         itchat.login(
@@ -36,7 +37,8 @@ class WebChatHelper(QThread):
 
     def get_friends(self):
         lst_user = []
-        friends = itchat.get_chatrooms()
+        # friends = itchat.get_chatrooms()
+        friends = itchat.get_friends()
         for friend_ in friends:
             user = {}
             user['NickName'] = friend_['NickName']
