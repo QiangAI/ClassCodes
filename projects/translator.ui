@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>Dialog</class>
+    <widget class="QDialog" name="Dialog">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>418</width>
+                <height>342</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Dialog</string>
+        </property>
+        <widget class="QScrollArea" name="scrollArea">
+            <property name="geometry">
+                <rect>
+                    <x>10</x>
+                    <y>130</y>
+                    <width>391</width>
+                    <height>191</height>
+                </rect>
+            </property>
+            <property name="widgetResizable">
+                <bool>true</bool>
+            </property>
+            <widget class="QWidget" name="scrollAreaWidgetContents">
+                <property name="geometry">
+                    <rect>
+                        <x>0</x>
+                        <y>0</y>
+                        <width>389</width>
+                        <height>189</height>
+                    </rect>
+                </property>
+                <widget class="QLabel" name="label">
+                    <property name="geometry">
+                        <rect>
+                            <x>10</x>
+                            <y>30</y>
+                            <width>57</width>
+                            <height>16</height>
+                        </rect>
+                    </property>
+                    <property name="text">
+                        <string>hello</string>
+                    </property>
+                </widget>
+            </widget>
+        </widget>
+        <widget class="QPushButton" name="pushButton">
+            <property name="geometry">
+                <rect>
+                    <x>160</x>
+                    <y>50</y>
+                    <width>111</width>
+                    <height>41</height>
+                </rect>
+            </property>
+            <property name="minimumSize">
+                <size>
+                    <width>0</width>
+                    <height>0</height>
+                </size>
+            </property>
+            <property name="sizeIncrement">
+                <size>
+                    <width>100</width>
+                    <height>100</height>
+                </size>
+            </property>
+            <property name="baseSize">
+                <size>
+                    <width>100</width>
+                    <height>100</height>
+                </size>
+            </property>
+            <property name="text">
+                <string>PushButton</string>
+            </property>
+        </widget>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>

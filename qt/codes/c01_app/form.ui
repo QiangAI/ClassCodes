@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>Form</class>
+    <widget class="QWidget" name="Form">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>400</width>
+                <height>300</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Form</string>
+        </property>
+        <widget class="QPushButton" name="btn_login">
+            <property name="geometry">
+                <rect>
+                    <x>60</x>
+                    <y>240</y>
+                    <width>120</width>
+                    <height>40</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>登录</string>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="btn_cancel">
+            <property name="geometry">
+                <rect>
+                    <x>220</x>
+                    <y>240</y>
+                    <width>120</width>
+                    <height>40</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>取消</string>
+            </property>
+        </widget>
+        <widget class="QFrame" name="frame">
+            <property name="geometry">
+                <rect>
+                    <x>30</x>
+                    <y>30</y>
+                    <width>341</width>
+                    <height>181</height>
+                </rect>
+            </property>
+            <property name="frameShape">
+                <enum>QFrame::Panel</enum>
+            </property>
+            <property name="frameShadow">
+                <enum>QFrame::Raised</enum>
+            </property>
+            <widget class="QLineEdit" name="txt_username">
+                <property name="geometry">
+                    <rect>
+                        <x>120</x>
+                        <y>30</y>
+                        <width>180</width>
+                        <height>30</height>
+                    </rect>
+                </property>
+            </widget>
+            <widget class="QLineEdit" name="txt_password">
+                <property name="geometry">
+                    <rect>
+                        <x>120</x>
+                        <y>80</y>
+                        <width>180</width>
+                        <height>30</height>
+                    </rect>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label">
+                <property name="geometry">
+                    <rect>
+                        <x>50</x>
+                        <y>30</y>
+                        <width>60</width>
+                        <height>30</height>
+                    </rect>
+                </property>
+                <property name="font">
+                    <font>
+                        <family>Hei</family>
+                        <pointsize>14</pointsize>
+                    </font>
+                </property>
+                <property name="text">
+                    <string>用户：</string>
+                </property>
+                <property name="alignment">
+                    <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label_2">
+                <property name="geometry">
+                    <rect>
+                        <x>50</x>
+                        <y>80</y>
+                        <width>60</width>
+                        <height>30</height>
+                    </rect>
+                </property>
+                <property name="font">
+                    <font>
+                        <family>Hei</family>
+                        <pointsize>14</pointsize>
+                    </font>
+                </property>
+                <property name="text">
+                    <string>口令：</string>
+                </property>
+                <property name="alignment">
+                    <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                </property>
+            </widget>
+        </widget>
+    </widget>
+    <resources/>
+    <connections>
+        <connection>
+            <sender>btn_login</sender>
+            <signal>clicked()</signal>
+            <receiver>Form</receiver>
+            <slot>login()</slot>
+            <hints>
+                <hint type="sourcelabel">
+                    <x>119</x>
+                    <y>259</y>
+                </hint>
+                <hint type="destinationlabel">
+                    <x>199</x>
+                    <y>149</y>
+                </hint>
+            </hints>
+        </connection>
+        <connection>
+            <sender>btn_cancel</sender>
+            <signal>clicked()</signal>
+            <receiver>Form</receiver>
+            <slot>reset()</slot>
+            <hints>
+                <hint type="sourcelabel">
+                    <x>279</x>
+                    <y>259</y>
+                </hint>
+                <hint type="destinationlabel">
+                    <x>199</x>
+                    <y>149</y>
+                </hint>
+            </hints>
+        </connection>
+    </connections>
+    <slots>
+        <slot>login()</slot>
+        <slot>reset()</slot>
+    </slots>
+</ui>
