@@ -1,0 +1,183 @@
+# 切换到超级数据库
+use admin
+
+# 创建一个超级管理员用户
+db.createUser({
+    user:'yq',
+    pwd:'12345678',
+    roles: [
+        {
+            role:'readWriteAnyDatabase',
+            db:'admin'
+        }
+    ]
+})
+
+# 创建业务数据库
+use tt
+
+# 删除数据库
+sb.dropDatabase()
+
+# 创建读写权限的用户
+
+db.createUser({
+    user:'qiang',
+    pwd:'12345678',
+    roles:[{role:'readWrite',db:'tt'}]
+})
+
+# 删除用户
+db.dropUser('qiang')
+
+
+
+# 创建集合
+db.createCollection(
+    'tt_course',
+    {
+        capped:true,
+        size:1024*10,
+        max:20000
+    }
+)
+
+# 删除集合
+db.tt_course.drop()
+
+
+# 查看用户，数据库，集合
+show dbs
+
+# 下面的条件：切换到某个数据库
+db
+show users
+show collections
+
+
+# 插入文档
+# db.集合名.insert(
+#    {
+#        字段：值,
+#        ....
+#    }
+#)
+
+use tt
+
+db.tt_course.insert(
+    {
+        'course_name':'Python开发',
+        'course_price':7280.00,
+        'course_org':'马哥',
+        'course_model':'随到随学'
+    }
+)
+
+db.tt_course.find()
+db.tt_course.find().pretty()
+
+db.tt_course.insert(
+    {
+        'course_name':'人工智能',
+        'course_price':8888.00,
+        'course_org':'马哥教育',
+        'course_model':'每周周末'
+    }
+)
+
+# 修改
+use tt
+
+db.tt_course.update(
+    {'course_name':{$eq:'人工智能'}},
+    {
+        'course_name':'人工智能',
+        'course_price':6666.00,
+        'course_org':'马哥教育',
+        'course_model':'每周周日'
+    }
+)
+
+
+db.tt_course.update(
+    {'course_name':'机器智能'},
+    {
+        'course_name':'机器智能',
+        'course_price':99.00,
+        'course_org':'马哥教育',
+        'course_model':'每周周日'
+    }
+)
+
+db.tt_course.update(
+    {'course_price':{$lt: 1000.00}},
+    {
+        'course_name':'机器智能',
+        'course_price':1000.00,
+        'course_org':'马哥教育',
+        'course_model':'每周周日'
+    }
+)
+
+
+# 查找
+use tt
+
+db.tt_course.find(
+    {
+        'course_name':'机器智能',
+        'course_price': {$gte:1000.00}
+    }
+).pretty()
+
+db.tt_course.find(
+    {
+        'course_name':'机器智能',
+        'course_price': {$gte:1000.00}
+    },
+    {
+        'course_name': 1,
+        'course_price': 1,
+        'course_org': 1
+    }
+).pretty()
+
+
+db.tt_course.find(
+    {
+        'course_name':'机器智能',
+        'course_price': {$gte:1000.00}
+    },
+    {
+        'course_org': 0
+    }
+).pretty()
+
+
+db.tt_course.find(
+    {
+        $and: [{'course_name':'机器智能'},{'course_price': {$gte:1000.00}}]
+    },
+    {
+        'course_org': 0
+    }
+).pretty()
+
+db.tt_course.find(
+    {
+        $or: [{'course_name':'机器智能'},{'course_price': {$gte:1000.00}}]
+    },
+    {
+        'course_org': 0
+    }
+).pretty()
+
+# 删除文档(如果集合capped=true，修改，删除不能改变大小)
+use tt
+
+db.tt_course.remove(
+    {
+        'course_price': {$eq:1000.00}
+    }
+)
