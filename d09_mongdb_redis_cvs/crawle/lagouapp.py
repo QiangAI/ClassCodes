@@ -1,3 +1,5 @@
+import time
+
 import crawle.lagoucrawler
 import crawle.mongostorage
 
@@ -28,10 +30,12 @@ class LagouApp:
             pages = job_count // 15
             pages += 1
         # 循环爬取每一页
-        for no in range(pages):
-            # 存储每一页
+        for no in range(1, pages):
             rows = self.__crawler.crawle_page(no, self.__job_name)
-            self.add_rows(rows)
+            print(rows)
+            # 存储每一页
+            self.__storage.add_rows(rows)
+            time.sleep(10)
 
         self.__crawler.close()
         self.__storage.close()
