@@ -51,31 +51,75 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="875983585">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/zhihu_request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="374">
+              <caret line="22" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
                 <marker date="1552632999000" expanded="true" signature="736:745" ph="..." />
-                <marker date="1552632999000" expanded="true" signature="1531:2482" ph="..." />
-                <marker date="1552632999000" expanded="true" signature="3999:4069" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/baidu_request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/baidu_request.py">
+        <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/tencent_item.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="42" lean-forward="true" selection-end-line="42" />
+            <state relative-caret-position="445">
+              <caret line="54" selection-start-line="54" selection-end-line="55" selection-end-column="40" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
+                <marker date="1555037653000" expanded="true" signature="339:348" ph="..." />
+                <marker date="1555037653000" expanded="true" signature="3454:3459" ph="..." />
+                <marker date="1555037653000" expanded="true" signature="3948:3950" ph="..." />
+                <marker date="1555037653000" expanded="true" signature="4091:4092" ph="..." />
+                <marker date="1555037653000" expanded="true" signature="4091:4096" ph="..." />
               </folding>
             </state>
           </provider>
@@ -84,7 +128,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adv_Spider/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
+            <state relative-caret-position="1870">
               <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
             </state>
           </provider>
@@ -112,10 +156,10 @@
         <option value="$PROJECT_DIR$/Adv_Spider/spiders/tencent_xpath.py" />
         <option value="$PROJECT_DIR$/Adv_Spider/spiders/tencent_css.py" />
         <option value="$PROJECT_DIR$/Adv_Spider/pipelines.py" />
-        <option value="$PROJECT_DIR$/Adv_Spider/spiders/tencent_item.py" />
         <option value="$PROJECT_DIR$/Adv_Spider/settings.py" />
         <option value="$PROJECT_DIR$/Adv_Spider/spiders/zhihu_request.py" />
         <option value="$PROJECT_DIR$/Adv_Spider/spiders/baidu_request.py" />
+        <option value="$PROJECT_DIR$/Adv_Spider/spiders/tencent_item.py" />
       </list>
     </option>
   </component>
@@ -135,6 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,7 +202,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +249,7 @@
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2253635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22859451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -428,21 +472,6 @@
     <entry file="file://$PROJECT_DIR$/p05_custom_atob.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/tencent_item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="93" column="16" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="16" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-            <marker date="1552552351000" expanded="true" signature="339:348" ph="..." />
-            <marker date="1552552351000" expanded="true" signature="3371:3376" ph="..." />
-            <marker date="1552552351000" expanded="true" signature="3865:3867" ph="..." />
-            <marker date="1552552351000" expanded="true" signature="4008:4009" ph="..." />
-            <marker date="1552552351000" expanded="true" signature="4008:4013" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Adv_Spider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -453,32 +482,45 @@
     <entry file="file://$PROJECT_DIR$/Adv_Spider/items.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Adv_Spider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/zhihu_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
             <marker date="1552632999000" expanded="true" signature="736:745" ph="..." />
-            <marker date="1552632999000" expanded="true" signature="1531:2482" ph="..." />
-            <marker date="1552632999000" expanded="true" signature="3999:4069" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adv_Spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/baidu_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="42" lean-forward="true" selection-end-line="42" />
+        <state relative-caret-position="226">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adv_Spider/spiders/tencent_item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="54" selection-start-line="54" selection-end-line="55" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1555037653000" expanded="true" signature="339:348" ph="..." />
+            <marker date="1555037653000" expanded="true" signature="3454:3459" ph="..." />
+            <marker date="1555037653000" expanded="true" signature="3948:3950" ph="..." />
+            <marker date="1555037653000" expanded="true" signature="4091:4092" ph="..." />
+            <marker date="1555037653000" expanded="true" signature="4091:4096" ph="..." />
           </folding>
         </state>
       </provider>

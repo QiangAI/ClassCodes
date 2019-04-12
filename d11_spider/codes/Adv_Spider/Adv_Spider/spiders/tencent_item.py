@@ -3,7 +3,6 @@ import scrapy
 import scrapy.loader
 import scrapy.loader.processors
 
-
 class TencentItemSpider(scrapy.Spider):
     name = 'tencent_item'
     my_name = 'data'
@@ -53,9 +52,12 @@ class TencentItemSpider(scrapy.Spider):
             embeded_loader.add_xpath('company_name', 'span/a/text()')
             embeded_loader.add_xpath('course_price', 'span[@class="line-cell item-price"]/text()')
 
+            # embeded_loader.add_css()
+            # embeded_loader.add_value()
+
             re = embeded_loader.get_xpath('span[@class="line-cell item-price"]/text()')
             # print(re)
-            # print(loader.load_item())
+            print(':', loader.load_item())
             yield loader.load_item()
 
 
@@ -105,6 +107,7 @@ class JobscrapyItem(scrapy.Item):
 #     # print(value)
 #     # 删除￥符号，转换为float类型
 #     return float(value[0][1:])
+
 
 
 def default_processor(self, value):
