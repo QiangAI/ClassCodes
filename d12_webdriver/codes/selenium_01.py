@@ -34,18 +34,23 @@ import selenium.webdriver.firefox.webdriver
 # print(profile.default_preferences)
 # print(profile.path)
 
+capbilities = {}
 
 profile = selenium.webdriver.firefox.webdriver.FirefoxProfile()
 profile.native_events_enabled = True
-firefox = selenium.webdriver.Firefox(firefox_profile=profile)
+firefox = selenium.webdriver.Firefox(firefox_profile=profile, desired_capabilities=capbilities)
 firefox.get('https://www.baidu.com')
 
-profile = firefox.firefox_profile
-print(type(profile), profile)
-print(profile.path)
-print(profile.accept_untrusted_certs)
-print(profile.encoded)
-print(profile.native_events_enabled)
-print(profile.profile_dir)
-print(profile.default_preferences)
-print(profile.path)
+# profile = firefox.firefox_profile
+# print(type(profile), profile)
+# print(profile.path)
+# print(profile.accept_untrusted_certs)
+# print(profile.encoded)
+# print(profile.native_events_enabled)
+# print(profile.profile_dir)
+# print(profile.default_preferences)
+# print(profile.path)
+
+caps = firefox.capabilities
+
+firefox.quit()
