@@ -59,6 +59,7 @@ class MainWidget(QWidget):
     def capture_video(self):
         status, img = self.dev.read()
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+
         # --------------------------
         # 扑捉人脸
         faces = self.classifier.detectMultiScale(img,
@@ -73,6 +74,7 @@ class MainWidget(QWidget):
                 os.makedirs('imgdir/')
             cv2.imwrite('imgdir/img_%02d.png' % self.n, img_face)
             self.n += 1
+
 
         # 图像处理
         img = emboss(img)
