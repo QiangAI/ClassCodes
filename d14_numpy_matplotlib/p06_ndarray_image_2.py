@@ -1,5 +1,6 @@
 # 显示图像
 import cv2
+import numpy as np
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 
@@ -33,6 +34,13 @@ class NDArrayWidget(QWidget):
     def handle_image_show(self):
         # 1. 转换成QImage
         img = self.img1
+        # 做一个内积运算（使用cv2.filter2D）
+        kernel = np.array([
+            [-1, -1, 0],
+            [-1, 6, -1],
+            [0, -1, -1]
+        ])
+        img = cv2.filter2D(img, -1, kernel=kernel, delta=150)
         q_img = QImage(
             img,
             img.shape[1],

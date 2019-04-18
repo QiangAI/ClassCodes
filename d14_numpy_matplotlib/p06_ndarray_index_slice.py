@@ -33,6 +33,9 @@ class NDArrayWidget(QWidget):
     def handle_image_show(self):
         # 1. 转换成QImage
         img = self.img1
+
+        img = img[::-1].copy()
+        print(img.dtype)
         q_img = QImage(
             img,
             img.shape[1],

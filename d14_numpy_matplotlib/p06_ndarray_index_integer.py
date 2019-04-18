@@ -33,6 +33,17 @@ class NDArrayWidget(QWidget):
     def handle_image_show(self):
         # 1. 转换成QImage
         img = self.img1
+        # 数组的运算
+        for h in range(img.shape[0]):  # 高度
+            for w in range(img.shape[1]):  # 宽度
+                # for d in range(img.shape[2]-1): # 图形深度
+                # img[h, w, 0] = 0
+                # img[h][w][0] = 0
+                a = img[h, w, 0] // 3 + img[h, w, 1] // 3 + img[h, w, 2] // 3
+                img[h, w, 0] = a
+                img[h, w, 1] = a
+                img[h, w, 2] = a
+
         q_img = QImage(
             img,
             img.shape[1],
