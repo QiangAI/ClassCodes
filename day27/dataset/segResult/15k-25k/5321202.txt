@@ -1,0 +1,16 @@
+Responsibilities 
+ ·   Create   and   maintain   data   dashboards   to   track   and   monitor   key   business   metrics   on   daily   basis .   Dig   out   abnormal   data   for   business   correction   or   optimization 
+ ·   Transform   data   into   insights   to   identify   business   opportunities   and   improve   business   performance   and   operational   efficiency .   Data   include   customer   data ,   transaction   data ,   traffic   data ,   etc . 
+ ·   Communicate   findings   and   their   implications   to   business   stakeholders 
+ ·   Contribute   to   company - wide   strategic   planning   and   financial   forecasting 
+ ·   Establish   common   methodologies   and   analytical   approaches   across   divisions   and   functions ,   to   ensure   consistency   in   the   use   of   data   and   best   practices   in   analytical   techniques 
+ ·   Take   part   of   company   project   to   provide   data   support   for   evaluation   and   recommendation 
+ ·   Support   ad - hoc   data   report   from   different   BU   and   convert   them   to   data   product   for   those   regular   need 
+   
+   Requirements 
+ ·   Degree   in   a   quantitative   field   ( statistics ,   math ,   computer   science ,   economics ,   finance ,   etc . ) ,   industry   experience   in   a   data   analytics   role 
+ ·   Understanding   and   experience   in   internet / ecommerce   data / analyst   business ,   travel / accommodation   industry   preferred 
+ ·   Advanced   knowledge   in   SQL ;   Experience   with   Python / R   a   plus 
+ ·   Experience   with   Google   Analytics   and   data   visualization   tools   such   as   Tableau   a   plus 
+ ·   Excellent   communication   skills ,   fluent   in   both   Chinese   and   English 
+ ·   Proven   ability   to   work   individually   and   within   a   team

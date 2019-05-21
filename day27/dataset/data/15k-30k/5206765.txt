@@ -1,0 +1,15 @@
+工作职责/Job Responsibilities:
+1. 为公司数据产品设计和维护Hadoop workflow/ETL
+2. 设计、实现或迁移data science 的算法（已有的论文，R或python语言）到Hadoop环境
+3. 作为大数据的顾问为全公司推荐合适的工具解决大数据问题
+4. 作为data platform team的成员，要和公司其他team协作，像Search/Map/Auto/Client
+5. 为公司内部的大数据技术需求提供解决方案
+
+职位要求/Requirement:   
+1. 计算机及相关专业毕业，本科或以上学历
+2. 2年以上分布式，高并发工作经验
+3. 精通Java或python（如果只有其他编程语言经验并愿意学习的也欢迎）
+4. 精通大数据技术(MapReduce, Hive, Spark, Kafka, Yarn, Storm)，理解Hadoop生态圈实时和离线批次处理的相关技术
+5. 熟悉AWS相关服务者优先，比如EMR，data pipeline等等
+6. 熟悉数据挖掘，机器学习，自然语言处理或相关技术者优先
+7. 有统计学知识者优先

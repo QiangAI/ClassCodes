@@ -1,0 +1,5 @@
+1.本科及以上学历，计算机相关专业，3年以上人工智能算法开发相关工作经验；
+2.熟悉深度学习算法 （如CNN,  RNN, LSTM, attention, seq2seq等） 
+或者经典机器学习算法（LR, GBDT, Boosting, LDA, Learning2rank等聚类, 分类,  推荐算法）； 
+3.熟悉Tensorflow、Caffe等开源工具；
+4.熟练掌握Python等编程语言 。

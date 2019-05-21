@@ -1,0 +1,8 @@
+任职资格
+1. Java基础扎实，3年以上Java使用经验：熟练掌握数据结构、多线程编程，掌握常用的设计模式；熟悉JVM，包括内存模型、类加载机制以及性能优化，熟悉J2EE开源框架，如spring/spring mvc,mybatis，熟悉Python、Shell；
+2. 深入了解高性能中间件Kafka, Netty, Redis,Protocal Buffer, docker和dubbo（或类似rpc框架）等； 
+3.  具有很强数据库设计经验和SQL优化功底；
+4.  具备良好的面向对象编程经验，深入理解OO、AOP思想，具有很强的分析设计能力，熟悉常用设计模式； 
+5.  具有Hadoop&Flink开发、HBase，Phoenix，Spark，ElasticSearch，Tensorflow等相关项目实践，有独立系统的架构设计经验优先。 
+6. 内核或系统层调优经验优先，熟悉linux，熟悉LINUX常用命令 
+7.  具备良好的沟通能力，工作积极认真，具有创新精神。

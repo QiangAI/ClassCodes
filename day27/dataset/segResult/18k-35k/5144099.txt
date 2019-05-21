@@ -1,0 +1,12 @@
+Responsibilities : 
+ -   Research   and   development   of   machine   learning   and   data   mining   algorithms   for   video   analytic   applications 
+ -   Research   and   development   of   video   and   image   enhancement   algorithms 
+ -   Handle   ad - hoc   assignment   provided   by   supervisor 
+ 
+ Requirements : 
+ -   Master   or   Ph . D .   in   Computer   Science ,   EE ,   or   related   discipline 
+ -   Strong   skill   in   C ,   C++ ,   Python   languages 
+ -   Familiar   with   deep   learning ,   and   OpenCV   is   preferred 
+ -   Experience   in   GPU   ( OpenCL   /   CUDA )   programming   is   an   advantage 
+ -   Good   command   in   both   spoken   and   written   English   and   Chinese   ( Cantonese   &   Mandarin ) 
+ -   Good   communication   skills ,   self - motivated ,   and   able   to   work   under   pressure

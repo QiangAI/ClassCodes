@@ -1,0 +1,12 @@
+Responsibilities:
+Build, maintain, and improve efficiency and reliable data mining and machine learning models.
+Work closely with researchers in designing and implementing and tuning machine learning models, and provide performance feedback of machine learning models.
+Work closely with data engineers to adapt and improve data pipelines for production models.
+Work closely with software engineers in putting models into production (interface, SLA, scalability)
+Qualifications
+Ms in Computer Science with 2+ years of industry experience or PhD with 1+ years of industry experience
+Expert in Python, and computation graph toolkits (e.g., Scikit-learn, Tensorflow). Solid experience with Python packages such as Numpy, Panda, and Scikit-learn.
+Expert/Master in common families of machine learning models, feature engineering, feature selection techniques, and tuning of machine learning models
+Master with SQL or other relational database.
+Master in building and productionizing end-to-end machine learning systems
+Knowledge and experience in cloud computing is a plus.

@@ -1,0 +1,4 @@
+任职资格：
+熟悉PHP语言，PHP代码优化，熟悉MySQL数据库设计与优化； 2.熟悉一到两种常用PHP框架（Laravel、CI、Zend Framework、ThinkPHP、Yaf等）； 3.有Web开发经验，掌握HTML（DIV+CSS）、Html5、JavaScript/AJAX、 Jquery等技术； 4.熟悉Linux/Nginx，掌握shell/awk/python等系统脚本工具，熟悉python优先 5.做事认真，责任心强，能够承担一定的工作压力，具有良好的沟通、团队合作意识和自我学习能力 
+工作职责：
+1. 参与产品中的开发设计工作；2. 负责产品web开发；

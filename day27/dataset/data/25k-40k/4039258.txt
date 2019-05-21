@@ -1,0 +1,38 @@
+目前的技术栈
+
+服务端
+Python, Django
+Graphene (GraphQL), REST, SSR
+MySQL, DynamoDB, Redis
+Docker, k8s
+
+前端
+ES-next, Babel
+React
+Redux, redux-thunk, apollo-client (for GraphQL)
+Bootstrap, Less
+
+任职要求:（必须）
+有技术热情
+很强的学习能力与独立思考能力
+
+其他要求：
+本科及以上计算机相关专业，2年以上互联网和移动互联开发经验，熟悉前后端开发
+熟练使用 JavaScript、Python 等计算机语言
+熟悉 React、Redux、Django 等等
+熟悉最新的 EcmaScript、http 协议、RESTful、GraphQL 等标准与设计规范
+熟悉 redis、mongodb，mysql 等存储组件的使用和基本原理
+熟悉 webpack、gulp 等打包、构建工具
+熟悉常用的算法思想，设计模式，解决问题能力强
+有一定的架构思想，对分布式计算、分布式存储的架构设计理念和动机有一定的关注和理解
+良好的沟通、交流能力
+能轻松的理解中英文技术文章
+对科技行业、和技术有热诚
+做事严谨，注重细节
+有一定的设计能力
+加分项：
+热衷投入开源社区
+英语交流能力
+iOS、安卓 app 开发经验
+php、Discuz 开发经验
+机器学习相关经验

@@ -1,0 +1,6 @@
+1、本科及以上学历，计算机相关专业，3年以上工作经验；
+2、熟练掌握Spring Cloud、Spring Boot、SSM、restful、XML、json、maven等Java开发框架；
+3、熟练掌握MySQL、Oracle等关系型数据库开发技术；
+4、熟练掌握Redis、Kafka等数据缓存等分布式处理技术；
+5、有Hbase、Hive、Spark等大数据开发经验以及Python开发经验者优先；
+6、参与过大型Java项目的开发与实施，具备较强的业务理解能力和沟通能力；

@@ -1,0 +1,27 @@
+机器学习算法科学家(用户画像方向) 
+
+岗位职责
+结合业务需求，设计适合业务的用户画像体系；
+基于海量用户行为和相关数据信息，构建和优化用户画像， 产出用户标签，用于提升推荐效果；
+负责搭建完整的用户画像挖掘系统，包括数据处理、挖掘用户画像、准确性评估等。
+ 
+任职要求
+具备扎实的数据结构、算法和开发能力，精通至少一种编程语言，如C/C++、Java、Python等；
+有Linux环境开发经验，熟练使用Hadoop、Hive、SQL、Spark进行数据处理和分析；
+熟练掌握常用的数据挖掘算法和机器学习算法，如深度神经网络,分类，聚类等算法；
+有丰富数据挖掘项目经验以及实际处理数据经验，对数据和业务有较强敏感性；
+有用户画像系统、DMP系统、知识库设计和开发相关经验者优先。
+ 
+Algorithm Scientist/Engineer -- Machine Learning, User Profiling
+
+Responsibilities
+Design user profiling architecture based on business requirements;
+Based on user behaviors data, create user profile and output user tags for optimizing recommendation performance;
+Design and build user profile system, including data processing, mining user profile, evaluation, etc.
+ 
+Requirements
+A solid knowledge of data structures and algorithms, proficiency in at least of one of C++/java/Python;
+Proficiency in Linux/Unix, ability to process and analyze data using Hadoop, Hive, SQL and Spark;
+Proficiency in classical data mining and machine learning algorithms, such as deep neural network, classification, clustering, etc.;
+Rich experience in data mining and data processing with strong business sense is a plus;
+Experience in user profile system, DMP or knowledge database is a plus.

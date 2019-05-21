@@ -1,0 +1,36 @@
+if   ( your . passions . include ( ' coding ' ) )   { 
+ switch ( your . role )   { 
+     case   ' coder ' : 
+     case   ' geek ' : 
+     case   ' nerd ' : 
+     case   ' gatekeeper _ of _ gatekeepers ' : 
+     case   ' red _ or _ blue _ pill ' : 
+         console . log ( ' 来 加入 我们   AfterShip   = ] ' ) ; 
+     break ; 
+     default : 
+ }     
+ } 
+ AfterShip . stacks   =   [ ' Python ' ,   ' Scala ' ,   ' TensorFlow ' ,   ' AWS   Kinesis ' ,   ' GCP   Cloud   Dataflow ' ,   ' BigData ' ] ; 
+   
+ 岗位职责 
+ •   负责 数据 进行 清洗 、 处理 、 分析 （ 每月 超过 15Y 条 实时 数据 反馈 ） ； 
+ •   确保 数据 质量 , 包括 正确性 , 一致性 , 完备 性 , 有效性 , 时效性 等 
+ •   负责 大 数据处理 分析 平台 搭建 ， 数据 产品 构建 ； 
+ •   负责 生成 BI 报告 以及 实时 生成 不同 纬度 的 报告 ； 
+ •   负责 大 数据系统 之   SLA   ,   代码 维护 、 迭代 更新 ， 保证 任务 质量 和 交付 及时性 ； 
+ •   负责 编写 相关 的 技术 文档 ； 
+ •   负责 编制 单元测试 ， 提高 系统 覆盖率 ， 敢于 对 产品质量 负责 ； 
+ •   负责 制定 技术标准 及 研究 新 技术 ， 有效 地 提高 工作效率 ； 
+ •   负责 系统 关键 模块 的 技术 攻关 ， 协助 解决 项目 中 的 难题 ； 
+ •   负责 根据 部门 战略目标 ， 制定 团队 的 工作 目标 ， 进行 团队 的 质量 管理 和 能力 建设 。 
+   
+ 岗位 要求 
+ •   统招 本科 及 以上学历 ， 计算机相关 专业 （ 985 / 211 院校 优先 ） ； 
+ •   1 年 以上 数据 平台 构建 经验 ； 
+ •   3 年 或 以上   Java 、 Scala 或 Python   开发 工作 经验 ； 
+ •   有   TensorFlow   或 其他 相关 机器 学习 使用 经验 ； 
+ •   深入 了解 大 数据 计算 平台 架构 和 产品 组件 原理 和 应用 场景 ， 如 Spark 、 Hadoop 、 Hive 、 HBase 、 AWS   Redshift 、 AWS   Kinesis 、 GCP   BigQuery 、 GCP   Cloud   Dataflow 等 ； 
+ •   有   NLP   等 使用 经验 ； 
+ •   熟悉   Git   /   Github ； 
+ •   熟悉 主流 测试方法 、 工具 ， 并 不断 结合 前沿技术 提升 整体 测试 效率 和 研发 质量 ； 
+ •   具备 英语 听 读写能力 ， CET6 或 以上 。

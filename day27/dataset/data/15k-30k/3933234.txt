@@ -1,0 +1,22 @@
+职位编号：0011
+工作内容如下：
+• Track the cutting-edge technical achievements
+前沿科技成果追踪
+• Build and optimize models to resolve practical problems
+为解决实际问题建立及优化模型
+• Research how the SLAM is applied into the domain of autonomous driving  and then turn it into a commerial product
+研究SLAM在无人驾驶领域的应用，并将其产品化
+• Research how to combine SLAM with other cutting-edge techniques
+探索SLAM技术与其他前沿领域的结合
+
+Requirements
+1. Have basic computer vision related background, familiarize with the frequently-used computer vision or image processing algorithms, understand the theory of machine learning
+计算机视觉相关背景，熟悉常用计算机视觉或图像处理算法，对其理论有较深的理解和认识
+2. Familiar with C / C ++, Python, Matlab and able to do programming in Linux
+熟悉C/C++、Python、Matlab；了解Linux下编程
+3. Master degree or above with major in mathematics, computer or related
+硕士及以上，数学或计算机相关专业
+4. Prefer to familiarize with open source SLAM (ORB, LSD, SVO etc.)
+熟悉常用开源SLAM（ORB、LSD、SVO等）框架加分
+5. Prefer to have experience in sensor fusion, such as GPS, IMU
+有传感器（GPS/IMU）融合经验加分

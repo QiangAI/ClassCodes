@@ -1,0 +1,9 @@
+职位描述：
+1. 分布式架构应用。
+2.分布式数据库应用。
+3. 精通分布式、大流量系统的设计与开发，具有丰富的架构设计经验，熟悉java、scala、python、nodejs等开发技术。
+4. 精通基于Spring boot、Spring Cloud的微服务架构。
+5. 熟悉redis、kafka、MariaDB、mongodb、hadoop、spark、ElasticSearch等大数据技术。
+6. 熟悉html5、bootstrip、jquery、vue、nodejs、fis等前端开发技术。
+7.熟悉docker、mesos、rancher等容器技术并有实际使用经验。
+8.相关工作8年以上。

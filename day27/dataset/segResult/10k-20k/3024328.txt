@@ -1,0 +1,1 @@
+1 : 熟练掌握 Python 语言 ， ５ 年 以上 Odoo / OpenERP 开发 经验 。 2 : 熟悉 常用 web 前端开发 技术 ， 包括 JavaScript , HTML / CSS   等 。 3 : 熟练掌握 Odoo 技术 框架 Tornado / Django / Flask / 。 4 : 有 良好 的 英语 沟通 和 读写能力 者 优先 考虑 。 5 : 熟练 使用 Linux 。 6 : 熟练 使用 GIT 管理 代码 。 ７ : 有 redis , mongodb 等 NOSQL 数据库 的 使用 经验 , 有 redis 或者 mongodb 集群 部署 经验 者 优先 。

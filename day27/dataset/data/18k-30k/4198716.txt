@@ -1,0 +1,19 @@
+岗位职责 ：
+负责京东广告大规模机器学习平台业务平台的后台研发工作。
+
+任职要求：
+扎实的Linux环境下Python/shell编程功底 
+有Python web框架（tornado/django/flask）、API Server开发经验
+Python性能调优经验（多线程、异步）
+熟悉TCP/IP，HTTP等网络协议，熟悉RESTful API设计
+熟悉MySQL、HBase、Redis等常用数据库的使用，开发与调优。
+
+
+
+加分项
+1）有2年及以上Python架构经验优先
+2）了解常见的机器学习框架，如Tensorflow/mxnet等。
+3）开源贡献者优先，对开源机器学习框架贡献者优先
+4）Github项目优秀者优先，技术博客者优先
+5）熟悉Golang编程优先
+6）熟悉docker/K8s优先

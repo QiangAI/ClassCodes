@@ -1,0 +1,8 @@
+负责 公司 产品 后 端 架构 与 开发 维护 
+ 具备 扎实 的 数据结构 和 算法 、 数据库 等 能力 
+ 熟悉 Python / Django ， 及 Scipy 、 Numpy 、 Pandas 、   Scrapy 等 相关 开发 
+ 有 写 单元测试 的 习惯 ， 熟悉 CI / CD 、 Git 
+ 基本 掌握   HTML / CSS / JavaScript   等   Web   前端 技能 
+ 有 钻研 精神 ， 对 新 技术 有 孜孜不倦 的 追求 
+ 富 责任感 、 善于 沟通 及 团队 协作 
+ 有 AI 、 大 数据 相关 开发 经验 者 优先

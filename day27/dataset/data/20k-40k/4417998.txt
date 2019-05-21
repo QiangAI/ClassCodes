@@ -1,0 +1,5 @@
+任职要求：
+1.熟悉C/C++，Python, Ruby, Go, Rust 一种或多种语言，熟悉Unix/Linux操作系统网络编程原理、Python 异步编程；
+2.至少熟悉一种Web开发技术栈，如Python/(Django, Aiohttp)，并能快速学习适应新的技术栈；
+3.熟悉关系型数据库的使用方法以及常见的优化方案, 使用过至少一种 NoSQL 数据库，包括但不限于 Redis、MongoDB；
+4.具备DevOps的能力(从编码到部署，全方位提升运维效率，完善持续集成和部署流程)，熟悉Shell脚本编程、Docker容器与容器管理(k8s)，有设计和维护高可用系统经验的优先。

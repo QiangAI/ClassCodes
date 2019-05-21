@@ -1,0 +1,4 @@
+任职 资格 ： 
+ 熟悉 PHP 语言 ， PHP 代码优化 ， 熟悉 MySQL 数据库 设计 与 优化 ；   2 . 熟悉 一到 两种 常用 PHP 框架 （ Laravel 、 CI 、 Zend   Framework 、 ThinkPHP 、 Yaf 等 ） ；   3 . 有 Web 开发 经验 ， 掌握 HTML （ DIV + CSS ） 、 Html5 、 JavaScript / AJAX 、   Jquery 等 技术 ；   4 . 熟悉 Linux / Nginx ， 掌握 shell / awk / python 等 系统 脚本 工具 ， 熟悉 python 优先   5 . 做事 认真 ， 责任心 强 ， 能够 承担 一定 的 工作 压力 ， 具有 良好 的 沟通 、 团队 合作 意识 和 自我 学习 能力   
+ 工作 职责 ： 
+ 1 .   参与 产品 中 的 开发 设计 工作 ； 2 .   负责 产品 web 开发 ；

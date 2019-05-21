@@ -1,0 +1,5 @@
+工作职责：
+1.负责云平台Web服务开发；
+2.负责云平台运维与监控
+任职要求：
+1.有Web开发经验，精通Django或Flask；2.对前端开发有一定了解，熟悉html、css、js；3.熟悉Linux操作；4.具备良好的业务理解与逻辑思维能力。加分项：1.熟悉OpenStack运维、监控、api调用；2.熟悉Zabbix、Naggios、OpenFalcon等监控系统；3.熟悉Docker、Kubernetes容器技术；4.对敏捷开发、DevOps有一定理解。

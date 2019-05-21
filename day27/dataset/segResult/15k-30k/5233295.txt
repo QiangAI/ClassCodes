@@ -1,0 +1,12 @@
+技术 要求 ： 
+ 一 、 懂 网络 
+       1 、 熟悉 路由器 配置 、 交换机 配置 ， 能 修改 路由器 策略 ， 划分 交换机 VLAN 
+       2 、 了解 DEVOPS ， 如 git 等 
+ 二 、 懂 OpenStack 
+       1 、 能 单独 一个 人 通过 Fuel 或者 puppet 、 ansible 快速 部署 OpenStack 集群 
+       2 、 对 OpenStack 架构 比较 熟悉 ， 熟悉 OpenStack 各个 组件 的 功能 和 特性 
+       3 、 熟悉 Bash / Python ， 掌握 Centos / Ubuntu 系统命令 
+       4 、 熟悉 KVM 虚拟化 技术 
+ 三 、 懂 ceph 
+       1 、 能 熟练 部署 ceph 集群 
+       2 、 熟悉 ceph 常用命令 以及 排错 方法

@@ -1,0 +1,48 @@
+岗位职责 
+ 负责 公司 产品 基础设施 、 服务器 、 中间件 、 应用 、 数据库 的 维护 
+ 维护 和 改进 持续 集成系统 
+ 维护 和 改进 监控 和 日志 管理系统 
+ 负责 系统 性能 调优 和 容量 规划 
+ 负责 系统 的 安全 检测 和 维护 
+ 持续 关注 新 技术 ， 并 能 将 相关 技术 落地 
+ 
+ 任职 要求 
+ 5   年 以上 DevOps   领域 工作 经验 
+ 精通 Linux   ( Ubuntu ) 操作系统 维护 
+ 有 数据库 服务器 ( Postgresql ) 高 可用 架构 ， 日常 维护 ， 性能 调优 相关 经验 
+ 熟悉 Nginx / Uwsgi / Redis   的 配置 和 维护 
+ 掌握 至少 一种 下列 脚本语言 -   Shell / Python / Groovy 
+ 优秀 的 英文 书写 和 沟通 能力 
+ 熟练掌握 如下 Devops   相关 工具 或 软件   – Jenkins / Ansible / Terraform / Github / Vagrant / NewRelic / Papertrail / ELK / Grafana 
+ 有 如下 项目管理 工具 或 软件 使用 经验 者 优先 -   Jira / Confluence 
+ 有 Python / Javascript   相关 开发 / 使用 经验 者 优先 
+ 有 相关 公有 云 系统 架构 经验 者 优先 。 如 Aliyun / AWS / Azure ， 熟悉 VPC ， 对象 存储 等 。 
+ 有 容器 相关 经验 者 优先 。 熟悉 Docker ,   k8s   等 
+ 开源 项目 贡献者 优先 。 
+ 
+ Key   Responsibilities : 
+ Maintaining   our   server   fleet   as   part   of   our   operations   team 
+ Keeping   our   customer   data   safe ,   secure   and   available 
+ Ensure   that   our   backend   infrastructure   stays   powerful   and   flexible 
+ Actively   propose   your   own   ideas   and   improvements 
+ Automate   everything 
+ System   monitoring ,   reliability   and   security 
+ System   scaling   and   provisioning 
+ CI ,   delivery   and   testing   systems 
+ Maintain ,   improve ,   and   document   cloud   infrastructure 
+ Investigate   deployment   issues 
+ Analyse   system   performance ,   detect   bottlenecks ,   propose   solutions 
+ 
+ Key   Qualifications ： 
+ 5 +   years   work   experience 
+ Experience   scaling   web   services 
+ PostgreSQL 
+ Automation   experience   ( Ansible ,   Jenkins ) 
+ Shell / Python   scripting 
+ Linux   admin   ( Ubuntu ) 
+ Performance   tuning   for   Linux   and   Database   servers 
+ Storage ,   backup   and   recovery   experience 
+ Cloud   ( AWS / Aliyun ) 
+ System   monitoring ,   measurement ,   logging 
+ Vagrant / Virtualbox / VMWare   experience 
+ Good   English   language   skills

@@ -1,0 +1,5 @@
+任职 要求 ： 
+ 1 . 熟悉 C / C++ ， Python ,   Ruby ,   Go ,   Rust   一种 或 多种语言 ， 熟悉 Unix / Linux 操作系统 网络 编程 原理 、 Python   异步 编程 ； 
+ 2 . 至少 熟悉 一种 Web 开发技术 栈 ， 如 Python / ( Django ,   Aiohttp ) ， 并 能 快速 学习 适应 新 的 技术 栈 ； 
+ 3 . 熟悉 关系 型 数据库 的 使用 方法 以及 常见 的 优化 方案 ,   使用 过 至少 一种   NoSQL   数据库 ， 包括 但 不 限于   Redis 、 MongoDB ； 
+ 4 . 具备 DevOps 的 能力 ( 从 编码 到 部署 ， 全方位 提升 运维 效率 ， 完善 持续 集成 和 部署 流程 ) ， 熟悉 Shell 脚本 编程 、 Docker 容器 与 容器 管理 ( k8s ) ， 有 设计 和 维护 高 可用 系统 经验 的 优先 。

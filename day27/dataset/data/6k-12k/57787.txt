@@ -1,0 +1,8 @@
+职责：
+易工作(http://easydo.cn)的开发和维护
+要求：
+熟悉一门python web框架
+成熟、良好的编码能力
+良好的学习能力、分析问题解决问题的能力
+有一定的系统设计和架构经验
+熟悉elasticsearch、redis、docker、oauth、ceph更佳

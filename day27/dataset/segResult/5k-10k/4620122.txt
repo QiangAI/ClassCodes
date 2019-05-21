@@ -1,0 +1,4 @@
+1.3 年 以上 Python 开发 经验 ， 熟悉 Python 主流 Django 框架 ， 了解 Tornado ， Flask 特点 ； 
+ 2 . 熟悉 Mysql ， 熟悉 Memcached ,   Redis 等 常见 的 NoSQL 数据 存储 者 优先 ；   
+ 3 . 有 良好 的 编码 习惯 ， 对 代码 和 设计 质量 有 严格要求 ， 重视 Code   Review   ； 
+ 4 . 具有 自我 驱动 、 创新 和 团队精神 ， 乐于 沟通 和 分享 ， 热爱 开源 ， 保持 开放 心态 。

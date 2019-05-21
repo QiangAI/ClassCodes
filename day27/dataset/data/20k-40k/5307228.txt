@@ -1,0 +1,15 @@
+后台开发工程师java/python
+工作职责：
+负责设计、开发和维护题库后台数据处理系统，确保开发质量和进度
+优化升级题库数据存储、处理和分发，保障高题库系统的高可用性
+开发和优化现有数据处理服务、推荐服务、图像识别服务等
+研究优化算法，提升在用算法的性能、准确率和召回率
+参与提升团队技术规范、CI/CD和敏捷开发建设
+
+任职要求：
+全日制本科及以上学历，计算机相关专业；
+有3年以上java/python开发经验，熟练Java，Python等语言，熟悉GNU/Linux，熟悉命令行操作；
+熟悉MySql/Hbase/MongoDB/Redis一种或多种数据库开发技术，有较好的数据库设计能力；
+熟悉dubbo/springboot/springmvc等技术栈
+熟悉常用开源软件（如Nginx、Jetty、ActiveMQ、Kafka、Redis，RabbitMQ, Memcached等）的优先；
+良好的编码风格和习惯，具备创造性解决问题的能力；

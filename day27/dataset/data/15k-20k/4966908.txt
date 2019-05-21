@@ -1,0 +1,35 @@
+Job Description:
+Support products to improve software international level with RD teams. And co-work with localization team to improve product localization efficiency. 
+Major daily works include:
+1.Design and create system/tools to improve software internalization level and localization efficiency.
+2.Analyze product international level, check product’s localizability status and give suggestions for improvement.
+3.Define and optimize processes for better software internalization and localization.
+4.Research latest industry localization solution like machine translation, translation process automation, localization big data analyze and bring them to localization team’s daily work .
+岗位职责:
+和产品开发组合作提高产品软件国际化水平。并与本地化团队合作，提高产品本地化效率。
+主要日常工作包括：
+1.设计和创建内部使用系统&工具，以帮助提高软件国际化水平和本地化效率.
+2.分析公司现有产品国际化水平和可本地化性并给出相应的建议.
+3.制定和优化相关流程使国际化和本地化变得更容易和高效.
+4.研究业界相关技术，包括机器翻译，翻译管理平台，Translation Memory发掘和分析，自然语言处理等。并把相应的解决方案引入公司内部.
+
+任职资格：
+Qualification:
+1.Technical education, preferably in Computer Science.
+2.Familiar with python or Java language and at least one Python or Java Web framework (like Django, Flask), have over 3 years related project experience.
+3.Familiar with common software UI resource files format(like Json ,PO, Properties, HTML, XML , etc..).
+4.Known with HTML/CSS/JavaScript/AJAX/NodeJS.
+5.Strong analytic skills and organizational skills.
+6.Knowledge of scripting languages (Like regular expression, Batch).
+7.Software international, Localization Engineering and software localization experience preferred.
+8.Experience in design and shipping international software or is a big plus.
+
+岗位要求：
+1.技术背景，最好是计算机科学相关专业.
+2.精通Python或Java语言并熟悉至少一种Python或Java相关的Web框架(比如Django, Flask等)，有超过三年的项目经验.
+3.熟悉常见的UI资源文件格式(比如Json, PO, Properties, HTML, XML , etc..).
+4.了解HTML/CSS/JavaScript/AJAX/NodeJS等相关前端开发语言.
+5.具有很强的分析复杂问题和解决复杂问题的能力，有强烈的责任心和使命感，良好的沟通表达能力和团队协作能力.
+6.具有一定的项目规划和决策能力，善于捕捉业务需求、架构设计中存在的问题，并给出有效的解决措施和方法.
+7.有大规模高并发web应用架构设计开发经验，数据库调优经验的优先.
+8.有自然语言处理、软件国际化、本地化行业背景经验的优先

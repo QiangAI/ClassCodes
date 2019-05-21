@@ -1,0 +1,14 @@
+职责 ： 
+ 后 端系统 的 开发 、 重构 和 维护 
+ 
+ 要求 ： 
+ 1 、 统招 本科 及 以上学历 
+ 2 、 3 年 以上 开发 经验 ， 2 年 以上 go 语言 开发 经验 
+ 3 、 熟悉 mysql 、 redis 、 mq 
+ 4 、 熟悉 linux 
+ 
+ 优先 和 加 分项 ： 
+ 1 、 有 c# 、 java 、 nodejs 、 python 一项 或 几项 的 开发 经验 
+ 2 、 熟悉 devops 
+ 3 、 有 阿里 云 、 aws 、 gcp 等 云 平台 等 经验 
+ 4 、 熟悉 docker 、 kubernetes

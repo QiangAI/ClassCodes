@@ -1,0 +1,25 @@
+计算机视觉算法科学家/工程师
+
+岗位职责
+计算机视觉算法的研发，包括但不限于：人脸识别、大规模图片分类、物体检测、跟踪、图像/视频语义分割、视频语义理解、SLAM、3D视觉等；
+计算机视觉前沿算法跟进与研发；
+计算机视觉算法在实际应用领域的性能优化。
+ 
+任职要求
+熟练掌握C/C++、Python等编程语言；
+熟悉OpenCV，以及图像处理基本方法；
+熟悉深度学习基础知识和经典网络模型，熟练使用至少一种深度学习工具，如Caffe、Mxnet、TensorFlow、PyTorch、PaddlePaddle等；
+具有较强算法实现能力，同方向项目经验，学术比赛经验以及发表过顶会论文者优先。
+ 
+Algorithm Scientist/Engineer -- Computer Vision
+
+Responsibilities
+Research, design, implement and optimize algorithms related to the broad problems of computer vision, including but not limited to face recognition, large-scale image classification, object detection, tracking, image / video semantic segmentation, video semantic understanding, SLAM, 3D vision, etc.;
+Track and produce the state-of-the-art research results;
+Optimize computer vision algorithms and apply to real applications.
+ 
+Requirements
+Proficiency in C / C++, Python;
+Familiar with OpenCV and basic algorithms of image processing;
+Familiar with deep learning and classical deep neural network models, proficient with at least one deep learning tool such as Caffe, Mxnet, TensorFlow, PyTorch, PaddlePaddle, etc.;
+Strong in computer vision algorithms. Publication in top-tier conferences or winning academic contest is a plus.

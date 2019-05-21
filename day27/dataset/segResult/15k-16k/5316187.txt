@@ -1,0 +1,10 @@
+职位 描述 ： 
+ 1 、 具有 统招 硕士 以上学历 ， 计算机 等 或 相关 专业 ； 
+ 2 、 要求 1 年 以上 python 项目 开发 经验 ， 精通 Python 语言 ， 熟悉 语音 audio 、 socket 网络 编程 等 ； 
+ 3 、 熟悉 基于 Python 的 Web 开发技术 ， 熟悉 Flask 、 Django 、 Tornado 等 常见 架构 至少 一种 ； 
+ 4 、 熟悉 H5 、 CSS 、 Javascript 等 前端 技术 者 优先 ； 
+ 5 、 熟悉 PostgreSQL ， 熟悉 MySql / MongoDB / Redis / Memcache 等 优先 ； 
+ 任职 要求 ： 
+ 1 、 计算机相关 专业 硕士 及 以上学历 ， 软件设计 与 开发 经验 实习 经验 ； 
+ 2 、 掌握 Java 、 Python 等 编程语言 ， 熟悉 网页 抓取 原理 及 技术 、 正则表达式 、 xpath ， 能够 总结 分析 不同 网站 的 结构 特点 与 规律 ， 能够 从 结构化 和 非 结构化 的 数据 中 获取信息 ； 
+ 3 、 有 分布式 爬虫 架构 经验 者 优先 ；

@@ -1,0 +1,1 @@
+岗位职责 ： 负责 项目 中 相关 python / django   API 的 运 维和 开发 技能 需求 ： 1 、 熟悉 python 编程 和 django 框架 ； 2 、 熟悉 rest   framework   api 的 应用 , 熟悉 django - rq 、 supervisor 、 virtualenv 的 使用 ； 3 、 熟悉 mysql 和 redis 的 应用 ； 4 、 熟悉 Linux 常用 操作命令 和 shell 编程 ； 5 、 有 django 项目 经验 的 并 懂得 一些 前端开发 ， 如 HTML / CSS / Javascript 的 优先 考虑 。

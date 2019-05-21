@@ -1,0 +1,6 @@
+1. 本科及以上学历,计算机或相关专业毕业；
+2. 优秀的Python编程基础，至少一年以上Python开发经验。
+3. 熟悉Django或其它Python web框架开发经验。
+4. 熟悉 Linux 操作系统，熟悉常用linux命令。
+5. 熟悉Go语言，有kubernetes使用经验优先。
+6. 英语良好。

@@ -1,0 +1,15 @@
+岗位职责：
+1. 负责美好的店电商后台开发；
+2. 负责知识产品后台开发。
+岗位要求：
+1. 1年以上实际Python项目开发实施工作经验；
+2. 熟悉python web开发框架如Flask及其扩展；
+3. 熟悉MySQL, MongoDB。熟练使用mongokit；
+4. 熟悉redis，rabbitmq。熟练使用celery；
+5. 了解前端HTML，javascript；
+6. 能够独立涉及restful api，熟悉connextion；
+7. 重视代码质量，有良好的编码习惯，能做到pythonic。能独立完成测试。
+加分项:
+- 有个人github地址
+- 熟悉微服务及其调试流程
+- 独立部署上线项目

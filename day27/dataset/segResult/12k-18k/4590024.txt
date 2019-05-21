@@ -1,0 +1,11 @@
+职责 ： 
+ 负责 项目 后台 管理系统 开发 
+ 负责 Web 后台 组件 的 开发 
+ 
+ 要求 ： 
+ 熟悉 python 语言 ， 至少 熟悉 Django 、 Flask 一种 应用 框架 
+ 熟悉 JavaScript 、 HTML5 语言 ， 至少 熟悉 AngularJS 、 VueJS 一种 框架 
+ 有 强烈 的 责任心 和 良好 的 团队 配合 能力 
+ 
+ 技术 栈 ： 
+ python2.7 、 Docker 、 Gevent 、 Django 、 Flask 、 Sqlalchemy 、 Redis 、 MySQL 、 JavaScript 、 HTML5 、 VueJS 、 AngularJS 、 Webpack 、 Centos

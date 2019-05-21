@@ -1,0 +1,9 @@
+技能 要求 
+ 1 .   熟悉 C / C++ ， C# ; 
+ 2 .   熟悉 Windows   API ; 
+ 3 .   熟悉 VS 开发工具 ; 
+ 4 .   熟练 使用 GIT 等 代码 管理工具 ; 
+ 5 .   熟练 使用 Socket   API 编写 网络 程序 ; 
+ 6 .   熟练 使用 STL 或 ATL ; 
+ 7 .   熟练 编写 DLL 和 Lib 库 ; 
+ 8 .   熟练 使用 python 或 powershell 。

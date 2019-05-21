@@ -1,0 +1,14 @@
+职责：
+后端系统的开发、重构和维护
+
+要求：
+1、统招本科及以上学历
+2、3年以上开发经验，2年以上go语言开发经验
+3、熟悉mysql、redis、mq
+4、熟悉linux
+
+优先和加分项：
+1、有c#、java、nodejs、python一项或几项的开发经验
+2、熟悉devops
+3、有阿里云、aws、gcp等云平台等经验
+4、熟悉docker、kubernetes

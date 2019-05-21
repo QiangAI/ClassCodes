@@ -1,0 +1,10 @@
+1.计算机专业毕业或有网络/系统/数据库/算法原理基础,对视频领域的AI及大数据处理感兴趣
+2.熟练操作Linux操作系统,CentOS和Ubuntu主流版本
+3.熟练使用Shell,Python脚本语言,Python常用模块操作及Flask框架,了解Celery
+4.熟悉TCP/HTTP等常见通信协议,可无障碍查询RFC文档
+5.熟练使用Nginx/uWSGI/Supervisor等工具
+6.熟练操作MySQL/Redis/MongoDB,有设计和开发能力
+7.能独立构建并维护GitLab+Docker+Kubernetes环境
+8.了解前端技术
+9.熟练操作阿里公有云环境
+10.了解微服务架构

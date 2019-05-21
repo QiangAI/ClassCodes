@@ -1,0 +1,15 @@
+职责 
+ 负责 公司 产品 微 服务 组件 的 开发 
+ 对接口 编写 自动化 测试用例 
+ 
+ 要求 
+ 
+ 很强 的 自学能力 
+ 熟练掌握 python 语言 
+ 快速 学习 和 解决问题 的 能力 
+ 至少 看过 一种 python 框架 的 源码 
+ 理解 操作系统 原理 和 网络通讯 协议 
+ 强烈 的 责任感 ， 能够 抵抗 工作 压力 
+ 
+ python 实习生 技术 栈 ： 
+ python2.7 、 Docker 、 Gevent 、 Django 、 Flask 、 Sqlalchemy 、 Redis 和 MySQL

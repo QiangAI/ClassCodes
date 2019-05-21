@@ -1,0 +1,14 @@
+职位要求
+1、能熟练使用至少一门后端开发语言，如Go/Node.js/Python/Ruby/Java/PHP等，熟悉Go、Python或Node.js者优先；
+2、掌握Linux操作系统的基本使用。掌握 shell 脚本编程优先。掌握 Python/Ruby 系统管理脚本编写、掌握Linux系统管理维护者优先；
+3、有数据库操作经验，能熟练操作的基础的数据库命令；
+4、掌握VSCode、Atom、IntelliJ IDEA等一种或多种开发工具，熟悉vim/emacs者优先；
+5、能掌握HTTP、HTTPS协议规范，熟悉RESTful接口开发者优先；
+6、了解网络通讯编程，掌握gRPC者优先；
+7、有项目经验者优先；
+8、提供Github账号、技术blog链接优先；
+
+ 
+职位概述
+1、负责产品服务端Linux应用程序的研发与维护；
+2、后端SVC层应用程序开发。

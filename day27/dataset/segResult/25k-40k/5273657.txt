@@ -1,0 +1,1 @@
+2 年 以上 大型 、 复杂   Django   项目 架构师 或 资深 开发人员 经验 （ 至少 5 百万 用户 ） 深入 掌握   Django ,   Python   3 ,   Celery ,   SQL 熟悉 持续 部署 、 Git 加 分项 Stripe   API 、 在线 支付 服务 使用 AWS 等 云 服务 经验 RedisRabbitMQElasticsearch 部署 、 监控 、 调试 分布式系统

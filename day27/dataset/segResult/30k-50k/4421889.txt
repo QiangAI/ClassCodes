@@ -1,0 +1,8 @@
+- 5 年 以上 大 数据 开发 经验 ； 
+ - 熟悉   linux   环境 ， 优秀 的 JAVA ,   Python   编程 能力 ， 有 扎实 的 算法 功底   ； 
+ - 对大 数据 生态圈 有 深入 的 了解 ， 具备 Hadoop 、 Hive 、 Hbase 、 Pig 、 Storm 、 Spark 、 Kylin 等 项目 的 开发 经验 ， 能够 根据 数据 及 业务 需求 构建 大 数据 平台 ， 并 随着 需求 和 技术 的 进步 ， 不断 演进 ； 
+ - 对 以下 的 函数库 有 一定 的 经验 ： NumPy ,   Pandas ,   scikit - learn ,   Keras ,   TensorFlow ,   nltk ,   PySpark ,   matplotlib ,   Seaborn ,   Bokeh ,   Jupyter . 
+ - 对于 以下 的 领域 有 一定 的 理解 和 经验 ：   Time   series   analysis   and   forecasting ,   image   recognition ,   NLP ,   neural   networks   and   deep   learning   ( CNNs ,   RNNs ) ,   classification ,   regression ,   dimensionality   reduction ,   visualisation ,   change   detection ,   hypothesis   testing ,   Bayesian   statistics . 
+ -   数学 功底 扎实 ， 熟悉 数据挖掘 和 机器 学习 领域 常用 算法 ,   具有 良好 的 逻辑思维 能力 ， 对 机器 学习 算法 优化 理论 有 一定 了解 ； 
+ -   英文 口语 流利 ； 
+ -   硕士 学历 以上 、 有 数据挖掘 ， 深度 学习 研究 ， 自然语言 处理 和 图像 分类 经验 者 优先 ；

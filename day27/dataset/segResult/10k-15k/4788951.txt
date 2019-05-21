@@ -1,0 +1,7 @@
+运营 数据系统 web 服务 的 开发 和 维护 
+ 全日制 计算机相关 专业本科 或 以上学历 ； 
+ 2 年 以上 互联网 / Python 软件 行业 工作 经验 ； 
+ 精通 Linux / mysql / apache / nodejs 等 相关 技术 ， 具备 web 服务 建站 的 实战经验 ； 
+ 熟悉 HTML / CSS / JavaScript 相关 知识 ； 
+ 对 微信 开发 生态 熟悉 者 优先 ， 包括 公众 号 、 小 程序 等 ； 
+ 对 数据分析 BI 熟悉 者 优先 ， 包括 python ， tableau 等 ；

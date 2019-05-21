@@ -1,0 +1,7 @@
+1.  国内统招本科，计算机相关专业本科及以上学历；
+2.  3年以上java开发经验，能够独立完成开发任务；
+3.  精通Java语言，熟悉java集合、io、多线程等，了解jvm，掌握Spring 、SpringMVC、Spring Boot、MyBatis、Dubbo等常用框架和设计，熟悉使用Redis、Mq、ZooKeeper等开源工具；
+4.  掌握一定的前端技术如Javascript、Jquery、HTML、CCS，熟练流行的前端框架；
+5.  熟悉主流关系型数据库，如Oracle、mysql，能够熟练编写SQL；
+6.  全面、扎实的软件知识结构，了解软件工程、设计模式、数据结构、算法、数据库等专业知识，了解分布式系统开发设计、高可用架构等知识；
+7.  了解Linux系统常用命令、了解Python、Shell等脚本语言。

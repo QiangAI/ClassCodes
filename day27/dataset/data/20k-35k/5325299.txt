@@ -1,0 +1,1 @@
+1. 熟悉Python开发语言及周边开源项目。2. 大型 Web 应用系统设计与开发经验。3. 对数据结构和算法设计有深刻的理解。4. 对分布式系统有深刻的理解。5. 对计算机网络知识有深刻的理解。6. 了解主流云服务框架，例如 openstack/kubernetes/mesos等。7. 了解数据库技术，例如 mysql/postgresql/mongodb/redis/cassandra/elasticsearch等。加分项1. 有openstack、docker相关云计算工作背景；2. 对新技术敏感，爱折腾；3. 沟通能力强；

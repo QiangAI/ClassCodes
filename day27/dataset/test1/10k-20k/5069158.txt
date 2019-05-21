@@ -1,0 +1,8 @@
+负责创新技术的引入、开发、升级和维护，主要涉及后台系统的PAFA封装和数据接入，如：
+1、三年以上java开发经验，javaee基础良好；
+2、熟悉oracle，redis、mongodb；
+3、熟悉springredisibatics等框架；
+4、熟悉java分布式系统开发，了解dubbo等；
+5、熟悉linux；
+6、有金融系统经验优先，思维严禁
+7、有C++/Python开发经验更佳

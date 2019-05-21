@@ -1,0 +1,5 @@
+1、3年以上python开发经验，熟悉django，tornado，flask等框架
+2、熟悉linux操作系统，会使用基本的系统命令
+3、熟悉自动化工具，如saltstack
+4、熟悉Bootstrap框架进行页面布局
+5、能熟练使用jquery进行页面交互设计，如ajax

@@ -1,0 +1,14 @@
+职位 要求 
+ 1 、 能 熟练 使用 至少 一门 后 端 开发 语言 ， 如 Go / Node . js / Python / Ruby / Java / PHP 等 ， 熟悉 Go 、 Python 或 Node . js 者 优先 ； 
+ 2 、 掌握 Linux 操作系统 的 基本 使用 。 掌握   shell   脚本 编程 优先 。 掌握   Python / Ruby   系统管理 脚本 编写 、 掌握 Linux 系统管理 维护者 优先 ； 
+ 3 、 有 数据库 操作 经验 ， 能 熟练 操作 的 基础 的 数据库 命令 ； 
+ 4 、 掌握 VSCode 、 Atom 、 IntelliJ   IDEA 等 一种 或 多种 开发工具 ， 熟悉 vim / emacs 者 优先 ； 
+ 5 、 能 掌握 HTTP 、 HTTPS 协议 规范 ， 熟悉 RESTful 接口 开发者 优先 ； 
+ 6 、 了解 网络通讯 编程 ， 掌握 gRPC 者 优先 ； 
+ 7 、 有 项目 经验 者 优先 ； 
+ 8 、 提供 Github 账号 、 技术 blog 链接 优先 ； 
+ 
+   
+ 职位 概述 
+ 1 、 负责 产品 服务端 Linux 应用程序 的 研发 与 维护 ； 
+ 2 、 后端 SVC 层 应用 程序开发 。

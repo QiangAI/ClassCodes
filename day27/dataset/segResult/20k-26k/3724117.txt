@@ -1,0 +1,9 @@
+职位 描述 ： 
+ 1 .   分布式 架构 应用 。 
+ 2 . 分布式 数据库 应用 。 
+ 3 .   精通 分布式 、 大 流量 系统 的 设计 与 开发 ， 具有 丰富 的 架构设计 经验 ， 熟悉 java 、 scala 、 python 、 nodejs 等 开发技术 。 
+ 4 .   精通 基于 Spring   boot 、 Spring   Cloud 的 微 服务 架构 。 
+ 5 .   熟悉 redis 、 kafka 、 MariaDB 、 mongodb 、 hadoop 、 spark 、 ElasticSearch 等 大 数据 技术 。 
+ 6 .   熟悉 html5 、 bootstrip 、 jquery 、 vue 、 nodejs 、 fis 等 前端开发 技术 。 
+ 7 . 熟悉 docker 、 mesos 、 rancher 等 容器 技术 并 有 实际 使用 经验 。 
+ 8 . 相关 工作 8 年 以上 。

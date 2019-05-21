@@ -1,0 +1,36 @@
+if (your.passions.include('coding')) {
+switch(your.role) {
+  case 'coder':
+  case 'geek':
+  case 'nerd':
+  case 'gatekeeper_of_gatekeepers':
+  case 'red_or_blue_pill':
+    console.log('来加入我们 AfterShip =]');
+  break;
+  default:
+}  
+}
+AfterShip.stacks = ['Python', 'Scala', 'TensorFlow', 'AWS Kinesis', 'GCP Cloud Dataflow', 'BigData'];
+ 
+岗位职责
+• 负责数据进行清洗、处理、分析（每月超过15Y条实时数据反馈）；
+• 确保数据质量,包括正确性,一致性,完备性,有效性,时效性等
+• 负责大数据处理分析平台搭建，数据产品构建；
+• 负责生成BI报告以及实时生成不同纬度的报告；
+• 负责大数据系统之 SLA , 代码维护、迭代更新，保证任务质量和交付及时性；
+• 负责编写相关的技术文档；
+• 负责编制单元测试，提高系统覆盖率，敢于对产品质量负责；
+• 负责制定技术标准及研究新技术，有效地提高工作效率；
+• 负责系统关键模块的技术攻关，协助解决项目中的难题；
+• 负责根据部门战略目标，制定团队的工作目标，进行团队的质量管理和能力建设。
+ 
+岗位要求
+• 统招本科及以上学历，计算机相关专业（985/211院校优先）；
+• 1年以上数据平台构建经验；
+• 3年或以上 Java、Scala或Python 开发工作经验；
+• 有 TensorFlow 或其他相关机器学习使用经验；
+• 深入了解大数据计算平台架构和产品组件原理和应用场景，如Spark、Hadoop、Hive、HBase、AWS Redshift、AWS Kinesis、GCP BigQuery、GCP Cloud Dataflow等；
+• 有 NLP 等使用经验；
+• 熟悉 Git / Github；
+• 熟悉主流测试方法、工具，并不断结合前沿技术提升整体测试效率和研发质量；
+• 具备英语听读写能力，CET6或以上。

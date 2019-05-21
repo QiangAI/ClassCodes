@@ -1,0 +1,1 @@
+1 、 具有 1 年 及 以上 开发 工作 经验 ；   2 、 熟悉 golang 语言 编程 ， 掌握 socket 、 HTTP 等 相关 技术 ； 3 、 熟悉 MySql 、 Redis 、 MongoDB 、 Hbase 等 数据库 编程 ；   4 、 熟悉 Linux 基本 配置 和 管理 ；     5 、 熟悉 C / C++ , PHP ， Python 优先

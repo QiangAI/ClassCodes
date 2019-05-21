@@ -1,0 +1,7 @@
+岗位职责 ： 负责 云端 互联网 后台 基础 平台 设计 开发 ； 
+ 岗位 要求 ： 
+ 1 、 本科 及 以上学历 ， 3 年 以上 基础 平台 、 大 数据 、 共性 组件 领域 研发 经验 ， 满足 三项 中 的 一项 即可 
+ 2 、 熟悉 容器 平台 开发 或者 大 数据管理 工具 平台 开发 ， 有 docker 、 kubernetes 、 cdh 、 ambari 相关 开发 经验 更佳 
+ 3 、 了解 Elasticsearch 、 MongoDB 、 Hadoop 、 Hbase 、 Hive 、 hdfs 原理 及 使用 
+ 4 、 熟悉 并 掌握 一门 或多门 语言 （ Python 、 Java 、 PHP 、 Go 、 C & C++ 、 shell ） 的 使用 ， 有 Python 、 GO 经验 优先 
+ 5 、 了解 日志 系统 、 监控 告警 系统 、 自动化 技术 平台 ， 有 相关 开发 经验 优先

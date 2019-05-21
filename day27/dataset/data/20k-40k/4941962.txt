@@ -1,0 +1,13 @@
+主要工作职责：
+－蔚来汽车软件运维团队对服务稳定性和用户体验负责，主要围绕四个方向进行卓有成效的工作：
+－高质高效的的应用交付/变更、用技术手段提升并落地运维自动化、提高系统的稳定性指标、推动产品线架构优化。
+-负责蔚来汽车的日常运维工作，提高自动化运维水平、故障响应能力、优化资源使用效率；
+-参与运维支撑平台的建设、运维相关新技术的研究，从提升开发效率、降低运维人力成本出发，设计并搭建运维平台；
+岗位要求:
+1、熟悉Linux操作系统以及网络原理、HTTP协议以及常用RPC协议;
+2、精通python编程，至少熟悉1种常见WEB框架tornado,flask,django等
+3、掌握以下两种以上编程语言bash/php/perl/ruby/nodeJS/golang/java/c等;
+4、至少熟练使用一种JS框架，jquery,angular,react,vue优先
+5、熟悉各种开源软件Nginx/MySQL/Redis/Kafka等;
+6、熟悉golang, java ,scala ,spark,promethues,influxDB,Docker、Kubernetes者优先
+7、在开源社群活跃并有积极贡献者优先

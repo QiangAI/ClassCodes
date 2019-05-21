@@ -1,0 +1,4 @@
+1 、 熟悉 nginx 配置 ； 
+ 2 、 有 docker 使用 经验 ； 
+ 3 、 对 tomcat 等 java 容器 有 使用 经验 ； 
+ 4 、 python 或者 shell 编程 能力 。

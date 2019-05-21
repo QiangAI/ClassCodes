@@ -1,0 +1,11 @@
+负责 区块 链 产品 和 项目 测试 工作 （ 包括 功能测试 、 性能 测试 ） 
+ 涉及 
+ 1 ） API 测试 、 接口 测试 、 UI 测试 等 自动化 测试工具 开发 和 维护 
+ 2 ） 配合 算法 和 研发 团队 开发 测试工具 / 程序 
+ 3 ） 构建 和 维护 CI 环境 ， 设计 并 实现 自动化 测试代码 ， 缺陷 跟踪 和 软件 质量 分析 
+ 
+ 要求 ： 
+ 1 ） 精通 至少 一种 开源 测试工具 ， seleniun 、 appnium 、 junit 、 instrumentation 、 robotium 、 monkey 、 monkeyrunner 等 
+ 2 ） 掌握 常用 数据结构 和 算法 ， 能 熟练 使用 主流 语言 Python 进行 开发 工作 
+ 3 ） 掌握 至少 精通 一种 性能 测试工具 ， 如 Load   Runner 、 Jmeter 等 ， 有 丰富 的 http ， web   service ， socket 协议 的 实际 工作 经验 
+ 4 ） 熟悉 常用 算法 基本原理 和 应用

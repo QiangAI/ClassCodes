@@ -1,0 +1,12 @@
+Responsibilities:
+1. 设计和开发API接口
+2. 金融数据相关的后端软件或量化系统开发
+3. 其他服务端开发工作
+ 
+Qualification:
+1. 计算机本科或相关学历，1年以上Python开发经验
+2. 大学英语四级，读、写熟练
+3. 熟悉Python标准库，了解Django，Flask，Pyramid等web框架，了解Pandas
+4. 了解关系型数据库，SQL Server，Oracle或MySQL中至少一种，有半年以上相关经验
+5. 思路清晰，善于思考，能独立分析和解决问题，对软件开发技术抱有热情
+6. 有金融行业（券商、基金、互联网金融）从业经历者优先

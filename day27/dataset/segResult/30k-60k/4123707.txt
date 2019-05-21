@@ -1,0 +1,27 @@
+机器 学习 算法 科学家 ( 用户 画像 方向 )   
+ 
+ 岗位职责 
+ 结合 业务 需求 ， 设计 适合 业务 的 用户 画像 体系 ； 
+ 基于 海量 用户 行为 和 相关 数据 信息 ， 构建 和 优化 用户 画像 ，   产出 用户 标签 ， 用于 提升 推荐 效果 ； 
+ 负责 搭建 完整 的 用户 画像 挖掘 系统 ， 包括 数据处理 、 挖掘 用户 画像 、 准确性 评估 等 。 
+   
+ 任职 要求 
+ 具备 扎实 的 数据结构 、 算法 和 开发 能力 ， 精通 至少 一种 编程语言 ， 如 C / C++ 、 Java 、 Python 等 ； 
+ 有 Linux 环境 开发 经验 ， 熟练 使用 Hadoop 、 Hive 、 SQL 、 Spark 进行 数据处理 和 分析 ； 
+ 熟练掌握 常用 的 数据挖掘 算法 和 机器 学习 算法 ， 如 深度 神经网络 , 分类 ， 聚类 等 算法 ； 
+ 有 丰富 数据挖掘 项目 经验 以及 实际 处理 数据 经验 ， 对 数据 和 业务 有 较 强 敏感性 ； 
+ 有 用户 画像 系统 、 DMP 系统 、 知识库 设计 和 开发 相关 经验 者 优先 。 
+   
+ Algorithm   Scientist / Engineer   - -   Machine   Learning ,   User   Profiling 
+ 
+ Responsibilities 
+ Design   user   profiling   architecture   based   on   business   requirements ; 
+ Based   on   user   behaviors   data ,   create   user   profile   and   output   user   tags   for   optimizing   recommendation   performance ; 
+ Design   and   build   user   profile   system ,   including   data   processing ,   mining   user   profile ,   evaluation ,   etc . 
+   
+ Requirements 
+ A   solid   knowledge   of   data   structures   and   algorithms ,   proficiency   in   at   least   of   one   of   C++ / java / Python ; 
+ Proficiency   in   Linux / Unix ,   ability   to   process   and   analyze   data   using   Hadoop ,   Hive ,   SQL   and   Spark ; 
+ Proficiency   in   classical   data   mining   and   machine   learning   algorithms ,   such   as   deep   neural   network ,   classification ,   clustering ,   etc . ; 
+ Rich   experience   in   data   mining   and   data   processing   with   strong   business   sense   is   a   plus ; 
+ Experience   in   user   profile   system ,   DMP   or   knowledge   database   is   a   plus .

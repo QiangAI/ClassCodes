@@ -1,0 +1,12 @@
+1) 负责上汽私有云Kubernets和docker及其相关模块的开发和运维；
+2) 研发OpenStack/Docker社区技术，依据我们的环境进行patch工作；
+3) 负责K8s /Mesos的技术研究和开发工作、Docker相关技术领域的发展方向；
+4) 研发K8s和容器的部署方案、监控方案、存储方案、微服务架构等；
+任职要求：
+二年以上工作经验，互联网行业优先
+精通Kubernetes平台组件，
+熟悉容器平台系统/网络优化，
+熟练掌握Go、Python、java至少一门语言，
+熟悉Linux操作系统，
+了解Openstack、swarm，
+具有Kubernetes二次开发者优先。

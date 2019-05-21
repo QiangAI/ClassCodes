@@ -1,0 +1,1 @@
+岗位职责：负责项目中相关python/django API的运维和开发技能需求：1、熟悉python编程和django框架；2、熟悉rest framework api的应用,熟悉django-rq、supervisor、virtualenv的使用；3、熟悉mysql和redis的应用；4、熟悉Linux常用操作命令和shell编程；5、有django项目经验的并懂得一些前端开发，如HTML/CSS/Javascript的优先考虑。

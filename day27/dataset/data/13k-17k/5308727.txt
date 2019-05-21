@@ -1,0 +1,15 @@
+主要职责
+ 
+设计并构建高质量、高效率的持续交付流程及基础设施
+设计并开发高水准的测试框架和工具，在项目中实施有效的自动化测试
+为大型复杂系统设计综合测试策略，与开发和测试团队合作，在项目中实施
+ 
+职位要求
+ 
+热爱技术，对自动化测试、敏捷、持续交付有浓厚兴趣
+有良好的计算机基础和系统设计能力
+至少熟悉JAVA,PHP, Ruby, Python,shell中的一种语言，能编写出工程性良好的代码
+在手机客户端、windows客户端、高并发服务器端至少一个领域，有丰富的自动化测试或持续集成实施经验
+手机客户端领域，熟悉Selendroid, Robotium、Appium, iOSdriver优先
+服务器端领域，熟悉junit、TesgNg、Jmock、Jmeter、grinder等测试工具优先
+熟悉Jenkins、Travis、maven、github、gerrit优先

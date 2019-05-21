@@ -1,0 +1,8 @@
+职责：
+负责研究RNN的序列网络（包括LSTM 和 GRU 网络）
+任职要求
+1-硕士及以上学历
+2-熟练掌握MLP感知机，RNN网络（包括LSTM和GRU)的搭建，训练和优化
+3-自动驾驶行业的算法相关工作经验
+4-熟练掌握C++,Python编程
+5-熟练掌握TensorFlow,caffe,numpy等库的使用，熟练掌握Linux + ROS 开发环境

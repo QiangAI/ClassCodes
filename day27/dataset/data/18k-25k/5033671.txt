@@ -1,0 +1,12 @@
+【岗位职责】
+1、负责对接社区、电商相关数据需求，进行需要分析、模型设计和开发工作；
+2、配合业务进行数据埋点设计、管理和数据监控；
+3、负责常用数据流、数据可视化相关开发工作。
+
+【任职要求】
+1、本科以上学历，计算机相关专业优先；
+2、2年及以上BI开发工作经验；
+3、熟练python/scala/php等编程语言，熟悉linux系统及shell
+4、熟练SQL/HQL，熟悉mysql/redis/PostgresSQL/mongodb等数据库系统；
+5、熟悉Kafka/Storm/Hadoop/Spark/HBase/Hive/Greenplum 等优先；
+6、良好的沟通合作能力，业务理解能力。

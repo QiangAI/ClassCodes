@@ -1,0 +1,2 @@
+负责移动安全加固技术研究与开发
+1、3年以上移动端安全相关工作经验，能力突出者不受此限制；2、熟练使用逆向工具及框架，如：Apktool、dex2jar、IDA、JEB、Frida、Xposed等；3、熟练掌握以下一种或几种开发语言：Java、C/C++、Python、Object-C；4、熟悉Smali、ARM指令集；5、熟悉Android框架，JNI，熟练运用NDK，具有独立编写Android应用程序和Native原生程序的能力；6、有各类反调试、代码混淆、代码加壳、代码热修复等安全加固技术实践者优先。         

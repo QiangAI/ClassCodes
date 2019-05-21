@@ -1,0 +1,11 @@
+岗位职责 ： 
+ 1 .   参与 电商 项目 的 后 端 设计 与 开发 ； 
+ 2 .   参与 电商 运营 后台 的 设计 与 开发 ； 
+ 3 .   参与 运营 管理 界面 的 设计 与 开发 。 
+ 
+ 任职 要求 ： 
+ 1 、 计算机 或 相关 专业 ， 大专 及 以上学历 ，   2 年 及 以上 开发 经验 ， 一定 的 英文 阅读 读 能力 ， 较强 的 学习 能力 和 抗压 能力   ； 
+ 2 、 扎实 的 编程语言 python / JS / Go 功底 ， 熟悉 MySQL 、 Memcache ， Redis 数据库 基础 ， 有 NoSQL 经验 者 优先   ； 
+ 3 、 有 AWS 使用 经验 ， 熟练 使用 Apigateway 、 Dynamodb 、 Lambda , S3 、 CloudFront 、 SQS , SNS 、 CloudwatchLog   ； 
+ 4 、 有后 端 开发 经验 ， 熟悉 Express , Django , Flask , Beego 优先 ； 
+ 5 、 有 前后 端 架构 和 技术 选型 经验 者 优先 。

@@ -1,0 +1,5 @@
+岗位职责 ： 
+ 1 . 公司 产品 后台 技术 架构设计 、 开发 与 维护 ； 
+ 2 .   优化 现有 后台 技术 架构 , 提高 产品质量 。 
+ 岗位 要求 ： 
+ 1 . 深入 理解 / 掌握 1 - 2 种 主流 的 python 类 web 框架 / 应用 （ django 、 flask 、 tornado 、 etc . ) 2 . 熟练掌握 主流 数据库 ，   eg :   MySQL ,   MongoDB ,   Redis   etc.3 . 有 大规模   RESTful   服务 和   RPC   服务 设计 、 开发 经验 4 . 了解 前端 HTML ， javascript 相关 技术 5 . 有 极强 的 学习 能力 、 压力 承担 能力 及 团队 合作 能力 ， 有 主动性 和 上进心   6 . 保持良好 的 代码 风格 ， “ 代码 洁癖 ” 并 不是 什么 问题 7 . 扎实 的 计算机 基础 ， 熟练掌握 数据结构 、 算法 、 计算机网络 、 操作系统 等 基础知识 8 . 加 分项 ： github 项目 ； 有 移动 端 开发 技能 、 经验 ； 掌握 Java 、 Golang 、 php 中 的 一门 或多门 ； 使用 hadoop ， hive ， impala ， ElasticSearch 等 数据处理 经验 。

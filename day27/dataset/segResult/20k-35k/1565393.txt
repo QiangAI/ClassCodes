@@ -1,0 +1,12 @@
+You ' ll   develop   the   brain   of   our   product .   Working   with   data   science   researchers   you ' ll   implement   algorithms   to   analyse   big   data   and   to   predict   outcomes   based   on   the   models   we   produce .   
+ 
+ Requirements 
+ 
+ Experience   developing   HTTP / REST / JSON   APIsExperience   managing   full - life   development   cyclesExperience   scaling   web   services4 +   years   of   experience   in   web   development   with   Python / Django2 +   years   professional   experience   with   enterprise   architecture   and   developing   highly   scalable   websites / services 
+ 
+ Linux   ( Ubuntu ) Shell   scriptingVersion   control   ( git ) Continous   integration   and   testing   ( Jenkins ) 
+ 
+ 
+ Nice   To   Have 
+ 
+ Experience   with   DevOps   practices   and   platforms   Vagrant / Virtualbox / VMWare   experienceModern   Front   End   skills   ( React ,   JQuery ,   HTML5 / CSS3 / Stylus )   Pandas / Numpy / Scipy / RDjango   REST   FrameworkCeleryPostgreSQL / MySQLAmazon   Web   Services / AliyunAnsibleFunctional   languages   ( Clojure [ Script ] ,   Elm ,   Haskell   etc . )   Relay / GraphQL

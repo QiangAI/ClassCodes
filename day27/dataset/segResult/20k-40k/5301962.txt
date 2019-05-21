@@ -1,0 +1,13 @@
+职责 描述 ： 
+ 1 、 负责 平台 服务 的 开发 维护 工作 ； 
+ 2 、 具备 较 好 的 学习 能力 、 问题 分析 能力 ， 可以 独立 定位 解决问题 ； 
+ 3 、 善于 思考 ， 能 自主 提出 改善 产品 方案 。 
+ 任职 要求 ： 
+ 1 、 计算机相关 专业 ， 五年 以上 项目 开发 经验 ； 
+ 2 、 熟悉   Python ， 熟练 使用   Python   常用 模块 和 第三方 模块 、 框架 等 ； 
+ 3 、 熟悉   linux   基本 指令 使用 ， 能 编写 简单   shell   脚本 ， 能 独立 安装 部署 基础 服务 ， 如 ： sshd ， nginx ， rabbitmq 等 ； 
+ 4 、 熟练 使用   Web   前端开发 中 任意 一种 常用 框架 如 ： jQuery 、 Ext . js 、 Angular . js 、 Vue . js 、 React . js   等 ； 
+ 5 、 熟练 使用 版本 管理系统   git   或   svn ； 
+ 6 、 熟悉   Redis ， MySQL / PostgreSQL 、 MongoDB / ElasticSearch ， RabbitMQ / Kafka   中 的 多个 服务 ； 
+ 7 、 了解   Django   或   Flask   框架 ， 能 独立 开发   RESTful   API   服务 ； 
+ 8 、 有   Docker ， gitlab ， Jenkins   等 使用 经验 ， 了解   IOT   物 联网 行业 者 优先 。

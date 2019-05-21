@@ -1,0 +1,2 @@
+Python/PHP/C 等编程，Web 编程
+必须要有5年以上Python语言为主的在线服务架构设计、开发经验，要面对的是B端；必须精通 Python编程,熟悉常用的 Python服务框架，如 Tornado,并深入了解其原理；

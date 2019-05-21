@@ -1,0 +1,7 @@
+1、参与monitor后台hadoop,spark 计算项目的开发，优化，部署;
+2、处理产品线日常的维护性任务;
+3、参与monitor后台项目和流程的整合设计，运用成熟的技术架构进行升级优化。
+岗位要求:
+1、熟悉使用hadoop/hive/hbase/spark/elasticsearch等中的两种及以上;
+2、熟悉linux 操作系统，熟悉shell脚本编程;
+3、熟练使用java，python, shell中两种及以上; 4、熟练使用以上工具进行大数据计算项目的开发，调试优化

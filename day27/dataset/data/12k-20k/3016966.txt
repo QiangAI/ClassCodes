@@ -1,0 +1,6 @@
+岗位要求：
+1、 Java基础扎实，精通java开发语言，会使用spring/mybatis，用过redis更好，有独立业务模块的设计，熟悉Java Web应用开发、J2EE框架
+2. 熟悉并能运用流行的开源软件框架编程，如：HTML、Struts、Spring、iBatis等
+3. 熟悉oracle数据库和SQL的编写4. 掌握一门脚本语言,如python、shell5. 了解Linux操作系统、Weblogic、Tomcat等主流中间件
+6、至少3年的工作经验，最好有金融相关系统的开发经验;
+7、少于3年工作经验勿扰。　

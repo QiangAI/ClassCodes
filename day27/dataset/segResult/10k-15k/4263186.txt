@@ -1,0 +1,7 @@
+岗位职责 ： 
+ 独立 负责 电商 后台 开发 ； 
+ 
+ 任职 资格 ： 
+ 1 .   1 年 以上 实际 Python 项目 开发 实施 工作 经验 ； 
+ 2 .   熟悉 python   web 开发 框架 如 Flask 及其 扩展 ； 
+ 3 .   熟悉 MySQL ,   MongoDB 。 熟练 使用 mongokit ；

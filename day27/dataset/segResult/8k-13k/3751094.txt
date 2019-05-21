@@ -1,0 +1,15 @@
+岗位职责 ： 
+ 1 .   负责 美好 的 店 电商 后台 开发 ； 
+ 2 .   负责 知识 产品 后台 开发 。 
+ 岗位 要求 ： 
+ 1 .   1 年 以上 实际 Python 项目 开发 实施 工作 经验 ； 
+ 2 .   熟悉 python   web 开发 框架 如 Flask 及其 扩展 ； 
+ 3 .   熟悉 MySQL ,   MongoDB 。 熟练 使用 mongokit ； 
+ 4 .   熟悉 redis ， rabbitmq 。 熟练 使用 celery ； 
+ 5 .   了解 前端 HTML ， javascript ； 
+ 6 .   能够 独立 涉及 restful   api ， 熟悉 connextion ； 
+ 7 .   重视 代码 质量 ， 有 良好 的 编码 习惯 ， 能 做到 pythonic 。 能 独立 完成 测试 。 
+ 加 分项 : 
+ -   有 个人 github 地址 
+ -   熟悉 微 服务 及其 调试 流程 
+ -   独立 部署 上线 项目

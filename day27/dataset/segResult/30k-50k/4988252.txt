@@ -1,0 +1,14 @@
+工作 职责 ： 
+ 1 、 负责 Python 产品线 教研 教学 相关 工作 ， 包括 但 不 局限于 授课 、 课程体系 优化 等 。 
+ 2 、 配合 相关 就业 、 招生 部分 相关 工作 ， 包括 但 不 局限于 就业辅导 、 公开课 宣讲 等 。 
+ 任职 要求 ： 
+ 1 、 至少 3 年 以上 Python 编程 经验 
+ 2 、 精通 Python 全栈 开发 ， 精通 Django   Web 框架 
+ 3 、 深刻理解 计算机 原理 ， 有 良好 的 数据结构 和 算法 基础 
+ 4 、 熟悉 面向对象 程序设计 方法 
+ 5 、 熟练 数据库 表 设计 、 SQL 语法 ， 熟练 MySQL 数据库 
+ 6 、 熟练 web 前端 技能 ,   包括 html / css / javascript / jquery / boostrap 
+ 7 、 熟练 Linux 环境 开发 ， 熟练 使用 SHELL 命令 和 脚本语言 
+ 8 、 熟练 基于 Linux 应用程序 的 管理 和 配置 ， 如 Docker 、 Redis 、 GitLab 、 Ansible 、 Nginx 、 Zabbix 、 Jenkins 等 
+ 9 、 有 Python 网络 爬虫 相关 开发 经验 优先 
+ 10 、 具备 大型 网站 或 高 并发 系统 开发 、 设计 工作 经验 者 优先

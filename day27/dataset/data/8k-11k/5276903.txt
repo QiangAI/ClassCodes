@@ -1,0 +1,10 @@
+职位需求 
+- Bachelor degree in Computer Science and Electronic Engineering or equivalent, or above （学士学位及以上，计算机科学和电子工程专业优选）
+- Excellent system programming skills in C/C++（杰出的C/C++ 编程经验）
+- Firmware/Bootloader development experience （服务器固件开发经验）
+- BIOS or uEFI development experience is highly desirable （BIOS、UEFI开发经验）
+- Solid knowledge of x86 architecture （x86架构知识）
+- Smart, quick learner and strong analytical skills（快速学习的能力和分析能力）
+- Excellent and professional communication skills（优秀的沟通能力）
+- Excellent team player （优秀的团队协作能力）
+- Knowledge of X86 Assembly language/python/Linux is a plus （Python/Linux经验加分）

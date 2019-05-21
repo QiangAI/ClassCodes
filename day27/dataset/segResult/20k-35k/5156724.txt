@@ -1,0 +1,9 @@
+1 . 负责 机器 学习 AI 云 平台 开发 ; 
+ 2 . 负责 算法 的 设计 和 优化 ,   机器 学习 Pipeline 和 Model 实现 ; 
+ 3 . 负责 根据 项目 和 产品 特点 需求 ， 提高 并行 性能 ; 
+ 职位 要求 ： 
+ 1 . 熟悉 Python ,   Sklearn ,   Numpy ,   Pandas ,   Spark   MLlib ,   Hadoop ; 
+ 2 . 熟悉 Classification ,   Regression 的 各种 算法 ;   
+ 3 . 熟悉 Scala ,   Java ,   C ,   C++ ,   分布式计算 ,   H20 架构 优先 ； 
+ 4 . 具有 数据分析 ,   ETL ,   Feature   Engineering 经验 ,   了解 Deep   learning :   Tensorflow ,   Theano 经验 者 优先 ; 
+ 5 . 对 新 技术 钻研 有 强烈 兴趣 ， 有 良好 的 学习 能力 和 强烈 的 进取心 及 创新 精神 。

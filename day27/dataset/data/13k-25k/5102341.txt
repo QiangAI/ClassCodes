@@ -1,0 +1,6 @@
+岗位一：Python高级开发工程师1、3年以上Python项目开发经验（1年Python ，多年Java开发经验的也可以）。2、熟练使用Python进行统计分析、数据挖掘、数据清洗、可视化探索、特征提取等处理，编程能力强。3、熟练使用 Django或Flask,熟悉前端html5、css、jquery、layui、bootstrap。4、熟悉Linux环境及常用shell命令，能够独立完成项目上线、平台搭建等常用操作。5、熟悉至少一种关系数据库如Oracle、MySQL等，熟悉SQL,了解ElasticSearch、mongodb、redis。6、具备良好的逻辑思维能力，独立分析和解析问题的能力。7、强烈的责任心与主动性，能自我驱动成长。
+
+加分项1、有文本分类，推荐/搜索系统，图像分类及识别等项目经验2、熟练掌握常用算法，如贝叶斯，决策树，随机森林、SVM，神经网络等模型，会使用tensorflow、Keras搭建卷积神经网络CNN、循环神经网络RNN、LSTM
+
+岗位二：python开发职位详情：
+任职资格：1.大专及以上学历，3年以上工作经验。2.熟练使用python语言。3.熟悉python的常用数据结构和算法，熟悉python的多进程、多线程和协程的实现方式。4.熟悉Linux环境及常用shell命令。5.熟悉至少一种关系数据库如MySQL、Oracle等，了解mongodb、redis等NoSQL。6.具备良好的逻辑思维能力，独立分析和解析问题的能力。7.强烈的责任心与主动性，能自我驱动成长

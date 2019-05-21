@@ -1,0 +1,14 @@
+岗位职责：
+1、  掌握Linux API使用，精通C/C++语言，并熟练使用STL,熟悉各种设计模式； 
+2、  掌握Linux C/C++开发环境，熟练掌握makefile或cmake至少其中一种；
+3、  精通Linux下的多线程编程；
+4、  熟练掌握网络编程的基本模型和方法，有实际项目的开发经验；
+5、  熟练掌握MYSQL数据库；
+6、  熟练使用redis；
+7、  熟悉linux内存管理，网络IO，进程间RPC,等linux下的开发技术。
+
+岗位要求：
+1、  开发过棋牌服务器的优先；
+2、  有protobuffer、thrift、libevent相关经验者优先；
+3、  熟悉linux下的shell/ lua /Python脚本；
+4、  熟悉skynet框架的优先。

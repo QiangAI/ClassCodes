@@ -1,0 +1,15 @@
+主要职责 
+   
+ 设计 并 构建 高质量 、 高效率 的 持续 交付 流程 及 基础设施 
+ 设计 并 开发 高 水准 的 测试 框架 和 工具 ， 在 项目 中 实施 有效 的 自动化 测试 
+ 为 大型 复杂 系统 设计 综合测试 策略 ， 与 开发 和 测试 团队 合作 ， 在 项目 中 实施 
+   
+ 职位 要求 
+   
+ 热爱 技术 ， 对 自动化 测试 、 敏捷 、 持续 交付 有 浓厚兴趣 
+ 有 良好 的 计算机 基础 和 系统 设计 能力 
+ 至少 熟悉 JAVA , PHP ,   Ruby ,   Python , shell 中 的 一种 语言 ， 能 编写出 工程 性 良好 的 代码 
+ 在 手机 客户端 、 windows 客户端 、 高 并发 服务器端 至少 一个 领域 ， 有 丰富 的 自动化 测试 或 持续 集成 实施 经验 
+ 手机 客户端 领域 ， 熟悉 Selendroid ,   Robotium 、 Appium ,   iOSdriver 优先 
+ 服务器端 领域 ， 熟悉 junit 、 TesgNg 、 Jmock 、 Jmeter 、 grinder 等 测试工具 优先 
+ 熟悉 Jenkins 、 Travis 、 maven 、 github 、 gerrit 优先

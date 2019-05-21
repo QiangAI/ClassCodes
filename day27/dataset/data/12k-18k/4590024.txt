@@ -1,0 +1,11 @@
+职责：
+负责项目后台管理系统开发
+负责Web后台组件的开发
+
+要求：
+熟悉python语言，至少熟悉Django、Flask一种应用框架
+熟悉JavaScript、HTML5语言，至少熟悉AngularJS、VueJS一种框架
+有强烈的责任心和良好的团队配合能力
+
+技术栈：
+python2.7、Docker、Gevent、Django、Flask、Sqlalchemy、Redis、MySQL、JavaScript、HTML5、VueJS、AngularJS、Webpack、Centos

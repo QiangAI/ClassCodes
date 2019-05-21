@@ -1,0 +1,7 @@
+3 年 以上 前端 经验 ； 
+ 熟悉 Linux 系统 ； 
+ 精通 HTML5 、 CSS 、 JavaScript ， 具有 一定 的 前端 交互 设计 能力 ； 
+ 精通 ReactJS 并 有 深入 了解 及 开发 经验 ； 
+ 熟悉 restful 风格 ； 
+ 有 一定 的 python ， Django 了解 ； 
+ 有 前后 端 分离 开发 经验 者 优先 。

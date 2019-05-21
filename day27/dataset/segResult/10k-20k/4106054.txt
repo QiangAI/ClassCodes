@@ -1,0 +1,3 @@
+1 、 负责 云 平台 产品 的 前后 端 设计 及 开发 工作 。 
+ 任职 资格 ：   1 、 计算机相关 专业本科 及 以上 。   1 年 及 以上 WEB 前端开发 经验 ；   2 、 精通 HTML / XHTML 、 CSS ， JavaScript 等 前端开发 技术 ， 熟悉 流行 的 前端 技术 框架 , 包括 但 不 限于 React   Native 、 Bootstrap 、 Html5 、 jQuery 、 Bower 、 Grunt 等 。 3 、 熟悉 Linux 平台 ， 至少 熟悉 一种 后 端 开发 语言 （   如 Java 、 Php 、 Ruby 、 Python 、 Go   等 ） 。   4 、 熟悉 Mysql 、 Redis 、 MongoDB 等 数据库 。   5 、 熟悉 HTTP 、 WebSocket 、 Spdy 等 协议 。   6 、 良好 的 编程 习惯 ， 追求 极致 的 代码 质量 ， 熟悉 常用 的 设计模式 和 敏捷 开发 流程 ；   7 、 开朗 上 进 ， 积极 沟通 ， 追求 极致 。 
+ 以下 条件 优先 考虑 ：   1 、 有 云端 大 数据 平台 类产品 经验 优先 。   2 、 有物 联网 、 智能家居 、 智能 摄像

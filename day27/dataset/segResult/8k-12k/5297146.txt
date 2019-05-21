@@ -1,0 +1,9 @@
+职责 描述 ： 
+ 1 、 数据仓库 架构设计 、 建模 和 ETL 开发 ， 构建 可 扩展 的 数据仓库 和 分析 解决方案 ； 
+ 2 、 梳理 业务 逻辑 ， 帮助 业务 建设 指标体系 ， 帮助 业务管理 运营 的 效率 提升 及 提供 业务 策略 。 
+ 
+ 任职 要求 ： 
+ 1 、 熟悉 linux 开发 环境 ； 
+ 2 、 熟练 使用 sql 、 shell ； 
+ 3 、 熟练掌握 java 、 scala 、 python 中 的 一种 或 多种 ； 
+ 4 、 具有 大 数据 项目 经验 ， 掌握 Hdoop 生态圈 ， 如 Spark 、 MapReduce 、 Hive 、 Hbase 、 kafka 、 flume 、 mahout 、 Pig 等 。

@@ -1,0 +1,6 @@
+1 、 本科 及 以上学历 ， 计算机相关 专业 ， 3 年 以上 工作 经验 ； 
+ 2 、 熟练掌握 Spring   Cloud 、 Spring   Boot 、 SSM 、 restful 、 XML 、 json 、 maven 等 Java 开发 框架 ； 
+ 3 、 熟练掌握 MySQL 、 Oracle 等 关系 型 数据库 开发技术 ； 
+ 4 、 熟练掌握 Redis 、 Kafka 等 数据 缓存 等 分布式 处理 技术 ； 
+ 5 、 有 Hbase 、 Hive 、 Spark 等 大 数据 开发 经验 以及 Python 开发 经验 者 优先 ； 
+ 6 、 参与 过 大型 Java 项目 的 开发 与 实施 ， 具备 较强 的 业务 理解能力 和 沟通 能力 ；

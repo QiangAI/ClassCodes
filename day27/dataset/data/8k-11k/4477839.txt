@@ -1,0 +1,11 @@
+必要的条件：
+·实际C#，Python或JavaScript项目编程经验
+·独立研究和解决问题的能力
+·英文邮件
+期望的技能:
+·Web/DB 开发经验
+·脚本（Batch, Perl, Shell）编程经验
+·持续集成工具的使用，例如Jenkins, TeamCity。
+
+-------------------------
+项目组组是做Automation System， Integration System的，围绕我们服务的产品进行一些工具和系统的开发。

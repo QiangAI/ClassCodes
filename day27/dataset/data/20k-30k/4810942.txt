@@ -1,0 +1,1 @@
+工作职责:1、负责信息安全管理平台设计开发；2、负责信息安全平台优化与外部对接。任职资格:热爱技术，积极主动，对解决挑战性问题充满热情，善于分析和解决问题； 1、大专以上学历，3年以上Python开发经验2、熟练掌握Python、熟练使用Python标准库和流行的第三方库，有Django、Tornado、Flask等任一Web框架项目经验，能独立开发Web项目；3、熟悉常见数据库的操作，如Oracle、MySQL、PostgreSQL、MongoDB, Redis等一种或多种；4、了解常见的前端框架,如bootstrap、jQuery、vue.js、angular等一种或多种；加分项5、有复杂功能与权限设计的Web管理后台开发经验或运维平台开发经验优先；6、了解OWASP TOP10等常见的安全漏洞；

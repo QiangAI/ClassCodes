@@ -1,0 +1,3 @@
+职责1 负责公司ESIM Card OS的设计、开发和维护2 负责将cos对接到不同硬件平台、存储介质3 负责cos的需求迭代4 负责cos和后台boss系统的对接、联调要求1. 3年以上嵌入式开发经验， 熟练使用C/C++， 了解交叉编译环境。2. 1年以上的cos开发经验3. 熟悉android体系结构4. 熟悉RTOS5. 熟悉SIM相关的协议以及通信方式者优先6. 熟悉3GPP相关协议优先7.  熟悉eUICC、SGP系列规范
+
+技术栈：1）开发和运行环境：开发环境：MacOS运行环境：Redhat/CentOS编程语言：Java/Python/Node.js工具：标配15寸Mac/Git/IDEA2）主要中间件和组件：Web服务：Tengine/OpenResty&Tomcat缓存：Redis/Memcache队列：RocketMQ数据存储：Mysql/MongoDB/Hadoop/Cassandra/ElasticSearch大数据计算：JStorm/Hive/MapReduce/MaxCompute分布式锁：Zookeeper服务化：SpringCloud框架：SpringBoot/Spring/Struts/Ibatis容器：Docker成长环境：1.  在高速增长的业务中，保证快速迭代、提供高并发和高可用服务的挑战2.  与内外部行业资深专家培训、交流、切磋的机会，参与行业技术大会的学习和分享3.  透明开放的工程师文化，自由checkout你感兴趣的代码，只要你有能力，就可以一起参与核心系统优化改进4.  一年一度的国外旅游，一起看世界、开拓视野（已经去过泰国、美国、澳洲、日本、印尼，参观过硅谷的Google、Facebook、Apple等公司）5.  偏平化架构，高效的协作，上不封顶的职业成长空间！

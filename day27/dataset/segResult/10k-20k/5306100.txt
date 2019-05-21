@@ -1,0 +1,14 @@
+岗位职责 ： 
+ 1 、     掌握 Linux   API 使用 ， 精通 C / C++ 语言 ， 并 熟练 使用 STL , 熟悉 各种 设计模式 ；   
+ 2 、     掌握 Linux   C / C++ 开发 环境 ， 熟练掌握 makefile 或 cmake 至少 其中 一种 ； 
+ 3 、     精通 Linux 下 的 多线程 编程 ； 
+ 4 、     熟练掌握 网络 编程 的 基本 模型 和 方法 ， 有 实际 项目 的 开发 经验 ； 
+ 5 、     熟练掌握 MYSQL 数据库 ； 
+ 6 、     熟练 使用 redis ； 
+ 7 、     熟悉 linux 内存 管理 ， 网络 IO ， 进程 间 RPC , 等 linux 下 的 开发技术 。 
+ 
+ 岗位 要求 ： 
+ 1 、     开发 过 棋牌 服务器 的 优先 ； 
+ 2 、     有 protobuffer 、 thrift 、 libevent 相关 经验 者 优先 ； 
+ 3 、     熟悉 linux 下 的 shell /   lua   / Python 脚本 ； 
+ 4 、     熟悉 skynet 框架 的 优先 。

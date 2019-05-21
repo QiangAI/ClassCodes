@@ -1,0 +1,10 @@
+扎实 的 基本功 ， 熟练掌握   Python ; 
+ 熟练掌握   Flask ,   Tornado   中 至少 一种   Web   Framework ; 
+   熟练掌握   PostgreSQL ,   MySQL   中 至少 一种   RDBMS ,   熟悉   Redis   等 常用   NoSQL ; 
+ 具备 良好 的 分析 问题 、 解决问题 的 能力 ， 喜欢 尝试 新 技术 ， 乐于 分享 ， 优秀 的 团队 协作 精神 ; 
+ 具有 职业 操守 ， 维护 公司 利益 。 
+ 加 分项 
+ 精通   PostgreSQL ;   熟悉   golang   并 有 实际 项目 经验 ;   
+ 对 自然语言 处理 或 深度 学习 有 研究 或 感兴趣 ; 
+ Github   有 项目 超过   100   star ， 或 给 大型项目 贡献 过 代码 ;   写 技术 博客 （ 或 微信 公众 号 ） 2   年 以上 ， 或者   50   篇 以上 ; 
+ 熟练 在   Mac   OS   X   /   Linux   上 开发 。

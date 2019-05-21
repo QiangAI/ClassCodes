@@ -1,0 +1,11 @@
+负责区块链产品和项目测试工作（包括功能测试、性能测试）
+涉及
+1）API测试、接口测试、UI测试等自动化测试工具开发和维护
+2）配合算法和研发团队开发测试工具/程序
+3）构建和维护CI环境，设计并实现自动化测试代码，缺陷跟踪和软件质量分析
+
+要求：
+1）精通至少一种开源测试工具，seleniun、appnium、junit、instrumentation、robotium、monkey、monkeyrunner等
+2）掌握常用数据结构和算法，能熟练使用主流语言Python进行开发工作
+3）掌握至少精通一种性能测试工具，如Load Runner、Jmeter等，有丰富的http，web service，socket协议的实际工作经验
+4）熟悉常用算法基本原理和应用

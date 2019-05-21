@@ -1,0 +1,11 @@
+岗位职责:
+1、负责Hadoop 集群的部署、开发、调优、维护和监控等工作；
+2、负责ETL方案的制定及实施，保证实时计算的可靠性；
+任职要求:
+1、本科以上学历，3年以上大数据开发经验；
+2、熟悉Scala、Java、Python中的一种；
+3、熟悉Kafka（熟悉kafka connect和confluent kafka更佳）；
+4、熟悉Elasticsearch，有监控及性能调优相关经验者优先；
+5、精通大数据处理技术，有Hadoop、Hive、Hbase等相关开发经验优先(熟悉Storm、Flink等流处理框架更佳)；
+6、熟悉MySQL等主流数据库、linux常用操作和shell；
+7、工作认真负责，具有良好学习能力和解决问题的能力；

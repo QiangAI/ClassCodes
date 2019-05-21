@@ -1,0 +1,25 @@
+计算机 视觉 算法 科学家 / 工程师 
+ 
+ 岗位职责 
+ 计算机 视觉 算法 的 研发 ， 包括 但 不 限于 ： 人脸识别 、 大规模 图片 分类 、 物体 检测 、 跟踪 、 图像 / 视频 语义 分割 、 视频 语义 理解 、 SLAM 、 3D 视觉 等 ； 
+ 计算机 视觉 前沿 算法 跟进 与 研发 ； 
+ 计算机 视觉 算法 在 实际 应用领域 的 性能 优化 。 
+   
+ 任职 要求 
+ 熟练掌握 C / C++ 、 Python 等 编程语言 ； 
+ 熟悉 OpenCV ， 以及 图像处理 基本 方法 ； 
+ 熟悉 深度 学习 基础知识 和 经典 网络 模型 ， 熟练 使用 至少 一种 深度 学习 工具 ， 如 Caffe 、 Mxnet 、 TensorFlow 、 PyTorch 、 PaddlePaddle 等 ； 
+ 具有 较强 算法 实现 能力 ， 同方向 项目 经验 ， 学术 比赛 经验 以及 发表 过顶会 论文 者 优先 。 
+   
+ Algorithm   Scientist / Engineer   - -   Computer   Vision 
+ 
+ Responsibilities 
+ Research ,   design ,   implement   and   optimize   algorithms   related   to   the   broad   problems   of   computer   vision ,   including   but   not   limited   to   face   recognition ,   large - scale   image   classification ,   object   detection ,   tracking ,   image   /   video   semantic   segmentation ,   video   semantic   understanding ,   SLAM ,   3D   vision ,   etc . ; 
+ Track   and   produce   the   state - of - the - art   research   results ; 
+ Optimize   computer   vision   algorithms   and   apply   to   real   applications . 
+   
+ Requirements 
+ Proficiency   in   C   /   C++ ,   Python ; 
+ Familiar   with   OpenCV   and   basic   algorithms   of   image   processing ; 
+ Familiar   with   deep   learning   and   classical   deep   neural   network   models ,   proficient   with   at   least   one   deep   learning   tool   such   as   Caffe ,   Mxnet ,   TensorFlow ,   PyTorch ,   PaddlePaddle ,   etc . ; 
+ Strong   in   computer   vision   algorithms .   Publication   in   top - tier   conferences   or   winning   academic   contest   is   a   plus .

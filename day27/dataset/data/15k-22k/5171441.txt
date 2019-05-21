@@ -1,0 +1,7 @@
+3年以上前端经验；
+熟悉Linux系统；
+精通HTML5、CSS、JavaScript，具有一定的前端交互设计能力；
+精通ReactJS并有深入了解及开发经验；
+熟悉restful风格；
+有一定的python，Django了解；
+有前后端分离开发经验者优先。

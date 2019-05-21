@@ -1,0 +1,38 @@
+岗位职责：
+1. 使用 Python 开发 Web 服务；
+2. 应用 SCRUM 方法结对工作；
+3. 按照流程进行软件开发、测试和发布工作；
+4. 建立并持续改善软件开发、测试与发布流程。
+ 
+任职资格：
+1. 计算机科学、计算机工程及相关专业本科以上学历；
+2. 两年以上实际软件开发经验；
+3. 熟悉 UML 等面向对象开发方法；
+4. 熟悉使用 Python 进行 web 开发；
+5. 熟悉 Django 或其他 Python Web 开发框架；
+6. 在代码编写、调试和相关技术方向经验丰富；
+7. 良好的英语阅读和沟通能力；
+8. 逻辑思维清晰。
+ 
+优先：
+熟悉 MVC
+
+Responsibility：
+1.Web services development with Python.
+2.Working in pairs with SCRUM process.
+3.Developing, testing and releasing software following defined processes.
+4.Building and improving software development, testing and distributing process.
+
+Qualification：
+1.Bachelor/Master degree in Computer Science, Computer Engineering or related technical discipline.
+2.2+ years experience in software development.
+3.Familiar with object-oriented development methodologies.
+4.Familiar with web development with Python.
+5.Familiar with Django or other Python Web frameworks.
+6.Experience in programming, debugging, and related techniques.
+7.Good reading and communication skills in English.
+8.Clear logical thinking.
+
+Good Plus:
+1.Familiar with MVC.
+

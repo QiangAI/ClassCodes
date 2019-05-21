@@ -1,0 +1,2 @@
+岗位职责：1、开发构建电商供应链、ERP、SAAS平台，聚焦DT建设和数字化转型，提升用户满意度； 2、按时按质完成开发任务，降低代码缺陷率，输出详尽易懂的开发手册。
+任职要求：1、本科以上学历，熟悉Python、java、php、c#其中至少2门编程语言，掌握Tornado/OpenERP/Django/Flask者优先考虑； 2、熟悉JavaScript，熟悉Linux操作系统，熟练掌握Shell脚本语言；前端框架jquery、nodejs、ace、bootstrap 、webpack、vue、jinja2和angular Reactor者优先考虑； 3、熟悉mysql、PostgreSQL数据库，能熟练编写调试sql语句、存储过程，索引、性能优化。

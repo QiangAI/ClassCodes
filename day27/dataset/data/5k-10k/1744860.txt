@@ -1,0 +1,15 @@
+职责
+负责公司产品微服务组件的开发
+对接口编写自动化测试用例
+
+要求
+
+很强的自学能力
+熟练掌握python语言
+快速学习和解决问题的能力
+至少看过一种python框架的源码
+理解操作系统原理和网络通讯协议
+强烈的责任感，能够抵抗工作压力
+
+python实习生技术栈：
+python2.7、Docker、Gevent、Django、Flask、Sqlalchemy、Redis和MySQL

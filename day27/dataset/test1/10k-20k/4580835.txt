@@ -1,0 +1,2 @@
+技能要求：
+1、需具备2年以上Python开发经验；2、熟悉Python语言，熟练使用常用模块，使用过Django/flask等web框架；3、熟练使用至少一种数据库（MySQL/Redis/MongoDB)4、具有良好的自学能力，能通过研究开源项目来解决开发中遇到的难题；5、有前端（HTML、CSS、JavaScript、JQuery、Bootstrap）开发经验是加分项；6、熟悉restful风格api编程；

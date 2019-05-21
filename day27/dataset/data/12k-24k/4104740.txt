@@ -1,0 +1,11 @@
+职位描述：
+1、负责开发、测试、生产环境的部署、运维工作；
+2、负责基于Docker和Kubernetes相关的DevOps工作。
+
+任职条件：
+1、大学本科及以上学历，计算机或者相关专业；
+2、精通Linux操作系统；
+3、精通OpenStack/Docker/Kubernetes；
+4、精通一门以上脚本语言(shell/perl/python等)；
+5、熟悉Linux日常应用(Nginx、Memcached、MySql、Redis、RabbitMQ等)的安装和配置；
+6、有Kubernetes集群部署和运维相关经验者优先。

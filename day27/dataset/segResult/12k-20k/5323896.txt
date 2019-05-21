@@ -1,0 +1,8 @@
+1 、 五年 以上 Spring   MVC ， Spring ， MyBatis 等 开源 框架 的 开发 经验 ， 精通 Memcache 、 Redis 缓存 技术 ； 
+ 2 、 熟练 使用   SVN 、 MAVEN   等 项目 版本 管理 及 构建 工具 ； 
+ 3 、 熟练掌握 HTML 、 CSS 、 JavaScript 、 Ajax 、 jQuery 、 Easyui 、 bootstrap 、 ExtJs 等 前台 开发技术 ； 
+ 4 、 熟练掌握 如 MySQL 、 Oracle 、 PostgreSQL 等 大型 数据库 ， 熟悉 No - sql 数据库 如 HBase 、 MongoDB 者 优先 ； 
+ 5 、 从事 过 Zookeeper 、 Dubbo 、 RabbitMQ 等 技术 的 项目 开发 ， 了解 Kafka 、 Spark 等 大 数据 体系 相关 技术 者 优先 ; 
+ 6 、 针对 有过 大型 互联网 应用 架构设计 ， 并且 参与 过 并发 量 超过 10W + 的 项目 开发 经验 者 优先 ； 
+ 7 、 熟悉 Python 开发者 优先 ； 
+ 8 、 有过 Spring   Cloud 和 SpringBoot 等 微 服务 开发者 优先 ；

@@ -1,0 +1,1 @@
+岗位职责：1、负责后台服务的功能设计，开发及优化；2、负责web API接口的开发；任职资格:1、3年相关经验，熟练掌握python语言编程；2、熟悉django/flask/tornato等任一python web开发框架，熟悉celery等异步任务框架；3、有高性能服务研发经验；4、熟悉linux操作系统环境开发，熟悉nginx,mysql,redis,celery,elasticsearch等开源软件；5、熟悉网络编程原理，http协议。优先：1、熟悉linux下c/c++开发优先；2、有3D图形图像相关知识和开发经验优先。

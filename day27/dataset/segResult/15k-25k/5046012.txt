@@ -1,0 +1,2 @@
+岗位职责 ： 1 、 开发 构建 电商 供应链 、 ERP 、 SAAS 平台 ， 聚焦 DT 建设 和 数字化 转型 ， 提升 用户 满意度 ；   2 、 按时 按质 完成 开发 任务 ， 降低 代码 缺陷率 ， 输出 详尽 易懂 的 开发 手册 。 
+ 任职 要求 ： 1 、 本科 以上学历 ， 熟悉 Python 、 java 、 php 、 c# 其中 至少 2 门 编程语言 ， 掌握 Tornado / OpenERP / Django / Flask 者 优先 考虑 ；   2 、 熟悉 JavaScript ， 熟悉 Linux 操作系统 ， 熟练掌握 Shell 脚本语言 ； 前端 框架 jquery 、 nodejs 、 ace 、 bootstrap   、 webpack 、 vue 、 jinja2 和 angular   Reactor 者 优先 考虑 ；   3 、 熟悉 mysql 、 PostgreSQL 数据库 ， 能 熟练 编写 调试 sql 语句 、 存储 过程 ， 索引 、 性能 优化 。

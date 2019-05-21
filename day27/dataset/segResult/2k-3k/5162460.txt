@@ -1,0 +1,4 @@
+后 端 开发 实习生 1 .   python3 基本 语法 2 .   mysql   redis   mongodb   基本 的 增删 查改 3 .   对于 http   tcp   websocket 有 基本 的 概念 了解 ,   使用 过 django   flask 等 框架 尤佳 4 .   对于 docker 技术 有 上 过手 ，   了解 docket 的 基本概念 和 操作 5 .   要 有 基本 英语 能力 ，   能看懂 英文 技术 文档 6 .   有   c / c++   java   golang 等 语言 开发 能力 的 优先 考虑 7 .   有 asterisk   freeswitch 部署 能力 的 优先 考虑 
+ 任职 要求 ： 
+ 1 、 统招 本科 及 以上学历 ， 计算机相关 毕业 
+ 2 、 有 一定 的 抗压 能力

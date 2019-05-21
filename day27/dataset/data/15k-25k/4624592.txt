@@ -1,0 +1,1 @@
+工作职责:工作职责:1、负责H5站点、PC站点、小程序等web站点的前端开发工作2、负责与UI设计师、UE、软件开发工程师和产品经理协作完成移动端前端的开发工作任职资格:1、2年以上互联网行业移动端前端开发工作经验。计算机相关专业本科以上学历。2、熟练掌握jQuery、zepto，熟悉angularJS、commonJs、requireJs/seaJS、bootstrap等前端常用的主流框架，并对框架的实现机制有一定的了解，3、熟悉小程序开发，熟练掌握WXML、WXSS优先4、了解一门后台编程语言（PHP\Java\C#\Python\node.js）优先

@@ -1,0 +1,10 @@
+工作内容：视频处理开发，爬虫开发
+要求：
+a精通Java（spring/mybatis）与Python语言，2年Python爬虫经验，有良好的数据结构和算法设计基础；
+b精通HTML/JavaScript/CSS/xpath/url/Ajax/xml等web技术知识，熟悉HttpClient/Jsoup/Scrapy/Pyspider/Selenium/PL等工具;
+c熟悉垂直搜索爬虫、分布式网络爬虫，深入理解网络爬虫原理，有丰富的数据爬取、解析、清洗、存储相关项目经验，掌握反爬虫技术及其突破方案；
+d熟悉操作系统（Linux）及网络协议（如TCP/IP、HTTP等），了解Shell编程；
+e熟练使用maven、git等项目管理工具；
+f熟悉高并发、高性能的分布式系统的设计及应用，熟悉常用数据存储、各种数据处理技术者优先；
+g有Python数据分析、数据挖掘相关经验者优先；
+h不满足于现状，对技术保持热忱，对所支持的业务产品具有独立观点，并提出合理的建议。

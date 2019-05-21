@@ -1,0 +1,11 @@
+岗位职责 ： 
+ 1 、 带领 团队 完成 WEB 产品 的 前后 端 架构设计 及 相关 模块 的 开发 ， 并 能 持续 对系统 架构 进行 优化 与 迭代 ； 
+ 2 、 协助 大 数据 、 机器 学习 工程师 进行 python 代码 开发 与 优化 ； 
+ 3 、 指导 运维 工程师 完成 运维 系统 、 运维 工具 的 python 开发 。 
+   
+ 任职 资格 ： 
+ 1 、 本科 以上学历 ， 具有 五年 以上 python 开发 经验 ； 
+ 2 、 精通 Django 、 Flask 、 Tornado 等 WEB 框架 ， 精通 Celery 、 APScheduler 等 任务 框架 ； 
+ 3 、 精通 MySQL 、 mongodb 、 Redis 等 结构化 和 非 结构化 数据库 ； 
+ 4 、 具有 Open   stack 、 Dockers 项目 环境 开发 经验 ； 
+ 5 、 具有 大 数据分析 / AI 经验 的 优先 考虑 。

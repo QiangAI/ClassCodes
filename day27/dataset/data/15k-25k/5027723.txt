@@ -1,0 +1,10 @@
+扎实的基本功，熟练掌握 Python;
+熟练掌握 Flask, Tornado 中至少一种 Web Framework;
+ 熟练掌握 PostgreSQL, MySQL 中至少一种 RDBMS, 熟悉 Redis 等常用 NoSQL;
+具备良好的分析问题、解决问题的能力，喜欢尝试新技术，乐于分享，优秀的团队协作精神;
+具有职业操守，维护公司利益。
+加分项
+精通 PostgreSQL; 熟悉 golang 并有实际项目经验; 
+对自然语言处理或深度学习有研究或感兴趣;
+Github 有项目超过 100 star，或给大型项目贡献过代码; 写技术博客（或微信公众号）2 年以上，或者 50 篇以上;
+熟练在 Mac OS X / Linux 上开发。

@@ -1,0 +1,4 @@
+1.3年以上Python开发经验，熟悉Python主流Django框架，了解Tornado，Flask特点；
+2.熟悉Mysql，熟悉Memcached, Redis等常见的NoSQL数据存储者优先； 
+3.有良好的编码习惯，对代码和设计质量有严格要求，重视Code Review ；
+4.具有自我驱动、创新和团队精神，乐于沟通和分享，热爱开源，保持开放心态。

@@ -1,0 +1,6 @@
+工作职位要求：
+1.统招本科及以上学历，计算机或相关专业毕业
+2.熟悉python编程,最好对django,Flask等框架有一定的了解对前端知识,HTML,CSS,Bootstrap,JavaScript,JQuery,aJax等有一定了解和项目经验熟悉Linux系统和平台编程,　
+3.熟悉shell对计算机系统原理和网络有一定的了解熟悉基本的数据库例如MySQL等
+4.具备工作主动性和团队合作能力加分项：对Zabbix,Nagios,OpenFalcon等监控框架有了解对ElasticSearch框架,时序数据库等有一定了解对树莓派生态链有一定了解对ansible,chef,puppet有一定了解能够熟练阅读英文文档
+5.懂Git，scons,makefile

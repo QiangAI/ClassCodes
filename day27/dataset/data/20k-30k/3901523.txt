@@ -1,0 +1,16 @@
+岗位职责:
+ 
+1: 负责公司数据库平台自动化运维工具开发与优化
+2: 管理公司数据库包括mysql/mongodb/redis等
+3: 负责数据库性能监控与优化，故障处理与灾难恢复，推进业务进行系统架构优化改造；
+ 任职资格:
+ 1: 熟练掌握MySQL/MongoDB/REDIS,具有三年以上DBA经验
+2: python开发经验至少2年, 至少有一个项目是主力开发
+3: 熟练运用python各种架构,如Tornado/django等
+4: 具有构建分布式任务系统经验（Celery/RabbitMQ/Redis）
+5: 熟练使用Linux，可以快速上手编写shell、powershell、cmd等操作系统脚本
+6: 具备数据库平台自动化运维平台相关经验优先
+7: 熟悉除Python以外的编程语言，如PHP/perl/Java等优先
+8: 具备良好的逻辑思维，沟通技巧与工作推动能力
+ 
+ 

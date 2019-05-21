@@ -1,0 +1,18 @@
+负责Predictive Maintenance产品的算法开发，参与智能工业物联网平台建设
+选择适合的机器学习算法、AI算法、特别是深度学习算法解决实际问题
+配合工程师将算法集成到软件产品中，并为客户带来价值
+
+任职要求：
+计算机、数学、统计、化工、机械等相关专业硕士，博士优先
+强大的数学知识背景（线性代数，微积分，概率统计）
+有机器学习实战经验（如regression analysis, time series, probabilistic models, supervised classification and unsupervised learning等）
+有深度学习经验 （DNN)
+有MapReduce、Streaming经验
+擅长Python或者R语言
+善于沟通，并可以独立思考完成任务的能力
+
+加分项：
+国内外一流学校毕业
+有JAVA或Scala经验
+化工或者机械等相关专业背景
+在Github上有上传代码或demo

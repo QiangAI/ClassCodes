@@ -1,0 +1,15 @@
+岗位职责
+
+1.  负责基于区块链(Blockchain)项目的web应用的设计及开发；
+2.  负责快速迭代验证有可能应用到区块链技术的新想法；
+3.  负责完成前端Web界面与后台数据交互、动态信息展现。
+
+职位要求
+1. 三年以上web开发经验，并拥有至少一年的Node.js开发经验； 
+2. JavaScript 基本概念清晰，熟练掌握闭包、事件、回调、Promise 等，熟悉jQuery, Angular JS, React JS,IONIC等，熟悉SASS, LESS, Require JS, grunt, gulp 等工具；
+3. 了解ES6/ES7新特性，熟练运用Express、KOA等框架；
+4. 具有.NET、 Java、Python、PHP等其中一种后端语言的开发经验；
+5. 熟悉 MongoDB，Redis，MySQL，RabbitMQ 一种或多种；
+6. 为自己的代码编写单元测试代码， 熟悉测试流程
+7. 善于思考，能独立分析和解决问题；
+8. 责任心强，具备良好的团队合作精神和承受压力的能力。

@@ -1,0 +1,14 @@
+岗位职责：
+1、 制作课程案例，编写教学文档；
+2、 负责攻关技术难点，学习最新的技术，整理文档并分享；
+任职要求：
+1、 熟练掌握Python语言，3年以上Web开发经验；
+2、 精通Python程序设计、熟悉Flask、Django或Tornado等框架；
+3、 熟悉Linux操作环境，熟练使用Mysql、Nginx、MongoDB、
+Redis等数据库，以及数据库优化；
+5、 熟悉HTTP协议及原理，Socket通信；
+6、 熟练使用git、svn等源代码版本控制软件；
+7、 熟悉golang, lua等语言优先，有爬虫相关项目经验优先；
+8、 熟悉前端开发HTML+CSS, Javascript, Jquery, Ajax,熟悉
+react为加分项；
+9、具备团队合作精神，积极的工作态度和较强的责任心，良好的沟通和学习能力;

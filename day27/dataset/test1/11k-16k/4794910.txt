@@ -1,0 +1,8 @@
+工作职责    
+1. 负责公司网站的WEB后端框架层及业务层的实现2. 负责公司应用设计、功能实现并进行测试，部署及维护    
+
+任职要求    
+1. 计算机或相关专业本科及以上学历，有扎实的计算机基础知识2. 两年以上服务器端开发经验，熟悉Linux环境下的开发3. 熟悉Python语言，熟练掌握Django、Web.py、Tornado、Flask等至少1个Web开发框架，了解Tornado框架4. 动手搭建过实际上线的产品环境，如Apache,Nginx5. 熟悉多线程编程6. 熟悉Javascript / HTML / XML / JSON / HTML5 / JQuery7. 熟悉SQL语言，熟悉MySQL或者Oracle8. 有MongoDB、Redis、Memcached经验者优先    
+
+优先条件    
+1. 有过完整的项目开发经验，并有在运行项目的优先2. 有一定前端设计能力者优先能快速阅读英文文献、论文    

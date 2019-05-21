@@ -1,0 +1,4 @@
+1、三年以上实际工作经验，扎实的python基础；
+2、熟悉Linux常用命令，熟悉 jQuery；
+3、熟悉Flask/Django/Tornado框架中的一种；
+4、熟悉前端技术jquery，css，html，熟悉bootstrap框架；5、熟悉大数据分析优先.

@@ -1,0 +1,6 @@
+python 脚本语言 熟练掌握 （ 基础 语法 ） 
+ 了解 机器 学习 Tensorflow 
+ 使用 过 Django ， 能 使用 Django 搭建 后台 服务 ， 数据分析 ， 分析 算法 方向 如聚类 算法 
+ 加 分项 ： 
+ 会 其他 语言 如 JAVA ， js ， Sql 
+ 了解 至少 一种 前端 MVVM 框架 如 Angular ， vue ， react

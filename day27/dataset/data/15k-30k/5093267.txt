@@ -1,0 +1,27 @@
+工作职责：
+- 负责Glow核心业务的服务端开发工作
+- 根据产品需求，进行系统设计与编码
+- 持续优化业务架构，提升开发效率与服务端运行性能
+
+岗位要求：
+- 计算机相关专业本科以上学历
+- 对于软件工程，数据结构与算法有深入的了解
+- 精通Python语言，熟悉Flask, Celery, Sqlalchemy等常用Python类库
+- 了解常用数据库解决方案，包括MySQL, Redis, ElasticSearch等等
+- 有较强的英文交流能力，尤其是读写能力
+
+Glow 技术博客：
+tech.glowing.com
+
+公司背景：
+- Glow ( www.glowing.com ) 是一家来自硅谷的科技公司，专注于女性健康以及数据科技领域。由 Paypal 联合创始人 Max Levchin 以及前谷歌团队于2013年初成立。目前在旧金山以及上海都设有办公室，目标美国市场。其他成员大都来自腾讯，阿里，谷歌，微软，Oracle，Airbnb，Morgan Stanley，高盛等知名公司。
+- Glow的使命是建成世界一流的医疗平台和社区，通过科技、设计和服务提升人们的健康水平。公司成立之初就获得了投资过包括 Facebook, SpaceX, Airbnb 等的知名投资机构 Founders Fund 的 A 轮投资。在完成 B 轮共 2300 万美元的融资后，Glow 的影响力持续增长，正准备下一步扩张。C轮融资进行中。
+- 公司成立至今，已吸引超千万海外女性用户，并通过 4 款 app (Eve, Glow, Glow Nurture, Glow Baby) 和社区为用户提供极佳的健康管理体验 - 美国 app store 长期5星好评，累计评论数过5万。作为一家成立才 4 年的初创公司，在 2014 年和 2016 年两次获得互联网知名奖项 Webby Awards。Eve 在 Google Play Store 被评为2016年最佳 app。Apple在上线其医疗开发平台CareKit时，选择了Glow作为首日发布品牌。
+- 2017年初始，Glow Fertility Program正式上线，与美国各大城市顶尖的医院和诊所展开深入合作，为备孕中的女性用户提供更加专业的线下服务。
+- 2017年10月，Glow来到中国。向国内用户提供高端海外辅助生育治疗服务。
+
+- 2018年2月，Glow为中国用户设计的app *共乐孕* 正式上线。
+
+- 2018年6月，Glow与Apple共同为watchOS 5制作了Glow Baby在iWatch上的应用，并在苹果开发者大会WWDC上演示。
+
+- 更多产品和服务正在筹划进行中。

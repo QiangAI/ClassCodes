@@ -1,0 +1,11 @@
+必要 的 条件 ： 
+ · 实际 C# ， Python 或 JavaScript 项目 编程 经验 
+ · 独立 研究 和 解决问题 的 能力 
+ · 英文 邮件 
+ 期望 的 技能 : 
+ · Web / DB   开发 经验 
+ · 脚本 （ Batch ,   Perl ,   Shell ） 编程 经验 
+ · 持续 集成 工具 的 使用 ， 例如 Jenkins ,   TeamCity 。 
+ 
+ - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 项目 组组 是 做 Automation   System ，   Integration   System 的 ， 围绕 我们 服务 的 产品 进行 一些 工具 和 系统 的 开发 。

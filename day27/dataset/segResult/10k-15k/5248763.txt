@@ -1,0 +1,1 @@
+岗位 要求 ： 1 . 计算机相关 专业本科 以上学历 ， 3 年 以上 B / S 开发 工作 经验 ， 有 互联网 公司 系统 架构师 经验 2 . 至少 精通 java ， python ， go 其中 一个 技术 栈 和 企业级 应用 的 技术 架构 解决方案 3 、 熟练 使用 Spring   等 框架 、 熟悉   RPC 、 MQ   等 分布式 环境 常用 技术 ； 4 、 熟悉   MySQL 、 NoSQL 数据库 ， 有 ElasticSearch 或 Solr 使用 经验 ； 5 、 了解 使用 ROSE 、 Visio 、 PowerDesigner   nodejs 建模 工具 尤佳 。

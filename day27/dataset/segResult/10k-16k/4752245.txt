@@ -1,0 +1,11 @@
+Responsibilities : 
+ -   Provide   QA   for   development   of   a   web   based   application   in   an   agile   ( scrum )   environment ; 
+ -   Functional / regression   testing   of   browser - based   web   application   using   manual / automation   testing   methodologies ; 
+ -   Review ,   analyze   and   provide   feedback   on   user   stories ’   acceptance   criteria ; 
+ -   Create   and   execute   automated   test   cases   against   different   SDLC   environments   and   analyze   execution   results ; 
+ -   Ensure   defined   software   quality   assurance   procedures   are   being   followed ; 
+ 
+ Qualifications : 
+ -   Bachelor ’ s   degree ; 
+ -   5 +   years ’   experience   in   software   manual   and   automation   web   testing ; 
+ -   2 +   years ’   experience   in   automation   tools   ( Selenium )   &   testing   frameworks   ( Ruby ,   Java ,   python   MSTest ,   NUnit ,   xUnit ,   JUnit ) .

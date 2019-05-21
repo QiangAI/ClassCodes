@@ -1,0 +1,22 @@
+岗位 要求 ： 
+ 1 - 3 年 工作 经验 ， 计算机相关 领域 ； 
+ 熟练掌握 Linux 环境 下 python 开发 ； 
+ 熟练掌握 页面 解析 （ xpath 、 css   selector 、 beautifulsoup ） ， 熟练 使用 正则表达式 ； 
+ 熟练掌握 动态 加载 的 网站 的 爬 取 ； 
+ 熟练掌握 python 下 的 多线程 编程 以及 异步 编程 ； 
+ 熟练 使用 scrapy 框架 优先 ； 
+ 熟练掌握 网页 ： HTML ， CSS ， Javascript ； 
+ 熟悉 网络协议 ： HTTP / HTTPS ，   Websocket / Websockets ； 
+ 熟练 使用 数据库 ： MySQL ， Redis ， MongoDB ， HBase ， Hive ； 
+ 良好 的 沟通 能力 、 团队 合作 精神 ； 
+ 认真负责 、 具有 高度 责任感 ； 
+ 积极 面对 工作 ， 发挥 主观 能动性 解决问题 ； 
+ 优秀 的 学习 能力 ； 
+   
+ 工作 职责 ： 
+ 爬取 指定 网站 的 数据 ； 
+ 数据 清洗 ； 
+ 开发 基于 RESTful 协议 的 HTTP 服务 ； 
+ 开发 、 维护 爬虫 组 的 服务 ， 可以 采用 大量 新 技术 进行 尝试 ， 如 容器 、 hadoop 体系 等 ； 
+   
+ 组内 工作岗位 可以 轮转 ， 可以 为 组员 提供数据 领域 的 多 方向 职业 发展 的 路径 。

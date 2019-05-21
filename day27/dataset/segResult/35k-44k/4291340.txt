@@ -1,0 +1,39 @@
+Lead   Software   Engineer   –   UI / API 
+   
+ ABOUT   THE   OPPORTUNITY : 
+ FreeWheel   is   looking   for   passionate   Software   Engineers   to   help   design   and   build   our   high - quality ,   innovative   video   advertising   platform .   This   position   is   based   in   Beijing . 
+   
+ FreeWheel   helps   the   television   industry   to   monetize   their   premium   contents   through   a   robust 
+ technology   platform ,   which   enables   consumers   to   view   high   quality   videos   on   any   devices   including   PC ,   smart   phone ,   OTT   device ,   set - top   box   and   traditional   TV . 
+   
+ FreeWheel ’ s   Beijing   Engineering   Hub   is   the   center   of   our   global   engineering   group   that   is   building   the   one - stop   solution   for   TV   industry   to   manage   its   billion - dollar   revenue .   Our   tech   platform   is   capable   of   handling   billions   of   daily   requests ,   providing   insightful   forecasting   of   inventory   and   audience ,   processing   terabytes   of   raw   daily   data ,   and   optimizing   clients ’   business . 
+   
+ RESPONSIBILITIES : 
+ Be   responsible   for   the   complete   lifecycle   of   software   development ,   including   designing ,   prototyping ,   implementation ,   testing ,   maintenance   and   technical   support 
+ Produce   technical   specifications   and   determine   operational   feasibility 
+ Write   well   designed ,   testable ,   efficient   code 
+ Develop   software   verification   plans   and   quality   assurance   procedures 
+ Integrate   software   components   into   a   fully   functional   software   system 
+ Document   and   maintain   software   functionality 
+ Tailor   and   deploy   engineering   tools ,   processes   and   metrics 
+ Serve   as   the   expert   of   online   advertising   industry ,   and   drive   the   industry   with   continuous   technical   innovation 
+ Partner   with   global   engineering ,   product   and   operations   teams   to   further   incorporate   collective   innovations 
+   
+ A   Lead   Software   Engineer   in   UI / API   team   will 
+ Design   and   build   FreeWheel ’ s   flagship   products   in   high   quality   standard . 
+ Lead   a   project   team   to   analyze   and   solve   business   problem   across   a   product   line . 
+ Bring   in   best   practices   and   control   team ’ s   code / design   quality . 
+ Identify   improvement   needed   in   fundamental   technical   areas   and   lead   the   projects   to   implement   it . 
+ Mentor   team   members . 
+   
+ ABOUT   YOU : 
+ Extensive   experience   ( 6 +   years   preferred )   on   building   and   operating   large   scale   web - based   business   applications   including   web   sites ,   MIS ,   ERP ,   workflow   tools   etc . 
+ Solid   Knowledgeable   in   the   field   ( e . g .   http ,   LAMP ,   JAVA ,   cutting - edge   technologies ) 
+ Experience   with   Ruby   on   Rails   is   a   plus . 
+ Rich   experience   with   JavaScript ,   HTML / CSS ,   Ajax ,   and   popular   frameworks ,   like   JQuery ,   Bootstrap ,   etc . ,   is   a   plus . 
+ Experience   in   building   browser - based   rich - client   Web   application   is   a   plus . 
+ Strong   passion   with   learning   /   practicing   new   technics . 
+ Hands - on   technical   lead   experience   is   preferred . 
+ Team   working   skills ,   good   communication   skills ,   Willingness   to   work   under   pressure . 
+ Excellent   English   skills   on   listening ,   speaking ,   reading   and   writing . 
+ Master ’ s   degree   in   Computer   Science   or   related   field   is   a   plus .

@@ -1,0 +1,5 @@
+工作 职责 ： 
+ 1 . 负责 云 平台 Web 服务 开发 ； 
+ 2 . 负责 云 平台 运维 与 监控 
+ 任职 要求 ： 
+ 1 . 有 Web 开发 经验 ， 精通 Django 或 Flask ； 2 . 对 前端开发 有 一定 了解 ， 熟悉 html 、 css 、 js ； 3 . 熟悉 Linux 操作 ； 4 . 具备 良好 的 业务 理解 与 逻辑思维 能力 。 加 分项 ： 1 . 熟悉 OpenStack 运维 、 监控 、 api 调用 ； 2 . 熟悉 Zabbix 、 Naggios 、 OpenFalcon 等 监控 系统 ； 3 . 熟悉 Docker 、 Kubernetes 容器 技术 ； 4 . 对 敏捷 开发 、 DevOps 有 一定 理解 。

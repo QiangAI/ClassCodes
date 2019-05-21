@@ -1,0 +1,4 @@
+后端开发实习生1. python3基本语法2. mysql redis mongodb 基本的增删查改3. 对于http tcp websocket有基本的概念了解, 使用过django flask等框架尤佳4. 对于docker技术有上过手， 了解docket的基本概念和操作5. 要有基本英语能力， 能看懂英文技术文档6. 有 c/c++ java golang等语言开发能力的优先考虑7. 有asterisk freeswitch部署能力的优先考虑
+任职要求：
+1、统招本科及以上学历，计算机相关毕业
+2、有一定的抗压能力

@@ -1,0 +1,11 @@
+技能要求： 
+1、3年以上Python编程经验；如有Java经验，后转Python，经验年限可放低。 
+2、精通django等常用开发框架，有网络爬虫经验优先； 
+3、熟练使用Mysql等关系型数据库； 
+4、熟练使用HTML，CSS，JavaScript，JQuery； 
+5、熟悉python机器学习实战； 
+6、熟悉Linux下Shell、Python两种脚本语言；
+ 
+岗位职责： 
+1.按照教学大纲完成授课任务； 
+2.研发python课程教案等；

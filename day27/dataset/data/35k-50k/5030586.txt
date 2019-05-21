@@ -1,0 +1,11 @@
+岗位职责：
+1.根据问题类型设计数据结构和计算框架，承担核心研发；
+2.实时与离线大规模数据的处理的能力，存储等工作，及其相关核心研发。
+3.负责数据资源管理和维护
+任职要求：
+1. 本科及以上学历，2年以上开发经验
+1、精通Hadoop部署、开发、运维、管理优化；
+2、精通hadoop，Hbase核心架构和运作原理及性能调优，读过 Hadoop ，Hbase 核心代码；
+3、精通Java编程，熟悉脚本语言(Shell/Python）其中一种)；
+4、熟悉实时分析框架如Storm、Spark Streaming；
+5、熟悉hadoop生态圈周围产品，包括Spark、Hive、Hbase、Flume、Kafka 、Zookeeper、 等等;

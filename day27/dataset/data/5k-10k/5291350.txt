@@ -1,0 +1,8 @@
+专科  计算机及相关专业1. 计算机相关专业，2年以上系统运维工作经验；
+2. 精通 Linux 操作系统，熟悉   Nginx，KeepAlived，Jenkins 等常用开源软件的配置，优化及高可用架构；
+3.   至少掌握一门脚本语言（Shell/Python/Perl/Lua），并熟练使用 awk、sed、find 及系统监控命令；
+4. 有 DevOps   实战经验，熟悉 Docker、Kubernetes 等容器技术，具有大型系统运维经验者优先。
+
+
+负责系统产品的实施运维
+负责产品运维工具的持续优化

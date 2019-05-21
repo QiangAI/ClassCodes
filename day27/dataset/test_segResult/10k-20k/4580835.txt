@@ -1,0 +1,2 @@
+技能 要求 ： 
+ 1 、 需 具备 2 年 以上 Python 开发 经验 ； 2 、 熟悉 Python 语言 ， 熟练 使用 常用 模块 ， 使用 过 Django / flask 等 web 框架 ； 3 、 熟练 使用 至少 一种 数据库 （ MySQL / Redis / MongoDB ) 4 、 具有 良好 的 自学能力 ， 能 通过 研究 开源 项目 来 解决 开发 中 遇到 的 难题 ； 5 、 有 前端 （ HTML 、 CSS 、 JavaScript 、 JQuery 、 Bootstrap ） 开发 经验 是 加 分项 ； 6 、 熟悉 restful 风格 api 编程 ；

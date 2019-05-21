@@ -1,0 +1,10 @@
+岗位要求：
+1.熟练使用python,熟悉常用库（requests、paramiko、pdb、subprocess、multiprocessing等），熟悉python的多线程多进程，能优化脚本速度。
+2.熟悉mysql/postgr等数据库操作。
+3.熟悉linux环境，会shell基本命令和语法，能写脚本。会使用VMware部署Linux环境并配置网络，对linux网络有认识。
+4.会使用git管理版本。
+5.有快速学习能力，沟通能力等通用能力。
+学历要求：
+1.本科以上学历，1-3年以上工作经验。
+2.积极向上，稳定性强。
+3.能力强，公司可以培养团队PM岗

@@ -1,0 +1,17 @@
+1 、 本科 或 以上学历 
+ 
+ 2 、 需 具备 3 年 以上 Python 开发 经验 ， 有 大型 分布式系统 开发 经验 者 优先 ； 
+ 
+ 3 、 熟悉 Python 语言 ， 熟练 使用 常用 模块 ， 使用 过 Django / Tornado 等 web 框架 ； 
+ 
+ 4 、 有过 大 数据 相关 经验 ， ELT 处理 经验 优先 
+ 
+ 5 、 具有 良好 的 自学能力 ， 能 通过 研究 开源 项目 来 解决 开发 中 遇到 的 难题 ； 
+ 
+ 6 、 熟悉 以下 技术 者 优先 考虑 ， Hadoop ,   Spark ,   MongoDB ,   MySQL 
+ 
+ 7 、 有 前端 （ HTML 、 CSS 、 JavaScript 、 JQuery 、 Bootstrap ） 开发 经验 是 加 分项 ； 
+ 
+ 8 、 熟悉 腾讯 云 ， 熟悉 Docker 
+ 
+ 9 、 靠 谱 ， 有 责任心

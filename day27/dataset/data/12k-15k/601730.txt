@@ -1,0 +1,10 @@
+1.数据仓库架构设计、建模和ETL开发，构建可扩展的数据仓库和分析解决方案；
+2.梳理业务逻辑，帮助业务建设指标体系，帮助业务管理运营的效率提升以及提供业务策略；
+
+开发/测试工具要求：
+熟悉linux开发环境；
+熟练使用sql、shell；
+熟练掌握java、scala、python中的一种或多种；" 
+
+其它要求：
+具有大数据项目经验，掌握Hdoop生态圈，如Spark、MapReduce、Hive、Hbase、kafka、flume、mahout、Pig等。 

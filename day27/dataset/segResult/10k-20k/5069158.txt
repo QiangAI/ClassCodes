@@ -1,0 +1,8 @@
+负责 创新 技术 的 引入 、 开发 、 升级 和 维护 ， 主要 涉及 后台 系统 的 PAFA 封装 和 数据 接入 ， 如 ： 
+ 1 、 三年 以上 java 开发 经验 ， javaee 基础 良好 ； 
+ 2 、 熟悉 oracle ， redis 、 mongodb ； 
+ 3 、 熟悉 springredisibatics 等 框架 ； 
+ 4 、 熟悉 java 分布式系统 开发 ， 了解 dubbo 等 ； 
+ 5 、 熟悉 linux ； 
+ 6 、 有 金融 系统 经验 优先 ， 思维 严禁 
+ 7 、 有 C++ / Python 开发 经验 更佳

@@ -1,0 +1,10 @@
+职位描述：
+1、具有统招硕士以上学历，计算机等或相关专业；
+2、要求1年以上python项目开发经验，精通Python语言，熟悉语音audio、socket网络编程等；
+3、熟悉基于Python的Web开发技术，熟悉Flask、Django、Tornado等常见架构至少一种；
+4、熟悉H5、CSS、Javascript等前端技术者优先；
+5、熟悉PostgreSQL，熟悉MySql/MongoDB/Redis/Memcache等优先；
+任职要求：
+1、计算机相关专业硕士及以上学历，软件设计与开发经验实习经验；
+2、掌握Java、Python等编程语言，熟悉网页抓取原理及技术、正则表达式、xpath，能够总结分析不同网站的结构特点与规律，能够从结构化和非结构化的数据中获取信息；
+3、有分布式爬虫架构经验者优先；

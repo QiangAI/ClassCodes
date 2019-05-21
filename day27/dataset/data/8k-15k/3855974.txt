@@ -1,0 +1,9 @@
+1.   负责公司数据仓库建设
+2.   负责公司数据应用开发
+负责数据质量保证等
+任职资格：
+1.  oracle、MySQL、SQL Server
+2.  精通SQL开发，熟悉Hadoop平台相关组件，熟练使用Hive
+3.  熟悉主流ETL工具，如DataStage，Informatica，Kettle等
+4.  熟悉相关脚本语言、如Shell，python等，有Java相关工作经验更好
+熟悉数据仓库、维度建模等相关领域知识

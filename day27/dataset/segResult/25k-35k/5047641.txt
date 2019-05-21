@@ -1,0 +1,7 @@
+1 、 参与 monitor 后台 hadoop , spark   计算 项目 的 开发 ， 优化 ， 部署 ; 
+ 2 、 处理 产品线 日常 的 维护性 任务 ; 
+ 3 、 参与 monitor 后台 项目 和 流程 的 整合 设计 ， 运用 成熟 的 技术 架构 进行 升级 优化 。 
+ 岗位 要求 : 
+ 1 、 熟悉 使用 hadoop / hive / hbase / spark / elasticsearch 等 中 的 两种 及 以上 ; 
+ 2 、 熟悉 linux   操作系统 ， 熟悉 shell 脚本 编程 ; 
+ 3 、 熟练 使用 java ， python ,   shell 中 两种 及 以上 ;   4 、 熟练 使用 以上 工具 进行 大 数据 计算 项目 的 开发 ， 调试 优化

@@ -1,0 +1,6 @@
+工作 职位 要求 ： 
+ 1 . 统招 本科 及 以上学历 ， 计算机 或 相关 专业 毕业 
+ 2 . 熟悉 python 编程 , 最好 对 django , Flask 等 框架 有 一定 的 了解 对 前端 知识 , HTML , CSS , Bootstrap , JavaScript , JQuery , aJax 等 有 一定 了解 和 项目 经验 熟悉 Linux 系统 和 平台 编程 , 　 
+ 3 . 熟悉 shell 对 计算机系统 原理 和 网络 有 一定 的 了解 熟悉 基本 的 数据库 例如 MySQL 等 
+ 4 . 具备 工作 主动性 和 团队 合作 能力 加 分项 ： 对 Zabbix , Nagios , OpenFalcon 等 监控 框架 有 了解 对 ElasticSearch 框架 , 时序 数据库 等 有 一定 了解 对 树莓 派 生态 链有 一定 了解 对 ansible , chef , puppet 有 一定 了解 能够 熟练 阅读 英文 文档 
+ 5 . 懂 Git ， scons , makefile

@@ -1,0 +1,51 @@
+作为平台团队的一员，负责后端系统、数据库、内部api、弹性搜索实现和其他系统。按时交付软件和系统改进、新特性和新产品，并遵循良好的编码标准
+
+必要
+至少4年在专业环境中与Python一起工作
+精通英语（阅读、打字、口语）
+有经验：
+Python框架，如Django和Flask
+Python ORM（例如 SQLAlchemy）
+Gevent或另一个不同时期的文库
+在MySQL中建模数据和优化性能的能力
+理解多处理、多线程和基于事件的服务器之间的差异
+已经使用了诸如此类的自动化技术，如Ansible，Docker，Vagrant，Travis,CI等。
+能够使用linux/macos;舒适的在命令行
+
+希望
+熟悉GitHub,JIRA和Slack
+NoSQL经验
+TCP/IP,HTTP协议、套接字技术（ZeroMQ）
+PHP语言能力和Laravel框架知识
+SOA和/或REST架构实践
+熟悉亚马逊AWS云服务
+有很强的组织能力，能够在时间限制的约束下处理多个任务
+对细节的关注和对Linux技术的理解
+对学习新事物充满激情并与队友分享
+灵活的和反应快节奏的环境中工作
+
+Be a member of the platform team responsible for backend systems, databases, internal APIs, Elasticsearch implementation, and other systems. Deliver software and system improvements, new features, and new products on time and following good coding standards.
+
+Required
+At least 4 years working with Python in a professional environment
+Proficient in English (reading, typing, speaking)
+Experience with:
+Python frameworks such as Django and Flask
+A Python ORM (e.g. SQLAlchemy)
+Gevent or another asynchronous library
+Ability to model data and optimize performance in MySQL
+Understand difference between multiprocessing, multithreading, and event based servers
+Have used automation technologies such as Ansible, Docker, Vagrant, Travis CI, etc.
+Be able to use Linux/MacOS on a daily basis; comfortable on command line
+
+Desired
+Familiar with GitHub, JIRA, and Slack
+NoSQL experience
+TCP/IP, HTTP protocol, socket technologies (ZeroMQ)
+PHP language proficiency and knowledge of Laravel framework
+SOA and/or REST architecture practices
+Familiarity with Amazon AWS cloud services
+Strongly organized, able to juggle multiple tasks within the constraints of timelines
+Attention to detail and an understanding of Linux technologies
+Be passionate about learning new things and sharing them with teammates
+Flexible to work in an agile and fast paced environment

@@ -1,0 +1,51 @@
+作为 平台 团队 的 一员 ， 负责 后 端系统 、 数据库 、 内部 api 、 弹性 搜索 实现 和 其他 系统 。 按时 交付 软件 和 系统 改进 、 新 特性 和 新 产品 ， 并 遵循 良好 的 编码标准 
+ 
+ 必要 
+ 至少 4 年 在 专业 环境 中 与 Python 一起 工作 
+ 精通 英语 （ 阅读 、 打字 、 口语 ） 
+ 有 经验 ： 
+ Python 框架 ， 如 Django 和 Flask 
+ Python   ORM （ 例如   SQLAlchemy ） 
+ Gevent 或 另 一个 不同 时期 的 文库 
+ 在 MySQL 中 建模 数据 和 优化 性能 的 能力 
+ 理解 多 处理 、 多线程 和 基于 事件 的 服务器之间 的 差异 
+ 已经 使用 了 诸如此类 的 自动化 技术 ， 如 Ansible ， Docker ， Vagrant ， Travis , CI 等 。 
+ 能够 使用 linux / macos ; 舒适 的 在 命令行 
+ 
+ 希望 
+ 熟悉 GitHub , JIRA 和 Slack 
+ NoSQL 经验 
+ TCP / IP , HTTP 协议 、 套 接字 技术 （ ZeroMQ ） 
+ PHP 语言 能力 和 Laravel 框架 知识 
+ SOA 和 / 或 REST 架构 实践 
+ 熟悉 亚马逊 AWS 云 服务 
+ 有 很 强 的 组织 能力 ， 能够 在 时间 限制 的 约束 下 处理 多个 任务 
+ 对 细节 的 关注 和 对 Linux 技术 的 理解 
+ 对 学习 新 事物 充满 激情 并 与 队友 分享 
+ 灵活 的 和 反应 快节奏 的 环境中工作 
+ 
+ Be   a   member   of   the   platform   team   responsible   for   backend   systems ,   databases ,   internal   APIs ,   Elasticsearch   implementation ,   and   other   systems .   Deliver   software   and   system   improvements ,   new   features ,   and   new   products   on   time   and   following   good   coding   standards . 
+ 
+ Required 
+ At   least   4   years   working   with   Python   in   a   professional   environment 
+ Proficient   in   English   ( reading ,   typing ,   speaking ) 
+ Experience   with : 
+ Python   frameworks   such   as   Django   and   Flask 
+ A   Python   ORM   ( e . g .   SQLAlchemy ) 
+ Gevent   or   another   asynchronous   library 
+ Ability   to   model   data   and   optimize   performance   in   MySQL 
+ Understand   difference   between   multiprocessing ,   multithreading ,   and   event   based   servers 
+ Have   used   automation   technologies   such   as   Ansible ,   Docker ,   Vagrant ,   Travis   CI ,   etc . 
+ Be   able   to   use   Linux / MacOS   on   a   daily   basis ;   comfortable   on   command   line 
+ 
+ Desired 
+ Familiar   with   GitHub ,   JIRA ,   and   Slack 
+ NoSQL   experience 
+ TCP / IP ,   HTTP   protocol ,   socket   technologies   ( ZeroMQ ) 
+ PHP   language   proficiency   and   knowledge   of   Laravel   framework 
+ SOA   and / or   REST   architecture   practices 
+ Familiarity   with   Amazon   AWS   cloud   services 
+ Strongly   organized ,   able   to   juggle   multiple   tasks   within   the   constraints   of   timelines 
+ Attention   to   detail   and   an   understanding   of   Linux   technologies 
+ Be   passionate   about   learning   new   things   and   sharing   them   with   teammates 
+ Flexible   to   work   in   an   agile   and   fast   paced   environment

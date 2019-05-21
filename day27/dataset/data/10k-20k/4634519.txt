@@ -1,0 +1,5 @@
+熟练使用 Linux，包括但不限于 Redhat/CentOS/Debian/Ubuntu 等发行版本
+熟练使用 Docker, 熟悉 Docker 生态系统
+熟练掌握 Bash 的使用，熟悉 Python 加分
+熟悉 Nginx, Git, PostgreSQL 的搭建，维护和使用
+搭建/使用/研究过持续集成相关的服务

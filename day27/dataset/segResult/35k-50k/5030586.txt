@@ -1,0 +1,11 @@
+岗位职责 ： 
+ 1 . 根据 问题 类型 设计 数据结构 和 计算 框架 ， 承担 核心 研发 ； 
+ 2 . 实时 与 离线 大规模 数据 的 处理 的 能力 ， 存储 等 工作 ， 及其 相关 核心 研发 。 
+ 3 . 负责 数据 资源管理 和 维护 
+ 任职 要求 ： 
+ 1 .   本科 及 以上学历 ， 2 年 以上 开发 经验 
+ 1 、 精通 Hadoop 部署 、 开发 、 运维 、 管理 优化 ； 
+ 2 、 精通 hadoop ， Hbase 核心 架构 和 运作 原理 及 性能 调优 ， 读过   Hadoop   ， Hbase   核心 代码 ； 
+ 3 、 精通 Java 编程 ， 熟悉 脚本语言 ( Shell / Python ） 其中 一种 ) ； 
+ 4 、 熟悉 实时 分析 框架 如 Storm 、 Spark   Streaming ； 
+ 5 、 熟悉 hadoop 生态圈 周围 产品 ， 包括 Spark 、 Hive 、 Hbase 、 Flume 、 Kafka   、 Zookeeper 、   等等 ;

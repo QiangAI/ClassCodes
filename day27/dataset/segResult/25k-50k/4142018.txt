@@ -1,0 +1,18 @@
+负责 Predictive   Maintenance 产品 的 算法 开发 ， 参与 智能 工业 物 联网 平台 建设 
+ 选择 适合 的 机器 学习 算法 、 AI 算法 、 特别 是 深度 学习 算法 解决 实际 问题 
+ 配合 工程师 将 算法 集成 到 软件产品 中 ， 并 为 客户 带来 价值 
+ 
+ 任职 要求 ： 
+ 计算机 、 数学 、 统计 、 化工 、 机械 等 相关 专业 硕士 ， 博士 优先 
+ 强大 的 数学知识 背景 （ 线性代数 ， 微积分 ， 概率 统计 ） 
+ 有 机器 学习 实战经验 （ 如 regression   analysis ,   time   series ,   probabilistic   models ,   supervised   classification   and   unsupervised   learning 等 ） 
+ 有 深度 学习 经验   （ DNN ) 
+ 有 MapReduce 、 Streaming 经验 
+ 擅长 Python 或者 R 语言 
+ 善于 沟通 ， 并 可以 独立思考 完成 任务 的 能力 
+ 
+ 加 分项 ： 
+ 国内外 一流 学校 毕业 
+ 有 JAVA 或 Scala 经验 
+ 化工 或者 机械 等 相关 专业 背景 
+ 在 Github 上 有 上传 代码 或 demo

@@ -1,0 +1,26 @@
+外派 职位 ， 介意 勿扰 
+ •   Minimum 
+ o   Solid   work   experience   in   Python   and   related   web   framework   knowledge ,   like   Django / Flake 
+ o   Skilled   at   least   one   of   the   database   technology ,   like   MySQL / SQL   Server / Oracle / PostgreSQL ,   or   NoSQL   database   like   MongoDB 
+ o   Familiar   with   REST   APIs   and   the   rest   framework   based   on   python 
+ •   Plus 
+ o   Experience   with   developing / testing / deploying   micro - services   is   a   big   plus 
+ o   Experience   with   JavaScript / Node . js   is   a   good   plus 
+ •   Others 
+ o   BS   or   equal   education   in   computer   science   or   related   technical   discipline 
+ o   Proactive ,   Fast - learning ,   good   communication   and   teamwork 
+ o 在 Python 和 相关 web 框架 知识 方面 的 扎实 工作 经验 ， 如 Django / Flake 。 
+ 
+ o 熟练掌握 至少 一种 数据库 技术 ， 比如 MySQL / SQL   Server / Oracle / PostgreSQL ， 或者 MongoDB 之类 的 NoSQL 数据库 
+ 
+ o 熟悉 REST   api 和 基于 python 的 REST 
+ 
+ o 有 开发 / 测试 / 部署 微型 服务 的 经验 者 优先 
+ 
+ o 经验 使用 JavaScript   / 节点 。 js 是 个 不错 的 选择 
+ 
+ • 其他 
+ 
+ o 本科 或 同等学历 ， 计算机科学 或 相关 技术 专业 
+ 
+ o 积极主动 、 快速 学习 、 良好 的 沟通 和 团队 合作

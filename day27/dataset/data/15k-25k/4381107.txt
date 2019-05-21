@@ -1,0 +1,14 @@
+Responsibility：
+1. Feature design, review and implementations with excellent quality on schedule.
+2. Conduct troubleshooting and bug fixing effectively.
+3. Deliver the whole effective solutions on schedule with good quality and testability.
+4. Handle cases coming from customers.
+5. New technology study and initiative to fit SaaS product development if necessary as plus.
+
+Qualification：
+1. Bachelor's or Master’s Degree in Computer Science or related field.
+2. At least two years Linux platform development experiences.
+3. Should be adaptive and fasting learning for quick changing requirement.
+4. Proficient in at least one of the following languages: Go/Python/Java. Or strong C/C++ programming, troubleshooting and performance turning experience.
+5. Fast learning with self-motivations and innovation potential for problem solving and new initiative, can work with high pressure without monitoring.
+6. Team players with good English reading and document writing skills.

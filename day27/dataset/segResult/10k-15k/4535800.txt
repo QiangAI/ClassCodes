@@ -1,0 +1,11 @@
+技能 要求 ：   
+ 1 、 3 年 以上 Python 编程 经验 ； 如有 Java 经验 ， 后 转 Python ， 经验 年限 可放低 。   
+ 2 、 精通 django 等 常用 开发 框架 ， 有 网络 爬虫 经验 优先 ；   
+ 3 、 熟练 使用 Mysql 等 关系 型 数据库 ；   
+ 4 、 熟练 使用 HTML ， CSS ， JavaScript ， JQuery ；   
+ 5 、 熟悉 python 机器 学习 实战 ；   
+ 6 、 熟悉 Linux 下 Shell 、 Python 两种 脚本语言 ； 
+   
+ 岗位职责 ：   
+ 1 . 按照 教学大纲 完成 授课 任务 ；   
+ 2 . 研发 python 课程 教案 等 ；

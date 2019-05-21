@@ -1,0 +1,4 @@
+1 、 三年 以上 实际 工作 经验 ， 扎实 的 python 基础 ； 
+ 2 、 熟悉 Linux 常用命令 ， 熟悉   jQuery ； 
+ 3 、 熟悉 Flask / Django / Tornado 框架 中 的 一种 ； 
+ 4 、 熟悉 前端 技术 jquery ， css ， html ， 熟悉 bootstrap 框架 ； 5 、 熟悉 大 数据分析 优先 .

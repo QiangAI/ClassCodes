@@ -1,0 +1,8 @@
+职责 ： 
+ 易 工作 ( http : / / easydo . cn ) 的 开发 和 维护 
+ 要求 ： 
+ 熟悉 一门 python   web 框架 
+ 成熟 、 良好 的 编码 能力 
+ 良好 的 学习 能力 、 分析 问题 解决问题 的 能力 
+ 有 一定 的 系统 设计 和 架构 经验 
+ 熟悉 elasticsearch 、 redis 、 docker 、 oauth 、 ceph 更佳

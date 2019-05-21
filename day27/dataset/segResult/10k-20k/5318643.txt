@@ -1,0 +1,10 @@
+工作 职责 ： 
+ 1 、 数据分析 、 采集 、 挖掘 、 清洗 、 整合 、 入库 及 备份 等 数据 日常 工作 ； 
+ 2 、 能够 根据 项目 的 实际 需要 ， 进行 技术 方案 的 分析 、 选型 ； 
+ 3 、 研究 各种 网页 探寻 特点 和 规律 ， 负责 网页 信息 抽取 、 数据 清洗 等 研发 和 优化 工作 ； 
+ 
+ 任职 要求 ： 
+ 1 、 统招 本科 及 以上学历 ， 计算机 、 数学 、 统计学 相关 专业 ； 
+ 2 、   2 年 以上 相关 工作 经验 ， 熟练掌握 python ， 掌握 requests 、 pandas 、 scrapy 、 selenium 、 sqlalchemy 等 ； 
+ 3 、   熟悉 了解 html 、 css 、 javascript ， 懂得 分析 常见 web 界面 结构 ， 掌握 基本 jquery 、 css 、 xpath   等 语法 ； 
+ 4 、   熟悉 掌握 sql 语言 ， 熟悉 （ mysql   postgresql   mssql   oracle   ) 其中 一种 ；

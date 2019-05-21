@@ -1,0 +1,15 @@
+岗位职责 
+ 
+ 1 .     负责 基于 区块 链 ( Blockchain ) 项目 的 web 应用 的 设计 及 开发 ； 
+ 2 .     负责 快速 迭代 验证 有 可能 应用 到 区块 链 技术 的 新 想法 ； 
+ 3 .     负责 完成 前端 Web 界面 与 后台 数据 交互 、 动态 信息 展现 。 
+ 
+ 职位 要求 
+ 1 .   三年 以上 web 开发 经验 ， 并 拥有 至少 一年 的 Node . js 开发 经验 ；   
+ 2 .   JavaScript   基本概念 清晰 ， 熟练掌握 闭包 、 事件 、 回调 、 Promise   等 ， 熟悉 jQuery ,   Angular   JS ,   React   JS , IONIC 等 ， 熟悉 SASS ,   LESS ,   Require   JS ,   grunt ,   gulp   等 工具 ； 
+ 3 .   了解 ES6 / ES7 新 特性 ， 熟练 运用 Express 、 KOA 等 框架 ； 
+ 4 .   具有 . NET 、   Java 、 Python 、 PHP 等 其中 一种 后 端 语言 的 开发 经验 ； 
+ 5 .   熟悉   MongoDB ， Redis ， MySQL ， RabbitMQ   一种 或 多种 ； 
+ 6 .   为 自己 的 代码 编写 单元测试 代码 ，   熟悉 测试 流程 
+ 7 .   善于 思考 ， 能 独立 分析 和 解决问题 ； 
+ 8 .   责任心 强 ， 具备 良好 的 团队 合作 精神 和 承受 压力 的 能力 。

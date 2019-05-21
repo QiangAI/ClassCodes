@@ -1,0 +1,14 @@
+岗位职责 ： 
+ 1 、   制作 课程 案例 ， 编写 教学 文档 ； 
+ 2 、   负责 攻关 技术 难点 ， 学习 最新 的 技术 ， 整理 文档 并 分享 ； 
+ 任职 要求 ： 
+ 1 、   熟练掌握 Python 语言 ， 3 年 以上 Web 开发 经验 ； 
+ 2 、   精通 Python 程序设计 、 熟悉 Flask 、 Django 或 Tornado 等 框架 ； 
+ 3 、   熟悉 Linux 操作 环境 ， 熟练 使用 Mysql 、 Nginx 、 MongoDB 、 
+ Redis 等 数据库 ， 以及 数据库 优化 ； 
+ 5 、   熟悉 HTTP 协议 及 原理 ， Socket 通信 ； 
+ 6 、   熟练 使用 git 、 svn 等 源代码 版本 控制软件 ； 
+ 7 、   熟悉 golang ,   lua 等 语言 优先 ， 有 爬虫 相关 项目 经验 优先 ； 
+ 8 、   熟悉 前端开发 HTML + CSS ,   Javascript ,   Jquery ,   Ajax , 熟悉 
+ react 为加 分项 ； 
+ 9 、 具备 团队 合作 精神 ， 积极 的 工作 态度 和 较 强 的 责任心 ， 良好 的 沟通 和 学习 能力 ;

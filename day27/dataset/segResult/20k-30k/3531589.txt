@@ -1,0 +1,2 @@
+职责 描述 ： * 负责 直播 云 平台 开发 * 负责 直播 监控 数据 平台 开发 
+ 职位 要求 ： * 精通 python 开发 ， 并 有 Web 应用 项目 经验 ； * 熟悉 python + nginx + fastcgi 应用 组合 ； * 熟悉 python 高 并发 框架 ， 如 twisted 、 tornado 、 gevent 之一 ； * 熟练 多线程 、 网络 、 异步 IO 等 ， 熟悉 应用 相应 的 python 库 ； * 熟练 应用 mongodb ， MQ 、 mysql 、 memcaced 、 redis 、 hbase 等 消息 、 缓存 、 数据库 组件 ； * 熟悉 golang ， lua 等 语言 优先 ； * 了解 C / C++ ， nginx ， rtmp ， ffmpeg 等 更好 ；

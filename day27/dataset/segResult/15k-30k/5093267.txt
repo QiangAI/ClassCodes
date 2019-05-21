@@ -1,0 +1,27 @@
+工作 职责 ： 
+ -   负责 Glow 核心 业务 的 服务端 开发 工作 
+ -   根据 产品 需求 ， 进行 系统 设计 与 编码 
+ -   持续 优化 业务 架构 ， 提升 开发 效率 与 服务端 运行 性能 
+ 
+ 岗位 要求 ： 
+ -   计算机相关 专业本科 以上学历 
+ -   对于 软件工程 ， 数据结构 与 算法 有 深入 的 了解 
+ -   精通 Python 语言 ， 熟悉 Flask ,   Celery ,   Sqlalchemy 等 常用 Python 类库 
+ -   了解 常用 数据库 解决方案 ， 包括 MySQL ,   Redis ,   ElasticSearch 等等 
+ -   有 较 强 的 英文 交流 能力 ， 尤其 是 读写能力 
+ 
+ Glow   技术 博客 ： 
+ tech . glowing . com 
+ 
+ 公司 背景 ： 
+ -   Glow   (   www . glowing . com   )   是 一家 来自 硅谷 的 科技 公司 ， 专注 于 女性 健康 以及 数据 科技领域 。 由   Paypal   联合 创始人   Max   Levchin   以及 前谷歌 团队 于 2013 年初 成立 。 目前 在 旧金山 以及 上海 都 设有 办公室 ， 目标 美国市场 。 其他 成员 大都 来自 腾讯 ， 阿里 ， 谷歌 ， 微软 ， Oracle ， Airbnb ， Morgan   Stanley ， 高盛 等 知名 公司 。 
+ -   Glow 的 使命 是 建成 世界 一流 的 医疗 平台 和 社区 ， 通过 科技 、 设计 和 服务 提升 人们 的 健康 水平 。 公司 成立 之初 就 获得 了 投资 过 包括   Facebook ,   SpaceX ,   Airbnb   等 的 知名 投资 机构   Founders   Fund   的   A   轮 投资 。 在 完成   B   轮共   2300   万美元 的 融资 后 ， Glow   的 影响力 持续增长 ， 正 准备 下 一步 扩张 。 C 轮 融资 进行 中 。 
+ -   公司 成立 至今 ， 已 吸引 超 千万 海外 女性 用户 ， 并 通过   4   款   app   ( Eve ,   Glow ,   Glow   Nurture ,   Glow   Baby )   和 社区 为 用户 提供 极佳 的 健康 管理 体验   -   美国   app   store   长期 5 星 好评 ， 累计 评论 数过 5 万 。 作为 一家 成立 才   4   年 的 初创 公司 ， 在   2014   年 和   2016   年 两次 获得 互联网 知名 奖项   Webby   Awards 。 Eve   在   Google   Play   Store   被 评为 2016 年 最佳   app 。 Apple 在 上线 其 医疗 开发 平台 CareKit 时 ， 选择 了 Glow 作为 首日 发布 品牌 。 
+ -   2017 年 初始 ， Glow   Fertility   Program 正式 上线 ， 与 美国 各 大城市 顶尖 的 医院 和 诊所 展开 深入 合作 ， 为备 孕中 的 女性 用户 提供 更加 专业 的 线下 服务 。 
+ -   2017 年 10 月 ， Glow 来到 中国 。 向 国内 用户 提供 高端 海外 辅助 生育 治疗 服务 。 
+ 
+ -   2018 年 2 月 ， Glow 为 中国 用户 设计 的 app   * 共乐 孕 *   正式 上线 。 
+ 
+ -   2018 年 6 月 ， Glow 与 Apple 共同 为 watchOS   5 制作 了 Glow   Baby 在 iWatch 上 的 应用 ， 并 在 苹果 开发者 大会 WWDC 上 演示 。 
+ 
+ -   更 多 产品 和 服务 正在 筹划 进行 中 。

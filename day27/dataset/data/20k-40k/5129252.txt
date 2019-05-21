@@ -1,0 +1,15 @@
+职责：基于Django开发Web应用，参与需求评估、功能完成、上线等一系列开发流程
+[岗位要求]：
+-熟悉python编程，有python/django或其他 python web 框架开发项目经验；
+-对MVC及Restful有深刻认识；
+-熟悉web前端技术；
+-具备数据库设计能力，较强的SQL能力；
+-熟练运用shell、git版本管理工具，熟悉nginx优先；
+-有代码洁癖；
+-聪明主动，热爱学习分享；
+ 
+[加分项]：
+-苹果重度用户、Linux爱好者、技术社区活跃分子；
+-熟悉高并发、Web性能调优；
+-熟悉云计算/大数据行业或openstack/hadoop/spark等优先
+-简历中包含个人博客/Github/V2EX地址.

@@ -1,0 +1,15 @@
+职责 ： 基于 Django 开发 Web 应用 ， 参与 需求 评估 、 功能 完成 、 上线 等 一系列 开发 流程 
+ [ 岗位 要求 ] ： 
+ - 熟悉 python 编程 ， 有 python / django 或 其他   python   web   框架 开发 项目 经验 ； 
+ - 对 MVC 及 Restful 有 深刻 认识 ； 
+ - 熟悉 web 前端 技术 ； 
+ - 具备 数据库 设计 能力 ， 较强 的 SQL 能力 ； 
+ - 熟练 运用 shell 、 git 版本 管理工具 ， 熟悉 nginx 优先 ； 
+ - 有 代码 洁癖 ； 
+ - 聪明 主动 ， 热爱 学习 分享 ； 
+   
+ [ 加 分项 ] ： 
+ - 苹果 重度 用户 、 Linux 爱好者 、 技术 社区 活跃分子 ； 
+ - 熟悉 高 并发 、 Web 性能 调优 ； 
+ - 熟悉 云 计算 / 大 数据 行业 或 openstack / hadoop / spark 等 优先 
+ - 简历 中 包含 个人 博客 / Github / V2EX 地址 .

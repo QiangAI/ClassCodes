@@ -1,0 +1,5 @@
+1 .   精通 python 语言 ， 了解   Django 、 Tornado   等 框架 中 的 一种 
+ 2 .   熟悉 MVC 三层 架构 ， 有 性能 优化 、 后台 集群 架构 的 实践经验 
+ 3 .   熟悉 HTML 、 CSS 、 JavaScript 等 前端开发 技术 优先 
+ 4 .   有 使用 JQuery 、 ExtJS 等 JS 类库 或 框架 的 开发 经验 优先 
+ 5 、 一年 两次 调薪 机会

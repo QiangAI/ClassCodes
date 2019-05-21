@@ -1,0 +1,12 @@
+Your   tasks ： 
+ • Act   as   a   developer   in   our   SCRUM   team 
+ • Develop   software   solutions   for   automated   tests 
+ • Develop   BMW   internal   tool 
+   
+ Your   qualifications ： 
+ Programming   skills   ( Python ,   SQL ,   JavaScript ) 
+ • Familiar   with   C++   or   Java 
+ • Web   development   experience   preferred 
+ • Experience   in   problem   solving   ( IT )   and   a   creative   mindset 
+ • High   levels   of   motivation   and   reliability 
+ • Fluent   in   English

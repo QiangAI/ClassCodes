@@ -1,0 +1,15 @@
+职位 描述 ： 
+ 岗位职责 ： 
+ 1 .   负责 Python   web 服务 开发 ； 
+ 2 .   参与 用户 画像 服务 开发 ； 
+ 3 .   负责 开发 推荐 系统 相关 模型 的 后台 管理 服务 ； 
+ 4 .   担任 部分 内部 服务 的 部署 运维 工作 ； 
+ 
+ 
+ 任职 要求 ： 
+   1 .   熟悉 至少 一种 python   web 框架 ， 如 : flask / django / tornado / bottle ； 
+   2 .   熟悉 mysql ,   mongo 等 常用 数据库 ； 
+   3 .   熟悉 numpy ,   scipy ,   pandas ； 
+   4 .   熟悉 常见 算法 与 数据结构 ， 有 ACM 相关 竞赛 经验 者 优先 
+   5 .   了解 基础 的 html ,   css 和 javascript ， 熟悉 vue / react / angular 优先 。 
+   6 .   对 机器 学习 算法 有所 了解 者 优先 。

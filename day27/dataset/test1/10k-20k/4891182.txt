@@ -1,0 +1,13 @@
+岗位介绍：AAT是一款基于web技术的针对移动通信核心网的自动化交付测试工具。AAT模拟无线侧RAN（UE,RNC/eNodeB）对3G/4G核心网SGSN-MME以及EPG进行功能测试和性能测试。
+web前端：html/css/javascript
+web后端：Python/Go/ flask
+测试引擎：Titan TTCN Framework
+
+任职资格：
+1、本科以上学历，通信/计算机/电信工程相关专业。
+2、1年以上服务器C/C++/Python/Go开发经验。
+3、熟悉Linux操作。
+4、熟悉IP网络，TCP/UDP等通信协议。
+5、熟悉敏捷开发，熟悉分布式高并发。
+6、有电信知识(GSM/GPRS, WCDMA和LTE系统)网络，特别是核心网经验是优势。
+7、良好的英语沟通能力(包括书面和口头)，能够清晰表达自己的想法。

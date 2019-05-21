@@ -1,0 +1,22 @@
+岗位要求：
+1-3年工作经验，计算机相关领域；
+熟练掌握Linux环境下python开发；
+熟练掌握页面解析（xpath、css selector、beautifulsoup），熟练使用正则表达式；
+熟练掌握动态加载的网站的爬取；
+熟练掌握python下的多线程编程以及异步编程；
+熟练使用scrapy框架优先；
+熟练掌握网页：HTML，CSS，Javascript；
+熟悉网络协议：HTTP/HTTPS， Websocket/Websockets；
+熟练使用数据库：MySQL，Redis，MongoDB，HBase，Hive；
+良好的沟通能力、团队合作精神；
+认真负责、具有高度责任感；
+积极面对工作，发挥主观能动性解决问题；
+优秀的学习能力；
+ 
+工作职责：
+爬取指定网站的数据；
+数据清洗；
+开发基于RESTful协议的HTTP服务；
+开发、维护爬虫组的服务，可以采用大量新技术进行尝试，如容器、hadoop体系等；
+ 
+组内工作岗位可以轮转，可以为组员提供数据领域的多方向职业发展的路径。

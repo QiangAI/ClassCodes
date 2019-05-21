@@ -1,0 +1,7 @@
+1 .     国内 统招 本科 ， 计算机相关 专业本科 及 以上学历 ； 
+ 2 .     3 年 以上 java 开发 经验 ， 能够 独立 完成 开发 任务 ； 
+ 3 .     精通 Java 语言 ， 熟悉 java 集合 、 io 、 多线程 等 ， 了解 jvm ， 掌握 Spring   、 SpringMVC 、 Spring   Boot 、 MyBatis 、 Dubbo 等 常用 框架 和 设计 ， 熟悉 使用 Redis 、 Mq 、 ZooKeeper 等 开源 工具 ； 
+ 4 .     掌握 一定 的 前端 技术 如 Javascript 、 Jquery 、 HTML 、 CCS ， 熟练 流行 的 前端 框架 ； 
+ 5 .     熟悉 主流 关系 型 数据库 ， 如 Oracle 、 mysql ， 能够 熟练 编写 SQL ； 
+ 6 .     全面 、 扎实 的 软件 知识结构 ， 了解 软件工程 、 设计模式 、 数据结构 、 算法 、 数据库 等 专业知识 ， 了解 分布式系统 开发 设计 、 高 可用 架构 等 知识 ； 
+ 7 .     了解 Linux 系统 常用命令 、 了解 Python 、 Shell 等 脚本语言 。

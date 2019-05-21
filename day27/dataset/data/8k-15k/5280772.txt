@@ -1,0 +1,11 @@
+岗位职责：
+1. 参与电商项目的后端设计与开发；
+2. 参与电商运营后台的设计与开发；
+3. 参与运营管理界面的设计与开发。
+
+任职要求：
+1、计算机或相关专业，大专及以上学历， 2年及以上开发经验，一定的英文阅读读能力，较强的学习能力和抗压能力 ；
+2、扎实的编程语言python/JS/Go功底，熟悉MySQL、Memcache，Redis数据库基础，有NoSQL经验者优先 ；
+3、有AWS使用经验，熟练使用Apigateway、Dynamodb、Lambda,S3、CloudFront、SQS,SNS、CloudwatchLog ；
+4、有后端开发经验，熟悉Express,Django,Flask,Beego优先；
+5、有前后端架构和技术选型经验者优先。

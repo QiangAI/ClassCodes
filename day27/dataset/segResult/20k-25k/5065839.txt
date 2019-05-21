@@ -1,0 +1,14 @@
+1   协助 完成 金融类 数据 的 建模 。 
+ 2   负责 金融类 数据 的 清洗 、 整合 ， 分析 及 挖掘 。 
+ 3   负责 金融类 数据 的 对外 服务 。 
+ 
+ 职位 要求 ： 
+ 1   熟练掌握 python 基础知识 。 
+ 2   熟悉 数据 抓取 及 提取 工具 ， 如 :   scrapy ,   scrapy - redis ,   beautifulsoup ,   xpath ,   正则表达式 等 。 
+ 3   熟悉 NoSql 数据库 （ mongo ， redis 等 ） 。 若 熟悉 graphic 数据库 （ 如 neo4j 等 ） 者 优先 。 
+ 4   有 使用 搜索引擎 工具 （ 如 elasticsearch 等 ） 者 优先 。 
+ 5   有 使用 spark 大 数据 平台 者 优先 。 
+ 6   熟练 使用 numpy ， pandas ， scipy 等 科学计算 工具 。 
+ 7   熟悉 机器 学习 和 数据挖掘 等 算法 的 原理 及 使用 。 
+ 8   熟练 使用 tornado 等 web 框架 。 
+ 9   能 接受 外派 至 杭州 者 优先 。

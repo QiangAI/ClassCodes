@@ -1,0 +1,37 @@
+Trade X is a two-sided global B2B automotive trading platform to connect buyer and seller in an end-to-end service solution.
+
+Our mission is to unlock the economic benefits and simplify the complexity of global trade through the power of technology.
+
+Our vision is to develop the future operating system of cross-border trade.
+
+Our community of traders get access to transparent and efficient digital marketplace and a complete suite of trade instruments to perform cross-border transactions. 
+
+We have combined a global inventory and distribution system, trade compliance, digital trade documentation, international payments, global forwarding, trade financing solutions and reputation systems in a single platform to deliver a safer, faster and more efficient experience.
+
+注：Trade X 为星垂智能 ZENO 持股的合资公司，通过面试的候选人将直接与 Trade X 签订劳动合同，工作地点为上海浦东。
+
+
+Responsibilities
+
+- 负责制定和改良开发规范，持续改进代码稳定性和可靠性
+- 负责服务架构优化，解决重要技术问题
+- 负责研究并实践前沿技术
+- 带领团队一起定义，设计，和发布新功能
+- 识别并纠正产品瓶颈以及修复 BUG
+
+
+Requirements
+
+- 丰富的数据库设计与优化经验
+- 熟悉 memcache/redis 等缓存技术
+- Django/DRF 开发经验，分布式经验
+- 熟悉常用网络协议（HTTP/WebSocket）
+- 综合问题排查能力
+- 五年以上 Python 工作经验
+- 熟悉 Clean Code, 代码重构等概念并且有实践经验
+- 熟悉 Linux 系统下的系统管理 (Docker/Process/Build)
+- 良好的代码习惯和 GitHub 协作能力
+- 良好的英文沟通能力，英文文档写作能力
+
+- 优先考虑拥有软件工程、计算机及电子工程的学士或硕士学位的候选者
+- 优先考虑有 统计/数据分析/机器学习 经验的候选人

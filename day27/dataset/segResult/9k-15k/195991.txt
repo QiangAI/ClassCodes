@@ -1,0 +1,8 @@
+岗位职责 ： 
+ 负责 森果 各 系统 Web 后端 功能 开发 、 数据处理 和 系统维护 等 。 
+ 必备 技能 ： 
+ -   熟悉 Python 语言 及其 特性 ， 了解 相关 Python   Web 框架 ; -   熟悉 MySQL 的 基本操作 ; -   掌握 面向对象 的 程序设计 思想 ; -   熟悉 Linux 开发 环境 ; -   至少 使用 Python 开发 过 一个 Web 应用 ; 
+ 加 分项 ： 
+ -   学无止境 ， 新 框架 新 技术 分 分钟 搞定 ; -   玩过 至少 一种 非 关系 型 数据库 ; -   熟悉 HTML5   /   CSS3   /   JS ; -   熟练 使用 Python 标准 库 ， 熟悉 sqlalchemy 、 celery 、 requests 、 numpy 、 pandas 等 第三方 库 -   了解 非 阻塞 Web 框架 Tornado 的 特性 ， 使用 Tornado 开发 过 Web 应用 
+   
+ 简历 务必 附上 github 地址

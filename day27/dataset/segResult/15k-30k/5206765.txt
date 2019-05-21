@@ -1,0 +1,15 @@
+工作 职责 / Job   Responsibilities : 
+ 1 .   为 公司 数据 产品设计 和 维护 Hadoop   workflow / ETL 
+ 2 .   设计 、 实现 或 迁移 data   science   的 算法 （ 已有 的 论文 ， R 或 python 语言 ） 到 Hadoop 环境 
+ 3 .   作为 大 数据 的 顾问 为 全 公司 推荐 合适 的 工具 解决 大 数据 问题 
+ 4 .   作为 data   platform   team 的 成员 ， 要 和 公司 其他 team 协作 ， 像 Search / Map / Auto / Client 
+ 5 .   为 公司 内部 的 大 数据 技术 需求 提供 解决方案 
+ 
+ 职位 要求 / Requirement :       
+ 1 .   计算机 及 相关 专业 毕业 ， 本科 或 以上学历 
+ 2 .   2 年 以上 分布式 ， 高 并发 工作 经验 
+ 3 .   精通 Java 或 python （ 如果 只有 其他 编程语言 经验 并 愿意 学习 的 也 欢迎 ） 
+ 4 .   精通 大 数据 技术 ( MapReduce ,   Hive ,   Spark ,   Kafka ,   Yarn ,   Storm ) ， 理解 Hadoop 生态圈 实时 和 离线 批次 处理 的 相关 技术 
+ 5 .   熟悉 AWS 相关 服务者 优先 ， 比如 EMR ， data   pipeline 等等 
+ 6 .   熟悉 数据挖掘 ， 机器 学习 ， 自然语言 处理 或 相关 技术 者 优先 
+ 7 .   有 统计学 知识者 优先

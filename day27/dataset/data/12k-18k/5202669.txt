@@ -1,0 +1,1 @@
+大专及以上学历，计算机软件或相关专业，2年以上Python开发经验；对DevOps理念、运维自动化、监控系统、发布系统等有开发经验者优先；掌握Django框架、MySQL及Redis数据库；有H5、css、js、vue、angular等使用经验者优先；有k8s、docker、jenkins、elk 等使用经验者优先；具备良好的学习能力、沟通能力、团队精神，良好的编程和文档管理能力；

@@ -1,0 +1,10 @@
+工作职责：
+1、数据分析、采集、挖掘、清洗、整合、入库及备份等数据日常工作；
+2、能够根据项目的实际需要，进行技术方案的分析、选型；
+3、研究各种网页探寻特点和规律，负责网页信息抽取、数据清洗等研发和优化工作；
+
+任职要求：
+1、统招本科及以上学历，计算机、数学、统计学相关专业；
+2、 2年以上相关工作经验，熟练掌握python，掌握requests、pandas、scrapy、selenium、sqlalchemy等；
+3、 熟悉了解html、css、javascript，懂得分析常见web界面结构，掌握基本jquery、css、xpath 等语法；
+4、 熟悉掌握sql语言，熟悉（mysql postgresql mssql oracle )其中一种；

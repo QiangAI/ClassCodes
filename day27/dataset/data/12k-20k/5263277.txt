@@ -1,0 +1,1 @@
+驻场到湾子地铁站附近银行工作1、精通Python、Scala、java等至少两种语言，熟练使用常用的shell脚本语言； 2、熟练使用hadoop、hive、hbase，并对其有一定的底层了解； 3、熟练使用定时批量调度工具至少两种，如control-M，quartz等； 4、对spark、storm、kafka有一定了解，能使用其常用命令； 5、对Linux系统有一定的理解，能熟练使用linux下一些常用命令； 6、 熟练使用ORACLE，MYSQL等关系型数据库至少一种以及REDIS、CASSANDRA等常用NOSQL数据库至少一种，有使用过或者熟悉分布式数据库者优先；

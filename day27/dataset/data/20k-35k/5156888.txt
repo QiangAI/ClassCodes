@@ -1,0 +1,9 @@
+1.负责机器学习AI云平台开发;
+2.负责算法的设计和优化, 机器学习Pipeline和Model实现;
+3.负责根据项目和产品特点需求，提高并行性能;
+职位要求：
+1.熟悉Python, Sklearn, Numpy, Pandas, Spark MLlib, Hadoop;
+2.熟悉Classification, Regression的各种算法; 
+3.熟悉Scala, Java, C, C++, 分布式计算, H20架构优先；
+4.具有数据分析, ETL, Feature Engineering经验, 了解Deep learning: Tensorflow, Theano经验者优先;
+5.对新技术钻研有强烈兴趣，有良好的学习能力和强烈的进取心及创新精神。

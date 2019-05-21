@@ -1,0 +1,10 @@
+岗位职责 ： 
+ 1 . 负责 产品 核心 后 端 服务 API   Gateway 的 设计 、 开发 、 优化 ； 
+ 2 . 对外 提供   SDK   和   API ,     并且 能 提供 Authentication ,   Rate   limit 等 方案 ； 
+ 任职 要求 ： 
+ 1 .   具有 良好 的 逻辑 和 理解能力 ， 基本 的 沟通 表达能力 ； 
+ 2 .   2 ~ 3 年 Python 经验 ， 有 Django 、 Flask 等 主流 Web 框架 项目 实际 开发 经验 ； 
+ 3 .   熟悉 MySQL 等 关系数据库 和 其他 如 MongoDB 、 Redis 、 Celery 等 的 开发 和 优化 ； 
+ 4 .   了解 常见 Linux 环境 （ CentOS 、 Ubuntu 等 ） 下 项目 、 代码 的 部署 和 运维 ； 
+ 5 .   有 自己 的 开源 项目 或 技术 博客 、 对 开源 项目 有 贡献 等 优先 ； 
+ 6 .   有 ReactJS 、 Vue 等 前端 经验 者 优先 。

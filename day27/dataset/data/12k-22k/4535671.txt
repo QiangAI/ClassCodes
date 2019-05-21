@@ -1,0 +1,16 @@
+岗位职责:
+1、负责云平台海量数据的数据采集、存储以及数据分析
+2、负责大数据系统的业务开发、迭代、优化和维护工作
+3、负责实时数据和离线数据的加工分析、统计报表、以及可视化。
+
+任职要求：
+1、大专及以上学历，精通java编程，有2年以上数据相关工作经验
+2、熟悉linux 或macOS开发环境，熟悉linux系统基本操作，会编写shell或python脚本。
+3、熟悉数据批处理框架hadoop，对hdfs,YARN,MapReduce相关原理有一定了解。
+4、熟悉spark,对spark streaming流处理框架以及Storm有一定了解。
+5、熟悉大数据存储相关数据库MongoDB、Cassandra、hbase至少一种；了解elasticsearch全文检索引擎的优先考虑。
+6、熟悉Redis,或Memcached分布式缓存数据库至少一种。
+7、熟悉rabbitmq或kafka或activemq至少一种消息队列优先考虑。
+8、熟练使用git,有docker容器使用经验优先考虑。
+9、熟悉spring boot框架的优先考虑。
+10、熟悉前端web编程，能胜任可视化前端系统的优先考虑。

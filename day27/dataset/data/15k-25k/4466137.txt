@@ -1,0 +1,8 @@
+1.熟悉python语言，有2年使用经验，熟悉常用的web框架如flask，django
+2.熟悉redis, elasticsearch等nosql系统和关系型数据库如mysql
+3.熟悉常用的python库，熟悉gvent优先，熟悉celery优先
+4．熟悉常用的消息队列如kafka 或rabbitmq优先
+5．对安全产品了解的优先
+6．对高并发及大数据分析及分析工具了解的优先，对大数据挖掘及挖掘算法了解的优先。
+7．对机器学习，深度学习算法了解的优先。
+8．对teamcity, jenkins，ansimble等运维部署工具熟悉的优先。

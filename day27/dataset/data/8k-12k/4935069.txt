@@ -1,0 +1,15 @@
+职位描述：
+岗位职责：
+1. 负责Python web服务开发；
+2. 参与用户画像服务开发；
+3. 负责开发推荐系统相关模型的后台管理服务；
+4. 担任部分内部服务的部署运维工作；
+
+
+任职要求：
+ 1. 熟悉至少一种python web框架，如:flask/django/tornado/bottle；
+ 2. 熟悉mysql, mongo等常用数据库；
+ 3. 熟悉numpy, scipy, pandas；
+ 4. 熟悉常见算法与数据结构，有ACM相关竞赛经验者优先
+ 5. 了解基础的html, css和javascript，熟悉vue/react/angular优先。
+ 6. 对机器学习算法有所了解者优先。

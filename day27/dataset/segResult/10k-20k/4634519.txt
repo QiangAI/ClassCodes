@@ -1,0 +1,5 @@
+熟练 使用   Linux ， 包括 但 不 限于   Redhat / CentOS / Debian / Ubuntu   等 发行 版本 
+ 熟练 使用   Docker ,   熟悉   Docker   生态系统 
+ 熟练掌握   Bash   的 使用 ， 熟悉   Python   加 分 
+ 熟悉   Nginx ,   Git ,   PostgreSQL   的 搭建 ， 维护 和 使用 
+ 搭建 / 使用 / 研究 过 持续 集成 相关 的 服务

@@ -1,0 +1,11 @@
+岗位职责：
+1、带领团队完成WEB产品的前后端架构设计及相关模块的开发，并能持续对系统架构进行优化与迭代；
+2、协助大数据、机器学习工程师进行python代码开发与优化；
+3、指导运维工程师完成运维系统、运维工具的python开发。
+ 
+任职资格：
+1、本科以上学历，具有五年以上python开发经验；
+2、精通Django、Flask、Tornado等WEB框架，精通Celery、APScheduler等任务框架；
+3、精通MySQL、mongodb、Redis等结构化和非结构化数据库；
+4、具有Open stack、Dockers项目环境开发经验；
+5、具有大数据分析/AI经验的优先考虑。

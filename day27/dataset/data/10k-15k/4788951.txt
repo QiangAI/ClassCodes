@@ -1,0 +1,7 @@
+运营数据系统web服务的开发和维护
+全日制计算机相关专业本科或以上学历；
+2年以上互联网/Python软件行业工作经验；
+精通Linux/mysql/apache/nodejs等相关技术，具备web服务建站的实战经验；
+熟悉HTML/CSS/JavaScript相关知识；
+对微信开发生态熟悉者优先，包括公众号、小程序等；
+对数据分析BI熟悉者优先，包括python，tableau等；

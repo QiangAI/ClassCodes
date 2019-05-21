@@ -1,0 +1,13 @@
+职责：
+开发微服务平台系统。
+ 
+要求：
+1.       正规大学本科以上学历。
+2.       3年及以上Python开发经验，精通Python开发。
+3.       精通Django框架，有实际应用项目经验。
+4.       熟悉HTML5，Javascript，Json，熟悉Mysql数据库，熟练使用SQL。
+5.       有websocket server开发经验者优先。
+6.       有Redis开发、部署经验者优先。
+7.       了解HTTP协议，微服务，以及Restful API。
+8.       熟悉云服务平台（google，ali），了解服务器的部署和监控，了解负载平衡。
+9.       了解敏捷开发，熟悉软件设计模式。

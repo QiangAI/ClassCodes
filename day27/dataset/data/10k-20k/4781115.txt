@@ -1,0 +1,5 @@
+1、本科以上学历,计算机相关专业;
+2、2年以上 Python开发工作经验,1年以上 Diango开发经验
+3、熟悉 Java Script、HTM前端开发,有 iQuery、 Bootstrap开发经验者优先
+4、熟悉 Linux操作系统;
+5、熟悉 MySQL、 MongoDB数据库;

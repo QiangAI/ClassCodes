@@ -1,0 +1,54 @@
+职位描述 | What you will do
+ 
+深入理解研究现有的区块链技术以及进行测试和开发
+核心协议和相关应用开发
+参与全球区块链社区，共同实施与整合新产品的迭代
+ 根据项目任务计划按时完成软件研发和测试，按开发流程编写设计文档
+ 
+Research, design, develop and test blockchain technologies
+Develop core protocols and related Dapps
+Be involved in the global blockchain community—work on implementing and integrating the latest improvement proposals
+Timely deliver the result of software development and testing according to project progress and maintain technical documents to accurately represent application design
+ 
+岗位技能要求 | Your skills and experience
+985，211院校计算机相关专业本科及以上学历，
+精通Python语言，熟练使用Python标准库和流行的第三方库
+熟悉TCP/IP协议及HTTP协议，UDP协议，精通网络编程、多线程编程
+熟悉Tornado/Flask/Gevent/Django等常用开发框架，至少有其中一个的最佳实践或深入研究过其源码及机制
+了解基本的前端技术，HTML、CSS、JS、Ajax等
+了解一些主流NoSQL数据库的原理与使用，至少熟悉 mongodb，mysql，redis 中的一个，另外对LevelDB，RocksDB有一定了解
+熟悉linux操作系统，能写简单的shell脚本，掌握Docker容器技术原理，部署和使用优化
+了解Bitcoin, Ethereum, HyperLedger Fabric, NEO的区块链相关机制与原理
+了解各类主流的共识算法，包括不限于dBFT, PoW, PoS, DPoS, PBFT, Paxos, Raft等
+良好的编码风格，具备创造力与分析能力，有深入研究复杂问题、得到较好解决方案并解决问题的能力
+良好的工作文档习惯，及时按要求撰写、更新工作流程及技术文档
+良好的沟通能力和团队合作精神，英语6级及以上
+实习时长满足3个月及以上，一周可工作4天
+实习期满表现优异者可留用
+工资每天200元起
+ 
+Bachelor degree or above in computer science related major from China 985, 211 universities
+Working experience on project analysis or English community operations is preferred
+Proven experience in coding with Python and expert in using Python standard library or other 3rd-party libraries
+Familiarity of TCP/IP, HTTP, UDP and network and multi-thread programming
+Familiarity of Tornado/Flask/Gevent/Django framework. Have deep understanding of at least one frameworks and able to share its best practice in the real environment
+Basic knowledge of front-end technology, e.g. HTML, CSS, JS, Ajax etc
+ Knowledge of NoSQL databases. At least understand one language of MongoDB, MySQL, Redis and have certain understand of levelDB and RocksDB
+Familiarity of working in Linux environment, programming in Shell and utilizing Docker to deploy and config
+Have self-understanding of Bitcoin, Ethereum, Hyperledger Fabric and NEO blockchain
+Knowledge of popular consensus algorithm, including dBFT, PoW, PoS, DPoS, PBFT, Paxos, Raft etc.
+Good coding habits with creativity, analysis, deep thinking, problem solving skills
+Good documentation habits. Timely write and update work process and technical documentation
+Good communication skills and a good team player with CET6 English certificate
+Be able to work 4 days a week for at least 3 months
+You will be offered a full-time position if standing out from the team.
+Salary: 200 RMB or above per day
+Bonus points for
+Experience in complier development
+Experience in developing thunder, BT related P2P tools or utilizing stream media transmission, broadcast and CDN technology
+Experience in coding in open-source environment
+What you’ll be offered
+We will assist you with blockchain technology training
+Career developing opportunity
+Work with the top talents in blockchain industry
+ 

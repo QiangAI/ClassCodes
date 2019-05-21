@@ -1,0 +1,1 @@
+1、具有1年及以上开发工作经验； 2、熟悉golang语言编程，掌握socket、HTTP等相关技术；3、熟悉MySql、Redis、MongoDB、Hbase等数据库编程； 4、熟悉Linux基本配置和管理；  5、熟悉C/C++,PHP，Python优先

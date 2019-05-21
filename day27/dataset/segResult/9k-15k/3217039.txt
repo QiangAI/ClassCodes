@@ -1,0 +1,19 @@
+职责 ： 
+ 负责 相关 系统 的 架构 与 设计 ； 
+ 负责 服务器 各个系统 的 开发 与 维护 ； 
+ 参与 新 技术 的 研究 与 技术 路线 的 确定 。 
+ 
+ 要求 ： 
+ 
+ 算法 基础 扎实 ， 熟悉 常用 数据结构 和 算法 ; 
+ 熟悉 Linux 开发 环境 ， 精通 Python ; 
+ 熟悉 Gevent 和 Tornado 至少 一种 高 并发 网络 框架 ; 
+ 熟悉 HTTP 、 TCP / IP 协议 ， 能 开发 原生 的 socket 程序 ; 
+ 熟悉 Django 、 Flask 框架 开发 ; 
+ 熟悉 Mysql 或 postgresql 等 关系 型 数据库 ; 
+ 熟悉 redis 、 mongodb 、 等 nosql 数据库 ; 
+ 熟悉 docker 使用 ; 
+ 
+ 
+ 技术 栈 ： 
+ python2.7 、 Docker 、 Gevent 、 Django 、 Flask 、 Sqlalchemy 、 Redis 和 MySQL

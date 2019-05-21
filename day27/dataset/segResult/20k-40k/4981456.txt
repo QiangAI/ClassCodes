@@ -1,0 +1,9 @@
+岗位职责 ： 
+ 1 .   集成 公有 云 、 vmware 和 Kurbernetes ， 构建 维护 基础 混合 云 服务 ； 
+ 2 .   基于 Kurbernetes 容器 构建 持续 集成 / 持续 部署 的 服务平台 ； 
+ 3 .   和 多 团队 合作 打造 面向 容器 系统 的 生态 。 
+ 任职 要求 ： 
+ 1 .   熟悉 Docker 、 Kurbernetes 系统 流程 ， 能够 定制 编排 脚本 ， 用于 自动化 发布 ， 有 架构 能力 是 加 分项 ； 
+ 2 .   具有 Docker / Kubernetes 落地 实践经验 ， 熟悉 Docker / Kubernetes 相关 生态 ， 有 集成 Kubernetes 和 Docker 落地 经验 者 优先 ； 
+ 3 .   熟悉 Linux 操作系统 的 网络 ， 存储 等 基本知识 ， 了解 其 与 容器 的 交互 原理 ； 
+ 4 .   至少 精通 Java / Python / Go / C / C++   其中 一种 。

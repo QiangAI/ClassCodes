@@ -1,0 +1,12 @@
+工作职责：
+-负责基于Hadoop和OLAP框架的海量数据平台建设
+-负责分布式数据平台框架下数据系统开发与新数据应用开发架构研究
+-理解用户数据统计、分析和挖掘应用场景，抽象为数据产品需求，不断完善基础数据平台的建设
+ 
+职位要求：
+-具备较强的数据敏感度以及数据抽象能力
+-精通Java/Scala之一，具备良好的coding素养和习惯
+-熟练掌握至少一种脚本语言，如Python、Shell等
+-2年以上Hadoop ecosystem的项目实际研发经验，如Zookeeper/HDFS/Hive/HBase/Spark/Impala/Gobblin/Flume/Kafka/Flink/Elasticsearch/Kylin/Cassandra等其中一个或多个
+-1年以上ETL/Adhoc query/OLAP等实践经验
+-强烈的责任心和主动Push能力

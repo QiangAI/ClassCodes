@@ -1,0 +1,11 @@
+工作职责:
+1.负责公司智能运维平台设计与开发工作
+2.根据公司产品需求参与讨论技术解决方案
+3.打造PaaS化运维平台能力，持续优化产品稳定性和减少运维成本投入
+
+任职要求：
+1. 3年以上python web框架(Django/Flask)开发经验，扎实的python编程基础
+2. 熟练掌握HTML5/CSS3、jQuery、Ajax、Json等前端开发技术
+3、具有构建分布式任务系统经验（Celery/RabbitMQ/Redis）
+4. 熟悉至少一种关系型数据库（Mysql、Postgresql）
+5. 有docker,自动化运维平台等开发经验者更优；

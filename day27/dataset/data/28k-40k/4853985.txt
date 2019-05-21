@@ -1,0 +1,11 @@
+岗位职责:
+1、负责管理平台或防篡改产品研发，负责 WAF 系统开发与维护。
+2、负责分析业务领域比较复杂的问题，提出解决方案
+3、负责对研发项目制定单元测试、压力测试方案并执行
+任职要求:
+ 1、有开发集中管理平台、防篡改产品经验；
+2、5+年的 python 后端工作经验，精通 Python， jQuery，HTML，CSS
+ 3、熟悉数据库，oracle/mysql 等
+4、熟悉 HTTP/snmp 等协议，了解 syslog/event log
+5、熟悉 Linux 下 shell 编程、git 相关流程。
+6、熟悉常见 web 服务器，apache 或 nginx;

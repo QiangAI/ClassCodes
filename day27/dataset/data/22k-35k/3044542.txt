@@ -1,0 +1,4 @@
+岗位需求1，3～5年Java Web开发工作经验；2，Spring MVC基本原理；3，Restful风格的http API设计；4，关系型数据库；5，Linux常用命令；
+6，具备良好代码习惯和问题解决能力，乐于学习新知识；
+7，基础相当扎实。
+加分项：1，熟悉PostgreSqL 2，熟悉Groovy或其他动态语言的（Ruby，Python，JavaScript等）3，使用过Salesforce平台，或其他类似的云平台产品，如用友等ERP系统，Oracle的Siebel系统等4，有过AWS／阿里云等平台的运维经验的

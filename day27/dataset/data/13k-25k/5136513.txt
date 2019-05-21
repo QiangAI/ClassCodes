@@ -1,0 +1,7 @@
+岗位职责：研发 & 维护公司对外产品
+
+任职要求：
+1、熟悉 HTML / CSS / JavaScript，熟悉 ES2015+，熟悉 TypeScript2、有 SPA 开发经验, 掌握流行的框架(Vue/React/Angular 3选2)3、了解现代构建工具, 手动配置过 Webpack4、熟练使用 Git 等版本控制工具, 有使用 *nix 系统的经验5、能够与设计师协作，会简单使用一些设计与产品工具
+
+加分项：
+1、了解后端开发, 有 Python/Node/Go/C/C++ 等经验2、了解 Elm/Rust/Haskell 等语言3、有 OI / ACM / TopCoder / GCJ / Codeforces 等算法竞赛获奖经历4、深度参与/主导过开源项目5、有良好的英文阅读能力, 能够无障碍读写英文文档

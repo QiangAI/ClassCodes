@@ -1,0 +1,12 @@
+岗位描述：
+1、参与大数据平台数据仓库建设;
+2、参与业务需求调研，根据需求完成相关的设计方案和开发;
+3、参与数据抽取、清洗、转化等ETL处理程序开发;
+
+任职要求：
+1、本科以上学历,2年以上BI开发经验;
+2、有大数据相关工作经验，熟悉使用Spark sql、hive、Impala、sqoop、hbase、Redis等一种以上大数据组件;
+3、精通SQL，熟悉使用MySql、Greeplum等主流关系型数据库;
+4、熟悉ETL开发，熟练使用至少一种ETL工具（Kettle、Datastage、Datax、Informatica）;
+5、熟悉Linux，能够编写基本Shell脚本；
+6、有java、python中的一种或多种语言开发经验优先考虑;

@@ -1,0 +1,1 @@
+主要负责信用卡方面的监控，以及一部分消金，大数据方面的监控 必要条件：掌握Python开发，html，javascript，jquery，bootstrap，linux，shell script，SQL拥有可加分条件：熟悉CAT监控，viewjs，流计算（kafka，spark，storm），tenseflow

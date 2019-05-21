@@ -1,0 +1,10 @@
+岗位职责：
+1. 负责直播系统监控平台的开发与维护；
+2. 参与题库各业务网关系统的开发与维护；
+
+任职要求：
+1. 本科以上学历，3年以上分布式java系统开发经验，能独立完成单个系统的设计、开发与维护；
+2. 坚实的JAVA语言与数据结构基础，熟悉Shell、Python等脚本者优先；
+3. 熟练掌握springMVC、MyBatis、log4j、jedis、SpringBoot等等开发框架或中间件；
+4. 熟悉Linux、Nginx、MySQL、Redis、Git、Mantis/JIRA/Phabricator、MQ等，熟悉kafka、storm、hadoop、hbase等流式计算技术者优先;
+5. 熟悉前端(包括但不限于html、css、Angularjs、ajax、jquery等)开发技术优先，有开发者平台相关经验优先。

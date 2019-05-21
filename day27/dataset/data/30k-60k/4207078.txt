@@ -1,0 +1,1 @@
+资深开发工程师-PaaS平台岗位职责:1. 开发和运营容器平台,管理1w+容器的集群2. 开发和运营日志中心,管理1k+的topics和每天数十TB的日志任职要求:1. 熟练掌握C/C++/Golang/Java/Python中的至少两种语言, 3年以上开发经验2. 有过Kubernetes和mesos二次开发经验优先3. 熟悉基于Docker的云计算生态体系,熟悉Kubernetes, Mesos等开源技术4. 熟悉Docker网络解决方案优先5. 有资源调度, 任务管理, 集群计算等项目开发经验, 具备开源社区项目开发的优先6. 有Web框架项目经验, SpringMVC, Django, Flask之任意一种

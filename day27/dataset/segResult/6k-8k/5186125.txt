@@ -1,0 +1,10 @@
+工作 内容 ： 视频 处理 开发 ， 爬虫 开发 
+ 要求 ： 
+ a 精通 Java （ spring / mybatis ） 与 Python 语言 ， 2 年 Python 爬虫 经验 ， 有 良好 的 数据结构 和 算法 设计 基础 ； 
+ b 精通 HTML / JavaScript / CSS / xpath / url / Ajax / xml 等 web 技术 知识 ， 熟悉 HttpClient / Jsoup / Scrapy / Pyspider / Selenium / PL 等 工具 ; 
+ c 熟悉 垂直 搜索 爬虫 、 分布式 网络 爬虫 ， 深入 理解 网络 爬虫 原理 ， 有 丰富 的 数据 爬取 、 解析 、 清洗 、 存储 相关 项目 经验 ， 掌握 反 爬虫 技术 及其 突破 方案 ； 
+ d 熟悉 操作系统 （ Linux ） 及 网络协议 （ 如 TCP / IP 、 HTTP 等 ） ， 了解 Shell 编程 ； 
+ e 熟练 使用 maven 、 git 等 项目管理 工具 ； 
+ f 熟悉 高 并发 、 高性能 的 分布式系统 的 设计 及 应用 ， 熟悉 常用 数据 存储 、 各种 数据处理 技术 者 优先 ； 
+ g 有 Python 数据分析 、 数据挖掘 相关 经验 者 优先 ； 
+ h 不 满足 于 现状 ， 对 技术 保持 热忱 ， 对 所 支持 的 业务 产品 具有 独立 观点 ， 并 提出 合理 的 建议 。

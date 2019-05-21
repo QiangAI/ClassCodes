@@ -1,0 +1,13 @@
+工作职责：
+1、 负责Python Web系统的设计和开发；
+2、 参与业务系统的优化和改进，快速迭代，提出解决方案。
+任职资格：
+1、 大学本科以上学历，计算机、地理信息系统或相关理工科专业背景；
+2、 1-3年python互联网开发经验，有独立完成的线上作品优先；
+3、 精通python语言，有WebGIS开发经验者优先；
+4、 精通django, flask 等web框架, 能根据业务需求定制框架组件，熟悉RESTful API开发；
+5、 精通mysql, postgresql, redis, mongodb或其他结构型数据库及非结构型数据库技术；
+6、 熟悉Web开发，了解 Http工作原理, 熟悉wsgi, nginx, docker等部署工具；
+7、 熟悉Angular JS或其他MVC前端技术；
+8、 熟悉Javascript, Ajax等前端脚本技术；
+9、 有微服务、大数据、机器学习相关技术使用经验者等优先。

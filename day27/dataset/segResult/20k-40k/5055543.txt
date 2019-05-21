@@ -1,0 +1,12 @@
+岗位职责 : 
+ 1 、 负责 运维 相关 平台 设计 和 开发 工作 ,   提升 运维 效率 ； 
+ 2 、 协助 建立 和 完善 规范化 的 运维 体系 ,   保障 运维 质量 ； 
+ 3 、 对 现有 的 运维 平台 进行 整合 升级 。 
+ 
+ 岗位 要求 : 
+ 1 、 熟练 使用   Python   语言 ， 有 实际   Python   Web   项目 经验 ， 有 自动化 运维 平台 项目 经验 者 优先 ； 
+ 2 、 熟练掌握 至少 一门   Python   web   开发 框架 （ Django 、 Flask 、 Tornado 等 ） ； 
+ 3 、 熟悉   MySQL / PostgreSQL / Redis / MongoDB ； 
+ 4 、 熟悉   Linix / Unix   操作系统 ； 
+ 5 、 熟悉   JavaScript ,   jQuery ,   HTML ,   CSS   等 前端 技术 ， 有   react 、 vue   开发 经验 者 优先 ； 
+ 6 、 具备 较强 的 学习 能力 和 责任心 ， 良好 的 沟通 能力 、 文档 编写 能力 ， 有 github 开源 项目 者 优先 。

@@ -1,0 +1,8 @@
+任职 资格 
+ 1 .   Java 基础 扎实 ， 3 年 以上 Java 使用 经验 ： 熟练掌握 数据结构 、 多线程 编程 ， 掌握 常用 的 设计模式 ； 熟悉 JVM ， 包括 内存 模型 、 类 加载 机制 以及 性能 优化 ， 熟悉 J2EE 开源 框架 ， 如 spring / spring   mvc , mybatis ， 熟悉 Python 、 Shell ； 
+ 2 .   深入 了解 高性能 中间件 Kafka ,   Netty ,   Redis , Protocal   Buffer ,   docker 和 dubbo （ 或 类似 rpc 框架 ） 等 ；   
+ 3 .     具有 很强 数据库 设计 经验 和 SQL 优化 功底 ； 
+ 4 .     具备 良好 的 面向对象编程 经验 ， 深入 理解 OO 、 AOP 思想 ， 具有 很强 的 分析 设计 能力 ， 熟悉 常用 设计模式 ；   
+ 5 .     具有 Hadoop & Flink 开发 、 HBase ， Phoenix ， Spark ， ElasticSearch ， Tensorflow 等 相关 项目 实践 ， 有 独立 系统 的 架构设计 经验 优先 。   
+ 6 .   内核 或 系统 层 调优 经验 优先 ， 熟悉 linux ， 熟悉 LINUX 常用命令   
+ 7 .     具备 良好 的 沟通 能力 ， 工作 积极 认真 ， 具有 创新 精神 。

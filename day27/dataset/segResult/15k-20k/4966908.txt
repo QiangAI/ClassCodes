@@ -1,0 +1,35 @@
+Job   Description : 
+ Support   products   to   improve   software   international   level   with   RD   teams .   And   co - work   with   localization   team   to   improve   product   localization   efficiency .   
+ Major   daily   works   include : 
+ 1 . Design   and   create   system / tools   to   improve   software   internalization   level   and   localization   efficiency . 
+ 2 . Analyze   product   international   level ,   check   product ’ s   localizability   status   and   give   suggestions   for   improvement . 
+ 3 . Define   and   optimize   processes   for   better   software   internalization   and   localization . 
+ 4 . Research   latest   industry   localization   solution   like   machine   translation ,   translation   process   automation ,   localization   big   data   analyze   and   bring   them   to   localization   team ’ s   daily   work   . 
+ 岗位职责 : 
+ 和 产品开发 组合 作 提高 产品软件 国际化 水平 。 并 与 本地化 团队 合作 ， 提高 产品 本地化 效率 。 
+ 主要 日常 工作 包括 ： 
+ 1 . 设计 和 创建 内部 使用 系统 & 工具 ， 以 帮助 提高 软件 国际化 水平 和 本地化 效率 . 
+ 2 . 分析 公司 现有 产品 国际化 水平 和 可 本地化 性 并 给出 相应 的 建议 . 
+ 3 . 制定 和 优化 相关 流程 使 国际化 和 本地化 变得 更 容易 和 高效 . 
+ 4 . 研究 业界 相关 技术 ， 包括 机器翻译 ， 翻译 管理 平台 ， Translation   Memory 发掘 和 分析 ， 自然语言 处理 等 。 并 把 相应 的 解决方案 引入 公司 内部 . 
+ 
+ 任职 资格 ： 
+ Qualification : 
+ 1 . Technical   education ,   preferably   in   Computer   Science . 
+ 2 . Familiar   with   python   or   Java   language   and   at   least   one   Python   or   Java   Web   framework   ( like   Django ,   Flask ) ,   have   over   3   years   related   project   experience . 
+ 3 . Familiar   with   common   software   UI   resource   files   format ( like   Json   , PO ,   Properties ,   HTML ,   XML   ,   etc .. ) . 
+ 4 . Known   with   HTML / CSS / JavaScript / AJAX / NodeJS . 
+ 5 . Strong   analytic   skills   and   organizational   skills . 
+ 6 . Knowledge   of   scripting   languages   ( Like   regular   expression ,   Batch ) . 
+ 7 . Software   international ,   Localization   Engineering   and   software   localization   experience   preferred . 
+ 8 . Experience   in   design   and   shipping   international   software   or   is   a   big   plus . 
+ 
+ 岗位 要求 ： 
+ 1 . 技术 背景 ， 最好 是 计算机科学 相关 专业 . 
+ 2 . 精通 Python 或 Java 语言 并 熟悉 至少 一种 Python 或 Java 相关 的 Web 框架 ( 比如 Django ,   Flask 等 ) ， 有 超过 三年 的 项目 经验 . 
+ 3 . 熟悉 常见 的 UI 资源 文件格式 ( 比如 Json ,   PO ,   Properties ,   HTML ,   XML   ,   etc .. ) . 
+ 4 . 了解 HTML / CSS / JavaScript / AJAX / NodeJS 等 相关 前端开发 语言 . 
+ 5 . 具有 很强 的 分析 复杂 问题 和 解决 复杂 问题 的 能力 ， 有 强烈 的 责任心 和 使命感 ， 良好 的 沟通 表达能力 和 团队 协作 能力 . 
+ 6 . 具有 一定 的 项目 规划 和 决策 能力 ， 善于 捕捉 业务 需求 、 架构设计 中 存在 的 问题 ， 并 给出 有效 的 解决 措施 和 方法 . 
+ 7 . 有 大规模 高 并发 web 应用 架构设计 开发 经验 ， 数据库 调优 经验 的 优先 . 
+ 8 . 有 自然语言 处理 、 软件 国际化 、 本地化 行业 背景 经验 的 优先

@@ -1,0 +1,21 @@
+岗位职责 : 
+ *   根据 需求 ， 进行 后端 API 的 设计 和 开发 
+ *   对 已有 系统 进行 维护 
+ *   完成 Test   Case 编写 ， 保证 代码 质量 
+ *   监控 系统 性能 ， 对 性能 进行 优化   
+ 
+ 岗位 要求 ： 
+ *   至少 具有 三年 以上 Python 网站 开发 经验 
+ *   至少 熟悉 一种 Python 框架 
+ *   熟悉 MySQL 数据库 设计 和 查询 优化 ,   会 ORM 框架 sqlalchemy 更好 
+ *   熟悉 基于 Rabbitmq 的 开发 
+ *   熟悉 ElasticSearch 索引 的 创建 和 查询 
+ *   具有 较强 分析 和 解决问题 的 能力 
+ *   具有 较强 API 设计 的 能力 
+ *   具有 英文 技术 文档 读写 的 能力 
+ 
+ 如 有 以下 经验 者 加分 ： 
+ *   会 GrahpQL 或 nodejs 者 优先 
+ *   有 前端 js / css / html / react 经历 
+ *   有 DevOps 、 CI 、 CD 经历 
+ *   有 Amazon   AWS 运维 经历

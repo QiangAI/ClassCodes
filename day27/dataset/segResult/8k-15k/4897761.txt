@@ -1,0 +1,8 @@
+职位 要求 ： 
+ 基于 python   tornado 开发 框架 ， 负责   restful   api 接口 开发 ， 为 BI 系统 提供 后 端 服务 
+ 岗位 要求 ： 
+ 1 、 两年   python   tornado 后端 开发 经验 ， 熟悉   web 开发 框架 tornado 
+ 2 、 熟悉   http 协议 、   restful   api 规范 、 xml     、 josn 数据格式 
+ 3 、 熟悉 redis , mysql 等 数据库 的 使用 
+ 4 、 熟悉 JavaScript , ajax , jQuery 的 优先 考虑 
+ 5 、 具备 良好 的 代码 书写 习惯 ， 有 独立思考 和 解决问题 的 能力 ， 拥有 良好 的 团队 意识

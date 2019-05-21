@@ -1,0 +1,12 @@
+岗位职责
+1.负责Python后台系统框架的开发与维护
+2.负责开发Python后台的RESTful服务
+3.负责大数据加工和处理
+职位要求
+1、本科以上学历，3年以上Python开发经验
+2、有扎实的Python代码基础，深刻理解面向对象编程
+3、熟悉Python下Web后台开发
+4、熟悉Linux和shell开发
+6、熟悉大数据开发的优先
+7、熟悉JAVA 开发的优先
+8、熟悉Scrapy、正则表达式、JSON、XPath、CSS、JS、Redis、ES优先

@@ -1,0 +1,11 @@
+职位 描述 ： 
+ 1 、 负责 开发 、 测试 、 生产 环境 的 部署 、 运维 工作 ； 
+ 2 、 负责 基于 Docker 和 Kubernetes 相关 的 DevOps 工作 。 
+ 
+ 任职 条件 ： 
+ 1 、 大学本科 及 以上学历 ， 计算机 或者 相关 专业 ； 
+ 2 、 精通 Linux 操作系统 ； 
+ 3 、 精通 OpenStack / Docker / Kubernetes ； 
+ 4 、 精通 一门 以上 脚本语言 ( shell / perl / python 等 ) ； 
+ 5 、 熟悉 Linux 日常 应用 ( Nginx 、 Memcached 、 MySql 、 Redis 、 RabbitMQ 等 ) 的 安装 和 配置 ； 
+ 6 、 有 Kubernetes 集群 部署 和 运维 相关 经验 者 优先 。

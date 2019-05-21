@@ -1,0 +1,8 @@
+职位描述：
+1. Python Web Service的开发，内外应用搭建。
+2. MySQL 数据库，存储线上系统信息
+
+* 职位要求：
+1. 计算机、数学、统计、物理及相关专业本科以上学历
+2. 2年以上python语言应用开发经验； 
+3. 熟悉 Python web开发框架，如Django/Flask/Tornado

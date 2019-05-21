@@ -1,0 +1,8 @@
+1 . 熟悉 python 语言 ， 有 2 年 使用 经验 ， 熟悉 常用 的 web 框架 如 flask ， django 
+ 2 . 熟悉 redis ,   elasticsearch 等 nosql 系统 和 关系 型 数据库 如 mysql 
+ 3 . 熟悉 常用 的 python 库 ， 熟悉 gvent 优先 ， 熟悉 celery 优先 
+ 4 ． 熟悉 常用 的 消息 队列 如 kafka   或 rabbitmq 优先 
+ 5 ． 对 安全 产品 了解 的 优先 
+ 6 ． 对 高 并发 及大 数据分析 及 分析 工具 了解 的 优先 ， 对大 数据挖掘 及 挖掘 算法 了解 的 优先 。 
+ 7 ． 对 机器 学习 ， 深度 学习 算法 了解 的 优先 。 
+ 8 ． 对 teamcity ,   jenkins ， ansimble 等 运维 部署 工具 熟悉 的 优先 。

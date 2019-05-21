@@ -1,0 +1,4 @@
+岗位职责：
+负责IGame运营活动相关需求开发以及内部OOMS平台系统开发
+岗位要求：
+3年以上互联网 Web 产品研发经验，Javascript 基础扎实优先；对 Bootstrap, React, ES6, Webpack 等有相关实践经验；关注 Web 发展，对相关技术及其资料（ Angular, Vue, jQuery, NodeJS, MVVM, MVC, Github, Blog, Grunt, Gulp，H5CSS3, 上线部署 ）有学习和了解；对其他语言（如Python, Shell, PHP, Java, CGI等）有所了解，并在实际工作中接触过；具备项目驱动力，对此有独特见解并有成功案例优先。

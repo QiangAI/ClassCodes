@@ -1,0 +1,4 @@
+• Solid work experience in scripting related technologies like Python. Shell/Batch experience will be a good plus.
+• Experience with CI/CD (Jenkins), DevOps will be a great plus.
+• BS or equal education in computer science or related technical discipline
+• Proactive, Fast-learning, good communication and teamwork

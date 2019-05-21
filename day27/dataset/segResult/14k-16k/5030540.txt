@@ -1,0 +1,4 @@
+岗位职责 ： 
+ 负责 IGame 运营 活动 相关 需求 开发 以及 内部 OOMS 平台 系统 开发 
+ 岗位 要求 ： 
+ 3 年 以上 互联网   Web   产品 研发 经验 ， Javascript   基础 扎实 优先 ； 对   Bootstrap ,   React ,   ES6 ,   Webpack   等 有 相关 实践经验 ； 关注   Web   发展 ， 对 相关 技术 及其 资料 （   Angular ,   Vue ,   jQuery ,   NodeJS ,   MVVM ,   MVC ,   Github ,   Blog ,   Grunt ,   Gulp ， H5CSS3 ,   上线 部署   ） 有 学习 和 了解 ； 对 其他 语言 （ 如 Python ,   Shell ,   PHP ,   Java ,   CGI 等 ） 有所 了解 ， 并 在 实际 工作 中 接触 过 ； 具备 项目 驱动力 ， 对此 有 独特 见解 并 有 成功 案例 优先 。

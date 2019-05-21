@@ -1,0 +1,12 @@
+【 岗位职责 】 
+ 1 、 负责 对接 社区 、 电商 相关 数据 需求 ， 进行 需要 分析 、 模型 设计 和 开发 工作 ； 
+ 2 、 配合 业务 进行 数据 埋点 设计 、 管理 和 数据 监控 ； 
+ 3 、 负责 常用 数据流 、 数据 可视化 相关 开发 工作 。 
+ 
+ 【 任职 要求 】 
+ 1 、 本科 以上学历 ， 计算机相关 专业 优先 ； 
+ 2 、 2 年 及 以上 BI 开发 工作 经验 ； 
+ 3 、 熟练 python / scala / php 等 编程语言 ， 熟悉 linux 系统 及 shell 
+ 4 、 熟练 SQL / HQL ， 熟悉 mysql / redis / PostgresSQL / mongodb 等 数据库系统 ； 
+ 5 、 熟悉 Kafka / Storm / Hadoop / Spark / HBase / Hive / Greenplum   等 优先 ； 
+ 6 、 良好 的 沟通 合作 能力 ， 业务 理解能力 。

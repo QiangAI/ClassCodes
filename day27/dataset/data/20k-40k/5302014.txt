@@ -1,0 +1,14 @@
+职位描述：
+       
+职责描述：
+1、负责平台服务的开发维护工作；
+2、具备较好的学习能力、问题分析能力，可以独立定位解决问题；
+3、善于思考，能自主提出改善产品方案。
+任职要求：
+1、计算机相关专业，需要有一定的业务需求分析能力，五年以上开发经验；
+2、熟悉 linux 基本指令使用，能独立安装部署基础服务，如：sshd，nginx，rabbitmq等；
+3、熟练使用 Python，了解各种常用库使用；
+4、熟练使用 git 及 svn；
+5、熟悉 Redis，MySQL/PostgreSQL，MongoDB，RabbitMQ/Kafka 中的多个服务；
+6、了解 Django 或 Flask 框架，能独立开发 RESTful API 服务；
+7、有 Docker，gitlab，Jenkins 等使用经验，了解 IOT 物联网行业者优先。

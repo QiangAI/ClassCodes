@@ -1,0 +1,17 @@
+1 . 计算机专业 毕业 或 有 网络 / 系统 / 数据库 / 算法 原理 基础 , 对 视频 领域 的 AI 及大 数据处理 感兴趣 
+ 2 . 熟练 操作 Linux 操作系统 , CentOS 和 Ubuntu 主流 版本 
+ 3 . 熟练 使用 Shell , Python 脚本语言 , Python 常用 模块 操作 及 Flask 框架 , 了解 Celery 
+ 4 . 熟悉 TCP / HTTP 等 常见 通信协议 , 可 无障碍 查询 RFC 文档 
+ 5 . 熟练 使用 Nginx / uWSGI / Supervisor 等 工具 
+ 6 . 熟练 操作 MySQL / Redis / MongoDB , 有 设计 和 开发 能力 
+ 7 . 能 独立 构建 并 维护 GitLab + Docker + Kubernetes 环境 
+ 8 . 了解 前端 技术 
+ 9 . 熟练 操作 阿里 公有 云 环境 
+ 10 . 了解 微 服务 架构 
+ 
+ 加 分项 : 
+ 
+ 1 . 了解 TensorFlow / Caffe / PyTorch 等 深度 学习 框架 
+ 2 . 了解 Vitess / Kubeflow / Jupyter / Argo / Arena 
+ 3 . 有 GPU 服务器 搭建 经验 , 如 : NVIDIA 驱动 / CUDA / cuDNN / TensorFlow 
+ 4 . 有 C / C++ 开发 经验

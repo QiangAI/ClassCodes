@@ -1,0 +1,7 @@
+岗位职责 ： 研发   &   维护 公司 对外 产品 
+ 
+ 任职 要求 ： 
+ 1 、 熟悉   HTML   /   CSS   /   JavaScript ， 熟悉   ES2015 + ， 熟悉   TypeScript2 、 有   SPA   开发 经验 ,   掌握 流行 的 框架 ( Vue / React / Angular   3 选 2 ) 3 、 了解 现代 构建 工具 ,   手动 配置 过   Webpack4 、 熟练 使用   Git   等 版本控制 工具 ,   有 使用   * nix   系统 的 经验 5 、 能够 与 设计师 协作 ， 会 简单 使用 一些 设计 与 产品 工具 
+ 
+ 加 分项 ： 
+ 1 、 了解 后 端 开发 ,   有   Python / Node / Go / C / C++   等 经验 2 、 了解   Elm / Rust / Haskell   等 语言 3 、 有   OI   /   ACM   /   TopCoder   /   GCJ   /   Codeforces   等 算法 竞赛 获奖 经历 4 、 深度 参与 / 主导 过 开源 项目 5 、 有 良好 的 英文 阅读 能力 ,   能够 无障碍 读写 英文 文档

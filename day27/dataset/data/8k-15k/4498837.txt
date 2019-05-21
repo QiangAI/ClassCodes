@@ -1,0 +1,19 @@
+岗位职责：
+1、负责数据抓取系统的设计、开发和维护工作；
+2、设计抓取策略，改进调度算法，减少系统延迟，提升整体吞吐率；
+3、建立完整的数据获取、解析、入库和监控流程，优化系统瓶颈不断迭代完善；
+4、负责数据清洗、数据挖掘等相关工作；
+
+任职要求：
+1、统招本科，计算机相关专业，熟悉Python语法，两年python语言开发经验；
+2、熟悉HTTP/HTTPS协议、TCP/UDP、熟悉Socket、多线程、多进程编程，了解Shell编程；
+3、熟悉使用urllib、urllib2、requests、urllib.requests、urllib.parse、等网络模块；
+4、熟悉使用lxml、BeautifulSoup、正则、及json模块进行数据提取；
+5、熟悉Xpath语法规则和各CSS Selector的使用；
+6、熟练使用Selenium+PhantomJS(headless Chrome)实施动态HTML抓取；
+7、熟悉Scrapy, crawl Scrapy及Scrapy-redis分布式框架；
+8、熟练掌握Django框架下的Web后台业务编程，熟悉MVC框架开发；
+9、了解Flask和Tornado框架下的Web后台业务编程；
+10、熟悉应用MySQL、Redis、MongoDB数据库设计及SQL语句；
+11、了解数据结构，排序算法，熟悉各种常见设计模式；
+12、了解Javascript、Jquery、CSS、AJAX、HTML、Bootstrap、react等前端开发。

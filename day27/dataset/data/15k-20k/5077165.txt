@@ -1,0 +1,21 @@
+岗位职责：
+  
+Take full ownership of and responsibility for external customer-facing website
+Design, build, and deploy innovative marketing solutions to drive new business
+Create a dynamic, customizable, multi-tenant platform for private-label solutions
+Ensure successful technical implementations by leading Fortune 1000 financial services firms
+Drive productivity improvements through tools, processes, test-driven development, and continuous refactoring
+Ability to work in a fast-changing environment
+            
+
+  
+任职资格：
+  
+BS, MS in Computer Science or related discipline/experience
+Solid object oriented design and analytical skills
+2-5 years experience with external customer-facing websites, preferably e-commerce websites
+Experience building highly scalable, multi-tier web architectures
+Good understanding of MVC/MVVM architectures, RESTful APIs, front-end frameworks
+Good working knowledge of JavaScript fundamentals and server side language(s) such as C#, Python, Ruby
+Highly self-motivated, with a strong sense of ownership and urgency
+

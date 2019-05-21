@@ -1,0 +1,8 @@
+-5年以上大数据开发经验；
+-熟悉 linux 环境，优秀的JAVA, Python 编程能力，有扎实的算法功底 ；
+-对大数据生态圈有深入的了解，具备Hadoop、Hive、Hbase、Pig、Storm、Spark、Kylin等项目的开发经验，能够根据数据及业务需求构建大数据平台，并随着需求和技术的进步，不断演进；
+-对以下的函数库有一定的经验：NumPy, Pandas, scikit-learn, Keras, TensorFlow, nltk, PySpark, matplotlib, Seaborn, Bokeh, Jupyter.
+-对于以下的领域有一定的理解和经验： Time series analysis and forecasting, image recognition, NLP, neural networks and deep learning (CNNs, RNNs), classification, regression, dimensionality reduction, visualisation, change detection, hypothesis testing, Bayesian statistics.
+- 数学功底扎实，熟悉数据挖掘和机器学习领域常用算法, 具有良好的逻辑思维能力，对机器学习算法优化理论有一定了解；
+- 英文口语流利；
+- 硕士学历以上、有数据挖掘，深度学习研究，自然语言处理和图像分类经验者优先；

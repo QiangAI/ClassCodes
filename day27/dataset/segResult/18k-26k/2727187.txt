@@ -1,0 +1,25 @@
+Responsibility :         
+ Design ,   develop   data   process   tool   for   Global   navigation   market .         
+ Design   and   develop   the   data   process   flow   of   the   continuous   delivery .         
+ Design   and   develop   the   automated   data   quality   tools ,   improve   performance   and       data   quality .         
+ Short - term   travel   to   US ,   Korea   may   be   necessary .       
+ 
+ 针对 全球 导航 市场 设计 ， 开发 数据处理 工具 。         
+ 针对 持续 的 发布 ， 开发 自动 的 数据处理 流程 。         
+ 设计 和 开发 自动 数据 质量 工具 ， 改进 质量 和 性能 。         
+ 根据 项目 需要 ， 能 短期 赴美国 、 韩国 等 出差 。         
+ Qualifications         
+ BS / MS   in   computer   science   or   related   major ,   graduated   from   famous   university .         
+ 2   years +   development   experience   of   Java   development .       Familiar   with   script   language ,   some   of   shell / python / Perl   Familiar   with   popular   navigation   data   format   is   a   strong   plus         
+ Experience   with   database   like   mysql / postgres ... ;         
+ Experience   of   distribute   computing   is   a   plus ;   continuous   integration   is   a       plus ;         
+   Experience   of   web   development   is   plus ,   know   ruby / javascript   is   a   plus ;         
+ Familiar   with   Linux ;         
+ 大学本科 或 以上学历 ， 计算机相关 专业 。         
+   2 年 以上 Java 软件开发 经验   。         
+   熟悉 脚本语言 ， 如 Shell / python / Perl 的 一 或 多种         
+ 熟悉 常见 的 导航 数据格式 优先         
+ 数据库 经验 ， 如 mysql 或 postgres         
+ 有 分布式计算 经验 优先 ， 持续 集成 经验 优先 。         
+   有 网页 开发 经验 优先 ， 了解 ruby / javascript 优先 。         
+   熟悉 linux 。

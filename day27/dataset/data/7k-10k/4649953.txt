@@ -1,0 +1,12 @@
+岗位职责：
+1.实际C#，Python或JavaScript项目编程经验
+2.独立研究和解决问题的能力
+3.英文邮件
+
+岗位要求：
+项目做的是Automation System，运用到的语言是python.主要围绕我们项目的产品进行一些工具和系统的开发。
+
+期望的技能:
+1.Web/DB 开发经验
+2.脚本（Batch, Perl, Shell）编程经验
+3.持续集成工具的使用，例如Jenkins, TeamCity。

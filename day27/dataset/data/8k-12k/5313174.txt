@@ -1,0 +1,15 @@
+Responsibilities
+1. Maintain and fixing bugs from automation framework.
+2.Analyze feature requirements and create test cases to validate new feature
+3. Develop and maintain code for automation test, and perform code reviews
+4. Automate functional test cases, execute and triage automated tests
+5. Execute some manual test cases
+
+Requirements
+1.Practical knowledge in general Computer Science topics such as data structures and algorithms
+2.Good understanding of the main operating systems concepts: processes, memory management, file systems Software engineering (QA methodology)
+3. Test automation methodologies ，.Excellent analytical and problem-solving skills
+4.Knowledge of Linux system administration, experience in docker and kubernetes
+5.Excellent communication skills ， At least one year of experience in software development, and testing (hands-on and automation)  B.S. or M.S. degree in Computer Science or equivalent technical training
+6.Nice to Have Experience ，Proficiency in Shell, Python ， Experience in VMware products, vSphere is a plus.
+7.Experience in automation testing frameworks and tools (especially drone, robot)

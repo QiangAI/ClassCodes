@@ -1,0 +1,2 @@
+职责描述：*负责直播云平台开发*负责直播监控数据平台开发
+职位要求：*精通python开发，并有Web应用项目经验；*熟悉python+nginx+fastcgi应用组合；*熟悉python高并发框架，如twisted、tornado、gevent之一；*熟练多线程、网络、异步IO等，熟悉应用相应的python库；*熟练应用mongodb，MQ、mysql、memcaced、redis、hbase等消息、缓存、数据库组件；*熟悉golang，lua等语言优先；*了解C/C++，nginx，rtmp，ffmpeg等更好；

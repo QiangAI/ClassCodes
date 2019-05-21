@@ -1,0 +1,9 @@
+1、2-6年Spring MVC，Spring，MyBatis等开源框架的开发经验，精通Memcache、Redis缓存技术；
+2、熟练使用 SVN、MAVEN 等项目版本管理及构建工具；
+3、熟练掌握HTML、CSS、JavaScript、Ajax、jQuery、Easyui、bootstrap、ExtJs等前台开发技术；
+4、熟练掌握如MySQL、Oracle、PostgreSQL等大型数据库，熟悉No-sql数据库如HBase、MongoDB者优先；
+5、从事过Zookeeper、Dubbo、RabbitMQ等技术的项目开发，了解Kafka、Spark等大数据体系相关技术者优先;
+6、针对有过大型互联网应用架构设计，并且参与过并发量超过10W+的项目开发经验者优先；
+7、熟悉Python开发者优先；
+8、有过Spring Cloud和SpringBoot等微服务开发者优先；
+（要有金融类相关经验）

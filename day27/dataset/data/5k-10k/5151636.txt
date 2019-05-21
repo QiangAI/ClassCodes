@@ -1,0 +1,8 @@
+1、良好的职业素养和工作责任心；
+2、 精通VMware、华为或Citrix桌面虚拟化其中一个,具备VMware VCP-DT或者Citrix CCA-XenDesktop认证；
+3、 精通vSAN、ScaleIO、Nutanix其中一个主流分布式存储的运维管理；
+4、 精通Windows(Win7/Server2008R2/Server2012)操作系统及其服务搭建:AD/DNS/DHCP/DFS；
+5、熟悉HP、Dell、华为等主流的服务器、存储和SAN设备运维；
+6、 熟悉基本的网络路由、负载均衡技术、防火墙配置原理；
+7、熟练掌握系统和网络故障诊断方法与相关工具Systeminternals/Wireshark/Fiddler；
+8、 熟悉至少一种脚本语言批处理/Powershell/VBScript/Python。

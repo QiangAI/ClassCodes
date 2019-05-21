@@ -1,0 +1,5 @@
+1. 精通python语言，了解 Django、Tornado 等框架中的一种
+2. 熟悉MVC三层架构，有性能优化、后台集群架构的实践经验
+3. 熟悉HTML、CSS、JavaScript等前端开发技术优先
+4. 有使用JQuery、ExtJS等JS类库或框架的开发经验优先
+5、一年两次调薪机会

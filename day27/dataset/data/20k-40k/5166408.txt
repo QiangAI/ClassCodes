@@ -1,0 +1,10 @@
+岗位职责：
+1、负责python开发工作，数据采集、分析、呈现；
+2、负责基础架构产品的开发。
+
+任职要求：
+1、计算机或相关专业本科以上学历，4年以上工作经验；
+2、熟练使用linux/unix平台开发；
+3、精通Python，熟练使用一种WEB框架，例如django, webpy, tornado；
+4、精通mysql等关系数据库，熟练使用mongodb、redis等nosql数据库；
+5、熟悉javascript、css前端技术。

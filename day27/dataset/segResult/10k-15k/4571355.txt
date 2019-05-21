@@ -1,0 +1,9 @@
+岗位职责 ： 
+ *   参与 某个 子 业务 的 服务器 开发 ， 包括 代码 实现 ， 代码 评审 等等 。 
+ 
+ 任职 要求 ： 
+ *   对 技术 和 工程质量 有 追求 ， 能 理解 Code   Review 的 重要性 ， 有 技术 博客 或 Github 主页 是 加 分项 。 
+ *   精通 Java 或者 Python ,   熟悉 Django 、 Flask 、 Spring 、 Mybatis 、 Netty 等 任一 Framework ， 了解 过 底层 实现 
+ *   了解 缓存 系统 ， 熟悉 Redis 等 常用 缓存 技术 
+ *   擅长 数据库 Schema 设计 ， 了解 基本 的 数据库 调优 方法 
+ *   熟悉 RESTful 规则 ， 掌握 RESTful   API 设计 的 一些 原则

@@ -1,0 +1,12 @@
+岗位职责:
+1、负责运维相关平台设计和开发工作, 提升运维效率；
+2、协助建立和完善规范化的运维体系, 保障运维质量；
+3、对现有的运维平台进行整合升级。
+
+岗位要求:
+1、熟练使用 Python 语言，有实际 Python Web 项目经验，有自动化运维平台项目经验者优先；
+2、熟练掌握至少一门 Python web 开发框架（Django、Flask、Tornado等）；
+3、熟悉 MySQL/PostgreSQL/Redis/MongoDB；
+4、熟悉 Linix/Unix 操作系统；
+5、熟悉 JavaScript, jQuery, HTML, CSS 等前端技术，有 react、vue 开发经验者优先；
+6、具备较强的学习能力和责任心，良好的沟通能力、文档编写能力，有github开源项目者优先。
