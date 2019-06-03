@@ -13,7 +13,6 @@ class WebChatHelper(QThread):
     # 定义信号
     qr = pyqtSignal(bytes)  # 发送登录二维码信号
     login = pyqtSignal()  # 发送登录成功信号
-
     chatrooms = pyqtSignal(list)  # 发送聊天室列表信号
 
     msg = pyqtSignal(str)
