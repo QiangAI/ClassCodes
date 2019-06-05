@@ -1,0 +1,41 @@
+<!--
+echarts.js的文本样式textStyle
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    var option = {
+        textStyle: {
+            color: '#00FF00'
+        },
+        title: {   //标题
+            text: 'ECharts例子'
+        },
+
+        legend: {
+            data: ['例子']
+        },
+        xAxis: {
+            data: ["星期一", "星期二", "星期三", "星期四", "星期五"]
+        },
+        yAxis: {},
+        series: [{
+            name: '数据',
+            type: 'line',   //线条类型
+            data: [500, 200, 360, 100, 400]
+        }]
+    };
+    var myChart = echarts.init(document.getElementById('chartmain'));
+
+    myChart.setOption(option);
+</script>
+</html>

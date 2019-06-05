@@ -1,0 +1,69 @@
+<!--
+echarts.js的数据序列-散点图
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+    <script type="text/javascript" src="map/js/china.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    var option = {
+        title: {
+            text: '全国地图大数据',
+            x: 'center'
+        },
+        textStyle: {
+            fontSize: 8,
+        },
+        //配置属性
+        legend: {
+            orient: 'vertical',
+            left: 'left',
+            data: ['数据']
+        },
+        visualMap: {
+            type: 'continuous',
+            min: 0,
+            max: 60,
+            left: 'left',
+            top: 'bottom',
+            text: ['最高', '最低'],           // 文本，默认为数值文本
+            calculable: false,           //颜色条是否可以拖拽,
+            color: ['red', 'green', 'blue']   // 指定地图颜色
+        },
+        series: [{
+            name: '数据',
+            type: 'map',
+            mapType: 'china',
+            roam: false,
+            selectedMode: 'single',
+            label: {
+                normal: {
+                    show: false  //省份名称
+                },
+                emphasis: {
+                    show: false
+                }
+            },
+            data: [
+                {name: '北京', value: 10},
+                {name: '天津', value: 20},
+                {name: '上海', value: 30},
+                {name: '重庆', value: 40},
+                {name: '四川', value: 60},
+            ]
+        }]
+    };
+
+    var myChart = echarts.init(document.getElementById('chartmain'));
+
+    myChart.setOption(option);
+</script>
+</html>

@@ -1,0 +1,43 @@
+<!--
+echarts.js的编程模式
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <!-- 模式一：引入库 -->
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<!-- 模式二：提供一个图形容器，一般是div，并提供一个id -->
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    //模式三：描述可视化图形数据
+    var option = {
+        title: {   //标题
+            text: 'ECharts例子'
+        },
+        tooltip: {},
+        legend: {
+            data: ['例子']
+        },
+        xAxis: {
+            data: ["星期一", "星期二", "星期三", "星期四", "星期五"]
+        },
+        yAxis: {},
+        series: [{
+            name: '数据',
+            type: 'line',   //线条类型
+            data: [500, 200, 360, 100, 400]
+        }]
+    };
+    //模式四：创建可视化图形实例(绑定一个绘制容器)
+    var myChart = echarts.init(document.getElementById('chartmain'));
+
+    //模式五：绑定可视化图形数据到echart可视化实例。
+    myChart.setOption(option);
+</script>
+</html>

@@ -1,0 +1,66 @@
+<!--
+echarts.js的动画设置
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    var option = {
+        animation: true,   //开关动画
+        animationDuration: 10000,     //动画持续时间，单位second
+        // animationDuration: function (idx) {
+        //     // 越往后的数据延迟越大
+        //     if (typeof idx === 'undefined') {
+        //         console.log('hello:'+idx);
+        //         return 10000;
+        //     }
+        //     else {
+        //         console.log(idx);
+        //         return idx * 1000;
+        //     }
+        // },
+
+        animationEasing: function (k) {
+            if (k < (1 / 2.75)) {
+                return 7.5625 * k * k;
+            }
+            else if (k < (2 / 2.75)) {
+                return 7.5625 * (k -= (1.5 / 2.75)) * k + 0.75;
+            }
+            else if (k < (2.5 / 2.75)) {
+                return 7.5625 * (k -= (2.25 / 2.75)) * k + 0.9375;
+            }
+            else {
+                return 7.5625 * (k -= (2.625 / 2.75)) * k + 0.984375;
+            }
+        },
+        title: {   //标题
+            text: 'ECharts例子'
+        },
+
+        legend: {
+            data: ['例子']
+        },
+        xAxis: {
+            data: ["星期一", "星期二", "星期三", "星期四", "星期五"]
+        },
+        yAxis: {},
+        series: [{
+            name: '数据',
+            type: 'line',   //线条类型
+            data: [500, 200, 360, 100, 400]
+        }]
+    };
+    var myChart = echarts.init(document.getElementById('chartmain'));
+
+    myChart.setOption(option);
+</script>
+</html>

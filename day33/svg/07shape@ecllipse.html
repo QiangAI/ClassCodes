@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px">
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’，‘transform’
+      ‘cx’:椭圆中心-x坐标
+      ‘cy’:椭圆中心-y坐标
+      ‘rx’:椭圆半轴-x半轴
+      ‘ry’:椭圆半轴-y半轴
+    -->
+    <ellipse cx="100" cy="100" rx="100" ry="50" fill="yellow" fill-opacity="0.5" stroke="blue"/>
+    <!--stroke默认值是none,如果不设置stroke属性，会看不见线条-->
+</svg>
+</body>
+<html>

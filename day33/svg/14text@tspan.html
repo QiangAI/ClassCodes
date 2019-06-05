@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px">
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’，‘transform‘
+      ‘lengthAdjust’:长度导致的文本布局调整，取值spacing|spacingAndGlyphs,默认spacing
+      ‘x’:绘制文本的坐标列表-x坐标
+      ‘y’:绘制文本的坐标列表-y坐标
+      ‘dx’:绘制文本的位置调整坐标-x坐标
+      ‘dy’:绘制文本的位置调整坐标-y坐标
+      ‘rotate’:文本旋转
+      ‘textLength’:文本张度
+    -->
+    <!--文本-->
+    <text x="10 40 60 100 150 200 250" y="30 60 90 90 90 10 300" rotate="30 60 90 120 150 180"
+          lengthAdjust="spacingAndGlyphs">文本
+        <tspan x="200" y="200">美</tspan>
+        绘制
+    </text>
+    <!--
+      注意在text中的空格的影响，xml是识别并区分空格的。
+      tspan中的文本是占位的。
+    -->
+</svg>
+</body>
+<html>

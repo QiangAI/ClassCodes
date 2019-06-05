@@ -1,0 +1,47 @@
+<!--
+echarts.js的数据序列-散点图
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+    <script type="text/javascript" src="map/js/china.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    var option = {
+        title: {
+            text: '全国地图大数据',
+            x: 'center'
+        },
+        textStyle: {
+            fontSize: 8,
+        },
+        //配置属性
+        series: [{
+            name: '数据',
+            type: 'map',
+            mapType: 'china',
+            roam: false,
+            selectedMode: 'single',
+            label: {
+                normal: {
+                    show: true  //省份名称
+                },
+                emphasis: {
+                    show: true
+                }
+            },
+        }]
+    };
+
+    var myChart = echarts.init(document.getElementById('chartmain'));
+
+    myChart.setOption(option);
+</script>
+</html>

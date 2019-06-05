@@ -1,0 +1,38 @@
+<!--
+echarts.js的坐标系的分类离散刻度数据
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    //模式三：描述可视化图形数据
+    var option = {
+        xAxis: {
+            //data:[1,2,3,4,5]   //可是使用数值
+            data: [
+                {
+                    value: '数据一',      //可以对数据样式进行定制
+                    textStyle: {
+                        fontSize: 20,
+                        color: 'red'
+                    }
+                },
+                '数据2',
+                '数据3', '数据4', '数据5'],  //可以使用字符串
+        },
+        yAxis: {
+            data: [-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5]
+        }
+    };
+    var myChart = echarts.init(document.getElementById('chartmain'));
+    myChart.setOption(option);
+</script>
+</html>

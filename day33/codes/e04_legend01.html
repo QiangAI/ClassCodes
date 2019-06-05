@@ -1,0 +1,41 @@
+<!--
+echarts.js的主题
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    //模式三：描述可视化图形数据
+    var option = {
+        title: {
+            text: '标题的使用',
+            left: 'center'
+        },
+        legend: {
+            data: ['主题'],      //这里的名字一定与图形中的name匹配，才会显示
+            x: 'left'
+        },
+
+        xAxis: {
+            data: ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
+        },
+        yAxis: {},
+        series: [{
+            name: '主题',
+            type: 'line',
+            data: [10, 12, 21, 54, 260, 830, 600]
+        }]
+
+    };
+    var myChart = echarts.init(document.getElementById('chartmain'));
+    myChart.setOption(option);
+</script>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px">
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’，‘transform’
+      ‘d’:path数据
+      ‘pathLength’:path长度
+    -->
+    <!--弧-->
+    <path d="M 200 0 A 50 100 45 1 0 400 200" pathLength="300" stroke="blue" fill="red"/>
+    <!--
+      A   50 50 弧的半径（相等为圆，不等为椭圆）
+          90 旋转角度（单位角度，对椭圆有效，圆怎么旋转都是圆）
+          1 取大弧还是小弧（0|1）
+          0 是否镜像反转（0|1）
+          400 200 结束点
+    -->
+
+</svg>
+</body>
+<html>

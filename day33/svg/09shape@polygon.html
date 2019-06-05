@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px">
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’，‘transform’
+      ‘points’:线条的顶点数组
+    -->
+    <polygon points="10,10  100,10 100,100" ry="50" fill="yellow" fill-opacity="0.5" stroke="blue"/>
+    <!--stroke默认值是none,如果不设置stroke属性，会看不见线条-->
+    <!--polyline与polygon的区别在于polygon会自动封闭：
+    自动绘制最后一个顶点与第一个顶点间的线条-->
+</svg>
+</body>
+<html>

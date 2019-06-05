@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+    <title>Web GL</title>
+    <script>
+        function drawGL() {
+            /*步骤1:获取Canvas元素
+            --------------------------------------------*/
+            var canvas = document.getElementById("canvas");
+            console.log(canvas);
+
+            /*步骤2:获取绘制上下文环境
+            --------------------------------------------*/
+            var ctx = canvas.getContext("webgl");
+            console.log(ctx);
+
+            /*步骤3:初始化视角(Viewport)
+            WebGLRenderingContext实现WebGLRenderingContextBase接口：
+            void viewport(GLint x, GLint y, GLsizei width, GLsizei height);
+            --------------------------------------------*/
+            ctx.viewport(0, 0, canvas.width, canvas.height);
+
+            /*步骤4:清除屏幕
+            /* ClearBufferMask
+                const GLenum DEPTH_BUFFER_BIT               = 0x00000100;深度缓冲
+                const GLenum STENCIL_BUFFER_BIT             = 0x00000400;模版缓冲
+                const GLenum COLOR_BUFFER_BIT               = 0x00004000;颜色缓冲
+            --------------------------------------------*/
+            ctx.clearColor(0.0, 0.0, 1.0, 1.0);//设置清除颜色
+            ctx.clear(ctx.COLOR_BUFFER_BIT);//清除操作
+
+
+            /*
+                数据类型：
+                typedef unsigned long  GLenum;
+                typedef boolean        GLboolean;
+                typedef unsigned long  GLbitfield;
+                typedef byte           GLbyte;
+                typedef short          GLshort;
+                typedef long           GLint;
+                typedef long           GLsizei;
+                typedef long long      GLintptr;
+                typedef long long      GLsizeiptr;
+                // Ideally the typedef below would use 'unsigned byte', but that doesn't currently exist in Web IDL.
+                typedef octet          GLubyte;
+                typedef unsigned short GLushort;
+                typedef unsigned long  GLuint;
+                typedef unrestricted float GLfloat;
+                typedef unrestricted float GLclampf;
+            */
+
+
+        }
+    </script>
+</head>
+<body onload="drawGL();">
+<canvas id="canvas" width="400" height="400"></canvas>
+</body>
+</html>

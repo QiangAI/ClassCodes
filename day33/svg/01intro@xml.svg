@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xml:space="preserve"
+   	 viewBox="0,0,80,80"
+   	 preserveAspectRatio="none"
+   	 x="0px"
+   	 y="0px"
+   	 width="80px"
+   	 height="120px"
+   	 style="background-color:gray;">
+
+   	 <g fill="green" stroke="black" >
+   	 <rect x="0" y="0" rx="5" ry="5" width="80" height="80"/>
+   	</g>
+</svg>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’，‘transform‘
+      ‘xlink:href’
+      可以反复引用定义好的字符：
+      1、定义字符（可以使用已知字符对象）
+      2、使用引用字符
+    -->
+    <!--1、字符定义-->
+    <defs>
+        <text id="lnk1">Hello Defs定义的字符</text>
+    </defs>
+    <text id="lnk2" x="100" y="50">world我也可以被引用</text>
+    <!--2、字符引用-->
+    <text x="100" y="100" rotate="45" fill="blue">
+        <tref xlink:href="#lnk2"/>
+    </text>
+    <!--经测试：chrome与firefox不支持-->
+</svg>
+</body>
+<html>

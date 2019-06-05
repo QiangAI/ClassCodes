@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’
+      ‘x’
+      ‘y’
+      ‘dx’
+      ‘dy’
+      ‘glyphRef’
+      ‘format’
+      ‘rotate’
+      ‘xlink:href’
+
+      使用步骤：
+      1、定义path
+      2、使用textPath使用path
+    -->
+    <text fill="blue">
+        <altGlyph x="10 50" y="10 50" rotate="45 90">abcdefghijklmnopqrstuvwxyz</altGlyph>
+    </text>
+    <!--method方法很多浏览器没有实现，Oper是实现者之一，Safiri，Chrome，Firefox在写这个代码的时候都没有实现
+    可以看这篇文件：http://tavmjong.free.fr/SVG/TEXT_PATH/TextPath.html
+    -->
+</svg>
+</body>
+<html>

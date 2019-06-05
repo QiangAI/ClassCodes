@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’
+      ‘xlink:href’:引用已经定义的Path的ID
+      ‘startOffset’:绘制文本的在路径上的开始位置
+      ‘method’:按照路径的文本绘制方法，取值"align (对齐:默认)| stretch（拉伸）"
+      ‘spacing’:文本的间隔方式，取值为"auto （自动）| exact（:默认）"
+
+      使用步骤：
+      1、定义path
+      2、使用textPath使用path
+    -->
+    <!--1、定义路径-->
+    <path id="mypath" d="M 100 200 Q 210 50 310 200" fill="none" stroke="blue"/>
+    <!--2、使用文本路径-->
+    <text fill="blue">
+        <textPath startOffset="20" method="align" spacing="auto" xlink:href="#mypath">草原上升起不落的太阳！</textPath>
+    </text>
+    <!--method方法很多浏览器没有实现，Oper是实现者之一，Safiri，Chrome，Firefox在写这个代码的时候都没有实现
+    可以看这篇文件：http://tavmjong.free.fr/SVG/TEXT_PATH/TextPath.html
+    -->
+</svg>
+</body>
+<html>

@@ -1,0 +1,79 @@
+<!--
+echarts.js的toolbox使用
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    //模式三：描述可视化图形数据
+    var option = {
+        title: {
+            text: 'toolbox的使用',
+            left: 'left',
+            top: 0
+        },
+        toolbox: {
+            feature: {
+                dataZoom: {     //放大缩小
+                    yAxisIndex: 'none'   //y方向不放大缩小
+                },
+                dataView: {
+                    readOnly: false,
+                    title: '表格视图',
+                },    //使用表格查看
+                magicType: {type: ['line', 'bar', 'stack', 'tiled']},   //显示方式切换，需要有数据才有效
+                restore: {
+                    title: '还原'
+                },     //恢复到原始状态
+                saveAsImage: {},    //另存为图片
+                brush: {}    //使用在brush中
+            }
+        },
+        grid: [      //使用x与x2，y与y2创建2*2的4个坐标系
+            {left: '5%', top: '10%', width: '38%', height: '38%'},   //第一行第一个
+            {right: '5%', top: '10%', width: '38%', height: '38%'},  //第一行第二个
+            {left: '5%', bottom: '5%', width: '38%', height: '38%'},  //第二行第一个
+            {right: '5%', bottom: '5%', width: '38%', height: '38%'}  //第二行第二个
+        ],
+        // 上面的left可以使用x，top使用y，right使用x2，bottom使用y2
+        xAxis: [
+            {gridIndex: 0, data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]},   //使用坐标系
+            {gridIndex: 1, data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]},
+            {gridIndex: 2, data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]},
+            {gridIndex: 3, data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}
+        ],
+        yAxis: [
+            {gridIndex: 0, min: 0, max: 20},
+            {gridIndex: 1, min: 0, max: 20},
+            {gridIndex: 2, min: 0, max: 20},
+            {gridIndex: 3, min: 0, max: 20}
+        ],
+        series: [
+            {
+                name: '图1',
+                type: 'line',
+                xAxisIndex: 0,
+                yAxisIndex: 0,
+                data: [1, 2, 5, 7, 12, 13, 3, 20, 10, 4, 8],
+            },
+            {
+                name: '图2',
+                type: 'bar',
+                xAxisIndex: 1,
+                yAxisIndex: 1,
+                data: [11, 11, 15, 13, 12, 13, 10],
+            }
+        ]
+    }
+    var myChart = echarts.init(document.getElementById('chartmain'));
+    myChart.setOption(option);
+</script>
+</html>

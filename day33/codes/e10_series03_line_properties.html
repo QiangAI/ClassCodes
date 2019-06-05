@@ -1,0 +1,58 @@
+<!--
+echarts.js的数据序列-直线的属性
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    var option = {
+        title: {   //标题
+            text: 'ECharts例子'
+        },
+        legend: {
+            data: ['数据曲线']
+        },
+        xAxis: {},
+        yAxis: {},
+        series: [{
+            name: '数据曲线',
+            type: 'line',   //线条类型
+            data: [
+                [0, 3],   //表示一个点（x，y）
+                [1, 5],
+                [2, 2],
+                [3, 4],
+                [4, 6],
+                [5, 7],
+                [6, 1],
+                [7, 5]
+            ],
+            markLine: {
+                silent: false,   //是否响应鼠标事件
+                data: [{
+                    yAxis: 1
+                }, {
+                    yAxis: 2
+                }, {
+                    yAxis: 3
+                }, {
+                    yAxis: 4
+                }, {
+                    yAxis: 5
+                }]
+            }
+        }]
+    };
+    var myChart = echarts.init(document.getElementById('chartmain'));
+
+    myChart.setOption(option);
+</script>
+</html>

@@ -1,0 +1,46 @@
+<!--
+echarts.js的grid使用
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    //模式三：描述可视化图形数据
+    var option = {
+        title: {
+            text: '的使用grid创建多个坐标系',
+            left: 'center',
+            top: 0
+        },
+        grid: [      //使用x与x2，y与y2创建2*2的4个坐标系
+            {left: '5%', top: '10%', width: '38%', height: '38%'},   //第一行第一个
+            {right: '5%', top: '10%', width: '38%', height: '38%'},  //第一行第二个
+            {left: '5%', bottom: '5%', width: '38%', height: '38%'},  //第二行第一个
+            {right: '5%', bottom: '5%', width: '38%', height: '38%'}  //第二行第二个
+        ],
+        // 上面的left可以使用x，top使用y，right使用x2，bottom使用y2
+        xAxis: [
+            {gridIndex: 0, min: 0, max: 10},   //使用坐标系
+            {gridIndex: 1, min: 0, max: 10},
+            {gridIndex: 2, min: 0, max: 10},
+            {gridIndex: 3, min: 0, max: 10}
+        ],
+        yAxis: [
+            {gridIndex: 0, min: 0, max: 20},
+            {gridIndex: 1, min: 0, max: 20},
+            {gridIndex: 2, min: 0, max: 20},
+            {gridIndex: 3, min: 0, max: 20}
+        ]
+    }
+    var myChart = echarts.init(document.getElementById('chartmain'));
+    myChart.setOption(option);
+</script>
+</html>

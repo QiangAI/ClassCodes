@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+    <title>Web GL</title>
+    <script>
+
+        function initGL() {
+            var canvas = document.getElementById("canvas");
+            var ctx = canvas.getContext("webgl");
+            ctx.viewport(0, 0, canvas.width, canvas.height);
+            ctx.clearColor(0.0, 0.0, 0.0, 1.0);//设置清除颜色
+            ctx.clear(ctx.COLOR_BUFFER_BIT);//清除操作
+            return ctx;
+        }
+
+        function drawGL() {
+            var ctx = initGL();
+            /*
+                绘制点需要使用着色器(Shader)（这与Canvas 2D有明显区别）
+                A.Vertex Shader:顶点摄着色器
+                    |-描述位置，大小等
+                B.Fragment Shader:细节着色器（通常翻译成：片段着色器）
+                    |-处理颜色，灯光等
+                注意：术语fragment可以理解成像素
+
+                Shader编程的基本套路：
+                A.创建Shader：WebGLShader? createShader(GLenum type);
+                B.设置着色器程序：void shaderSource(WebGLShader? shader, DOMString source);
+                C.编译着色器程序：void compileShader(WebGLShader? shader);
+
+            */
+            //1.创建着色器-------------------------------
+            //1.1.创建着色器对象
+            var vshader = ctx.createShader(ctx.VERTEX_SHADER);	//顶点着色器
+            var fshader = ctx.createShader(ctx.FRAGMENT_SHADER);	//片段着色器
+            //1.2.着色器的源
+            //其中的字符串语法遵循GLSL语言
+            var sVShader =
+                'attribute vec4 pos;\n' +		//设置属性，用来传递参数
+                'void main() {\n' +
+                '  gl_Position = pos;\n' + 		//点坐标，使用属性赋值
+                '  gl_PointSize = 20.0;\n' +      				//点大小
+                '}\n';
+            ;
+            var sFShader =
+                'void main() {\n' +
+                '  gl_FragColor = vec4(1.0, 0.0, 0.0, 1.0);\n' + //像素颜色
+                '}\n';
+            ;
+            //1.3.设置着色器的源
+            ctx.shaderSource(vshader, sVShader);
+            ctx.shaderSource(fshader, sFShader);
+            //1.4.编译着色器的源
+            ctx.compileShader(vshader);
+            ctx.compileShader(fshader);
+
+            //2.创建程序--------------------------------
+            //2.1.创建程序
+            var program = ctx.createProgram();
+            //2.2.添加着色器到程序
+            ctx.attachShader(program, vshader);
+            ctx.attachShader(program, fshader);
+            //2.3.连接程序到绘制上下文
+            ctx.linkProgram(program);
+            //2.4.应用程序
+            ctx.useProgram(program);
+
+            //3.设置属性
+            //3.1.获取属性
+            var pos = ctx.getAttribLocation(program, "pos");
+            //3.2.设置属性值
+            ctx.vertexAttrib3f(pos, 0.0, 0.5, 0.5);
+
+            //4.绘制点----------------------------------
+            //4.1.从ctx的第一个点开始绘制一个顶点。
+            ctx.drawArrays(ctx.POINTS, 0, 1);
+
+        }
+    </script>
+</head>
+<body onload="drawGL();">
+<canvas id="canvas" width="400" height="400"></canvas>
+</body>
+</html>

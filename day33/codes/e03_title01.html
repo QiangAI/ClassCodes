@@ -1,0 +1,59 @@
+<!--
+echarts.js标题
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    //模式三：描述可视化图形数据
+    var option = {
+        title: {
+            text: '标题',
+            left: 'center',
+            top: 0,
+            subtext: '副标题',
+            textStyle: {
+                color: 'red',
+                fontSize: 24,
+                textShadowColor: 'rgba(0, 255, 0, 255)',
+                textShadowOffsetX: 5,
+                textShadowOffsetY: 5,
+                textShadowBlur: 20
+            },
+            sublink: 'https://www.baidu.com',
+            subtarget: 'self',
+            subtextStyle: {
+                color: 'blue',
+                fontSize: 20
+            }
+        },
+        xAxis: {
+            data: ['数据1', '数据2', '数据3', '数据4', '数据5'],
+            axisPointer: {   //光标对准坐标轴，可以看见效果,更多参考官方文档
+                show: true,
+                type: 'line',
+                lineStyle: {
+                    color: 'red'
+                }
+            }
+        },
+        yAxis: {
+            data: [-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5],
+            axisPointer: {
+                show: true,
+                type: 'line'
+            }
+        }
+    };
+    var myChart = echarts.init(document.getElementById('chartmain'));
+    myChart.setOption(option);
+</script>
+</html>

@@ -1,0 +1,32 @@
+<!--
+echarts.js的坐标系的连续刻度数据
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts例子</title>
+    <script type="text/javascript" src="echarts.js"></script>
+</head>
+<body>
+<div id="chartmain" style="width:600px; height: 400px;"></div>
+</body>
+<script type="text/javascript">
+
+    //模式三：描述可视化图形数据
+    var option = {
+        xAxis: {
+            min: 0,     //最小值
+            max: 10,     //最大值
+            interval: 1   //间隔值
+        },
+        yAxis: {
+            min: -5,
+            max: 5,
+            interval: 1
+        }
+    };
+    var myChart = echarts.init(document.getElementById('chartmain'));
+    myChart.setOption(option);
+</script>
+</html>

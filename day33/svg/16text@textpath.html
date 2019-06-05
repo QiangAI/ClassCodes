@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在HTML5中使用SVG</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<svg viewBox="0,0,400,400"
+     preserveAspectRatio="none"
+     width="400px" height="400px"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!--
+      1、条件处理属性
+      2、核心属性
+      3、图像事件属性
+      4、表示属性：比如线条颜色样式属性stroke
+      5、其他公共属性：‘class’，‘style’，‘externalResourcesRequired’
+      ‘xlink:href’:引用已经定义的Path的ID
+      ‘startOffset’:绘制文本的开始字符（字符的位置）
+      ‘method’:按照路径的文本绘制方法，取值"align (对齐)| stretch（拉伸）"
+      ‘spacing’:文本的间隔方式，取值为"auto （自动）| exact（）"
+
+      使用步骤：
+      1、定义path
+      2、使用textPath使用path
+    -->
+    <!--1、定义路径-->
+    <defs>
+        <path id="mypath" d="M 10 200 Q 110 50 210 200" fill="red" stroke="blue"/>
+    </defs>
+    <!--2、使用文本路径-->
+    <text fill="blue">
+        <textPath xlink:href="#mypath">草原上升起不落的太阳！这是一首很好听的歌，而且充满正能量！</textPath>
+    </text>
+</svg>
+</body>
+<html>
