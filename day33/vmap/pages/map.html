@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>地图</title>
+    <link href="/pages/imgs/visual.ico" rel="shortcut icon">
+    <script src="/pages/js/echarts.js"></script>
+    <script src="/pages/js/china.js"></script>
+</head>
+<body>
+<div id="chinamap" style="width: 1200px; height: 600px;"></div>
+</body>
+    <script>
+        var option={
+            title:{
+                text:'全国地图',
+                left:'center',
+            },
+            textStyle:{
+                fontSize:8,
+            },
+            legend:{
+                data:['数据'],
+                left: 'right',
+            },
+            visualMap:{
+                type: 'continuous',
+                min:0,
+                max:100,
+                left:'left',
+                top: '2%',
+                text:['最下','最大'],
+                calculable: true,
+                color: ['black','blue']
+            },
+            series:[
+                {
+                    name:'数据',
+                    type:'map',
+                    roam:true,
+                    mapType: 'china',
+                    label:{
+                        show:true,
+                    },
+                    data:[
+                        {
+                            name:'北京',
+                            value: 100,
+                        },
+                        {
+                            name:'辽宁',
+                            value:88,
+                        },
+                        {
+                            name:'四川',
+                            value:66
+                        },
+                        {
+                            name:'山东',
+                            value:34
+                        },
+                        {
+                            name:'新疆',
+                            value:18
+                        }
+                    ]
+                },
+            ],
+        };
+
+        var map_echarts = echarts.init(document.getElementById('chinamap'));
+        map_echarts.setOption(option);
+    </script>
+</html>
+
+<!--http://172.22.0.201:9898/-->

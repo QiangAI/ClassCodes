@@ -9,38 +9,39 @@ echarts.js的数据序列-直线2维数据
     <script type="text/javascript" src="echarts.js"></script>
 </head>
 <body>
-<div id="chartmain" style="width:600px; height: 400px;"></div>
+    <div id="chartmain" style="width:600px; height: 400px;"></div>
 </body>
 <script type="text/javascript">
 
     var option = {
-        title: {   //标题
-            text: 'ECharts例子'
+        title:{   //标题
+            text:'ECharts例子'
         },
-        legend: {
-            data: ['数据曲线']
+        legend:{
+            data:['数据曲线']
         },
-        xAxis: {
-            type: 'category',    //默认是category，优先使用自己的data，
-                                 // 如果data没有设置，会根据series的数据判定
-                                 // 如果使用value，这根据series的data设置刻度
-            data: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+        xAxis:{
+            type:'category',    //默认是category，优先使用自己的data，
+                                // 如果data没有设置，会根据series的数据判定
+                                // 如果使用value，这根据series的data设置刻度
+            data:[0,1,2,3,4,5,6,7,8],
         },
-        yAxis: {
-            type: 'category',
-            data: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+        yAxis:{
+            type:'category',
+            data:[0,1,2,3,4,5,6,7,8],
         },
-        series: [{
-            name: '数据曲线',
-            type: 'line',   //线条类型
-            data: [
-                [0, 3],   //表示一个点（x，y）
-                [1, 5],
-                [2, 2],
-                [3, 4],
-                [4, 6],
-                [5, 7],
-                [6, 1]
+        series:[{
+            name:'数据曲线',
+            type:'line',   //线条类型
+            smooth:true,
+            data:[
+                [0,3],   //表示一个点（x，y）
+                [1,5],
+                [2,2],
+                [3,4],
+                [4,6],
+                [5,7],
+                [6,1]
             ]
         }]
     };

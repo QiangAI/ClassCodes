@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>多坐标系</title>
+    <script src='echarts.js'></script>
+
+</head>
+<body>
+    <div id="grid" style="position:absolute; left:300px; width: 600px; height: 600px;"></div>
+</body>
+    <script>
+        var options={
+            animation:true,
+            animationDuration:10000,
+            color:'blue',
+            tooltip:{
+                borderColor:'red',
+                borderWidth:2,
+                backgroundColor:'rgba(200,150,100, 0.5)',
+                axisPointer: {
+                    type:'line',
+                }
+            },
+            toolbox:{
+                // orient:'vertical',
+                bottom:0,
+                feature:{
+                    saveAsImage:{
+                        title: '另存',
+                    },
+                    dataZoom:{
+                        yAxisIndex: 'none',
+                    },
+                    restore:{
+
+                    },
+                    dataView:{
+                        readOnly:false,
+                    },
+                    magicType: {   //视图切换
+                        type:['line', 'bar']
+                    },
+                    brush:{}
+                }
+            },
+            title:{
+                text:'多坐标系图',
+                left:'center',
+            },
+            grid:[
+                {
+                    left: '5%',
+                    top:'5%',
+                    width:'30%',
+                    height:'30%',
+                },
+                {
+                    // left:'55%',
+                    right:'5%',
+                    top:'5%',
+                    width: '30%',
+                    height:'30%',
+                },
+                {
+                    left:'5%',
+                    bottom:'10%',
+                    width: '30%',
+                    height:'30%',
+                },
+                {
+                    right:'5%',
+                    bottom:'10%',
+                    width: '30%',
+                    height:'30%',
+                }
+            ],
+            xAxis: [
+                {
+                    gridIndex:0,
+                    // min:0,
+                    // max:10,
+                    data:['A','B','C','D','E','F',]
+                },
+                {
+                    gridIndex:1,
+                    min:0,
+                    max:10,
+                },
+                {
+                    gridIndex:2,
+                    min:0,
+                    max:10,
+                },
+                {
+                    gridIndex:3,
+                    min:0,
+                    max:10,
+                }
+
+            ],
+            yAxis: [
+                {
+                    gridIndex:0,
+                    min:0,
+                    max:10,
+                    // data:[1,2,3,4,5,6,7]
+                },
+                {
+                    gridIndex:1,
+                    min:0,
+                    max:10,
+                },
+                {
+                    gridIndex:2,
+                    min:0,
+                    max:10,
+                },
+                {
+                    gridIndex:3,
+                    min:0,
+                    max:10,
+                }
+            ],
+            series: [
+                {
+                    name: '曲线一',
+                    type: 'line',
+                    xAxisIndex: 1,
+                    yAxisIndex: 1,
+                    data: [
+                        [1,4],
+                        [2,7],
+                        [3,3],
+                        [4,1],
+                        [5,5],
+                        [6,9],
+                        [7,3],
+                        [8,4],
+                        [9,8],
+
+                    ],
+                }
+            ],
+
+        };
+
+        var echarts = echarts.init(document.getElementById('grid'));
+        echarts.setOption(options);
+    </script>
+</html>

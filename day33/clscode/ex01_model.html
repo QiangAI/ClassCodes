@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ECharts编程套路</title>
+    <!--模式一：引入echarts库-->
+    <script src="echarts.js" type="text/javascript"></script>
+</head>
+<body>
+    <!--模式二：可视化的图形容器：DIV-->
+    <div id="charts" style="position: relative;width: 600px;height: 600px;top: 20px; left: 100px"></div>
+</body>
+    <!--模式三：Echarts代码：数据描述（难点）与图形绘制-->
+    <!--模式四：ECharts代码：关联图形到容器-->
+    <script>
+        // 模式三：Echarts代码：数据描述（难点）与图形绘制
+        var  options = {
+
+            /*主题与坐标系中的图像型或者图形数据*/
+            legend:{
+                data:['主题','主题二'],
+                left:'center',
+            },
+            // 数据图形
+            series:[{
+                name: '主题',
+                type: 'line',
+                data:[10,30,15,60,20,40]
+            },
+            {
+                name: '主题二',
+                type: 'line',
+                data:[50,20,10,70,40,30]
+            }],
+            title:{
+                text:'Web数据可视化',
+                subtext: '-----曲线图',
+                subtextStyle: {
+                    color:'rgb(255,0,0)',
+                    fontSize:12,
+                },
+                left: 'right',//500,//'center',  //left =x  ,top=y ,right=x2, bottom=y2
+                link: 'https://www.baidu.com',
+                target:'self'
+            },
+            // textStyle:{
+            //     color:'red',
+            //     fontSize:36,
+            // },
+            xAxis:{
+                // type:'category',
+                // type:'value',
+                // min:-100,
+                // max:100,
+                // interval:20,
+                data:[
+                    {
+                        value:'星期一',
+                        textStyle: {
+                            fontSize: 30,
+                        }
+                    },
+                    '星期二','星期三','星期四','星期五'],
+                axisPointer:{
+                    show: true,
+                    type: 'line',
+                }
+            },
+            yAxis:{
+                type:'value',
+                min:0,
+                max:70,
+                interval:10,
+            },
+
+
+        };
+
+
+        // 模式四：ECharts代码：关联图形到容器
+        // 获取容器
+        var echart_container = document.getElementById('charts');
+        // 使用echarts初始化容器,返回echarts句柄
+        var echar_obj = echarts.init(echart_container);
+        echar_obj.setOption(options)
+
+    </script>
+</html>
