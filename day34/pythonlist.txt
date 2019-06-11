@@ -1,3 +1,9 @@
 numpy
 scipy
 sklearn
+scrapy
+redis
+mongodb
+requests
+bs4
+

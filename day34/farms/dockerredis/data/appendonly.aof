@@ -1,0 +1,11086 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '草莓', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-62.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '荔枝', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-63.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'name': '梨', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-64.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '苹果', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-65.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '香蕉', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-66.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '柑桔', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-67.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'name': '橙', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-68.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '柠檬',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-590.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '葡萄',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-591.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '大红果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-592.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '瓜果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-593.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '芒果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-594.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '提子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-595.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '其他水果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-596.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '菠萝',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-750.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '柚子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-751.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '猕猴桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-764.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '甜瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-765.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '西瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-769.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '哈密瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-770.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '桃', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-771.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '桔', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-772.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '柑', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-773.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '金桔',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-774.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '李', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-775.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '杏', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-776.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '圣女果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-777.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '樱桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-778.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '车厘子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-779.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '龙眼',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-780.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '甘蔗',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-781.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '山竹',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-782.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '杨桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-783.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '杨梅',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-784.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '无花果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-785.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '黄金瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-786.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '黄桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-787.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '毛桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-788.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '榴莲',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-789.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '柿子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-790.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '人参果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-791.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '木瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-792.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '石榴',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-793.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '冬枣',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-794.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '枇杷',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-795.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '山楂',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-796.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '番石榴',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-797.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '橄榄',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-798.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '香瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-799.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '椰子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-800.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '蓝莓',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-2792.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '槟榔',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-17864.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '灯笼果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18188.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '桑葚',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18311.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '乌梅',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18411.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '百香果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18416.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '梅子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-23914.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '羊奶果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24185.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '红枣',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24189.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '牛油果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24228.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '神秘果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24453.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '释迦果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24478.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '雪莲果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24757.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '荸荠',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25106.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '丑橘',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25151.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '八月瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25195.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '含羞果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25296.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猫屎瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25322.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '刺角瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25794.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '树莓',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25916.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '金星果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25977.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '青枣',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25979.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '芭蕉',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-26044.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '海棠果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-27487.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '油桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-27488.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '菠萝蜜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-89092.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '沙棘果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-96708.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '菱角',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-96781.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '竹笋', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-40.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '腌菜', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-44.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'name': '葱', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-48.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '辣椒', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-49.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '大白菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-51.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '平菇', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-57.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '草菇', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-58.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '金针菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-59.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '木耳', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-60.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '其它', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-61.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '甘薯/地瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-763.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '土豆/马铃薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-762.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '冬瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-597.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '小白菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-801.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '生菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-802.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '包菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-803.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '韭菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-804.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '香菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-805.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '菜苔',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-806.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '油麦菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-807.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '韭黄',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-808.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '莴笋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-809.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '芹菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-810.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '花椰菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-811.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '黄花菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-812.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '西兰花',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-813.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '萝卜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-814.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '胡萝卜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-815.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '南瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-816.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '丝瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-817.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '黄瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-818.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '苦瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-819.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '西红柿/番茄',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-821.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '秋葵',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-822.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '莲藕',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-823.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '红薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-824.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '紫薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-825.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '芋头',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-826.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '淮山',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-827.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '鲜葛根',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-828.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '魔芋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-829.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '香菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-830.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '黑木耳',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-831.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '杏鲍菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-832.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '茶树菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-833.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '竹荪',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-834.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '蘑菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-835.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '小葱',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-836.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '蒜薹',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-837.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '洋葱',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-838.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '蒜苗',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-839.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '春笋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-840.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '茨菰',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-841.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '香椿芽',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-842.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '鲜百合',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-844.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '空心菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-846.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '山药',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-1743.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$117
+{'name': '樱桃番茄（圣女果）',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-1744.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '西葫芦',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18356.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猴头菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18420.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '牛肝菌',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18423.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '姬松茸',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18426.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '芦笋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18455.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '茭白',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-23919.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '卷心菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24196.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '茼蒿',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24481.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '白木耳',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24826.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '海苔',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24829.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '油菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24841.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '黑番茄',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24850.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '地皮菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25110.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '大球盖菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25114.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '海鲜菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25157.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '毛木耳',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25160.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '秀珍菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25228.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '芽菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25239.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '彩椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25242.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '甘蓝',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25299.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '儿菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25302.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '番杏',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25325.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '飞碟瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25330.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猴腿菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25690.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '砍瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25949.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '马齿菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-26052.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '食用菌',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27279.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '栗菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27284.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '松露',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27285.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '双孢菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27286.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '青椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27289.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '菠菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27290.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '娃娃菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27291.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '甜椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27292.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '荠菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27294.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '毛芋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27296.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '青花椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27297.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '荔浦芋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27369.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '蔓菁/芥蓝',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27370.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '茄子',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27475.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '莴苣',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-29059.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '脚板薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-29344.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '苦苣',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88961.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$109
+{'name': '苔干（贡菜）',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88962.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$112
+{'name': '四季豆（菜豆）',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88963.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '豌豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88964.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '鲜蚕豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88966.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '扁豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88967.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '豇豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88968.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '刀豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88969.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '海带',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-89122.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猪毛菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-89123.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '荷兰豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-89210.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '紫菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-108583.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '畜禽类',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-767.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '水产类',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-992.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '特种类',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-1003.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '繁育种苗',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-1004.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '宠物及其它',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-88.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$91
+{'name': '主粮', 'type': '米面粮油', 'url': 'http://www.zgncpw.com/sell/list-5.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '食用油',
+ 'type': '米面粮油',
+ 'url': 'http://www.zgncpw.com/sell/list-308.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '杂粮',
+ 'type': '米面粮油',
+ 'url': 'http://www.zgncpw.com/sell/list-1032.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '其它', 'type': '米面粮油', 'url': 'http://www.zgncpw.com/sell/list-28.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '茶叶酒饮',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-15.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '果仁籽类',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-7.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '土特产',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-206.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '调味品',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-207.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '食品类',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-210.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '经济作物',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-625.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '礼盒包装',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-624.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '化肥',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-612.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '种子',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-613.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '饲料',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-614.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '调节剂',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-18.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '绿化类苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-89.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '果树类苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-90.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '观叶类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5500.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '观果类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5501.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$106
+{'name': '观花类苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-23935.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '观茎类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5503.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '芳香类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5504.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$108
+{'name': '其他花卉苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5505.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '根茎类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1141.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '果实籽仁类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1142.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '全草类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1143.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '花类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1144.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '叶类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1145.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '树皮类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1146.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '藤木类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1147.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '菌藻类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1148.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '动物类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1149.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '矿物类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1150.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '加工类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1151.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '收获机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1312.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '农机配件',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1313.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '饲料加工',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1314.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '粮油加工',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1315.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '农副加工',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1316.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '种植机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1317.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '耕整机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1318.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '畜牧机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1319.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '园林机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1320.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '灌溉设备',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1321.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '种子机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1322.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '运输机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1323.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '其它农机',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-217.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '养殖机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-216.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '进口机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-615.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '北京特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1865.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '天津特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1697.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河北特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1698.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1699.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '内蒙古特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1700.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '辽宁特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1701.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '吉林特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1702.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '黑龙江特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1703.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '上海特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1704.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江苏特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1705.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '浙江特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1706.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '安徽特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1707.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '福建特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1708.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1709.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山东特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1710.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1711.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖北特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1712.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1713.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广东特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1714.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1715.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '海南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1716.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '重庆特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1717.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '四川特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1718.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '贵州特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1719.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '云南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1720.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '西藏特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1721.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '陕西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1722.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '甘肃特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1723.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '青海特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1724.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '宁夏特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1725.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '新疆特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1726.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '香港特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1727.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '澳门特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1728.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '台湾特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1729.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '北京民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-1692.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '天津民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2345.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河北民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2346.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2347.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '内蒙古民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2348.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '辽宁民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2349.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '吉林民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2350.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '黑龙江民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2351.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '上海民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2352.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江苏民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2353.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '浙江民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2354.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '安徽民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2355.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '福建民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2356.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2357.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山东民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2358.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2359.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖北民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2360.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2361.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广东民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2362.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2363.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '海南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2364.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '重庆民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2365.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '四川民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2366.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '贵州民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2367.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '云南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2368.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '西藏民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2369.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '陕西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2370.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '甘肃民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2371.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '青海民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2372.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '宁夏民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2373.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '新疆民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2374.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '香港民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-28908.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '澳门民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-28909.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '台湾民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-28910.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '仓储服务',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1628.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '装卸搬运',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1629.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '运输设备',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1630.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '包装服务',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1631.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '流通加工',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1632.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$111
+{'name': '信息采集与处理',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1633.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$111
+{'name': '集装单元化装备',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1636.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '物流配货',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1844.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '学生农训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44194.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '种植培训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44195.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '养殖培训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44196.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '厨师厨艺',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44197.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '电焊工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44198.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '驾驶员',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44199.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '汽车维修',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44200.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$106
+{'name': '计算机操作',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44201.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '数控车工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44202.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '白酒酿造',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44203.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '装饰装潢',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44204.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '装配钳工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44205.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '机修钳工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44206.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '园林农艺',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44207.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '动物饲养',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44208.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '混凝土工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44211.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '家政服务',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44212.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '美容美发',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44213.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '挖掘机工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44214.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '强弱电工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44215.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '水暖管工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44216.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '其他培训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44217.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '合作加盟',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44218.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '植物医生',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134246.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '兽医服务',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134247.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '种植咨询',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134248.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '养殖咨询',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134249.html'}
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$3
+del
+$13
+category_task
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '生鲜水果', 'name': '草莓', 'url': 'http://www.zgncpw.com/sell/list-62.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '生鲜水果', 'name': '荔枝', 'url': 'http://www.zgncpw.com/sell/list-63.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'type': '生鲜水果', 'name': '梨', 'url': 'http://www.zgncpw.com/sell/list-64.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '生鲜水果', 'name': '苹果', 'url': 'http://www.zgncpw.com/sell/list-65.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '生鲜水果', 'name': '香蕉', 'url': 'http://www.zgncpw.com/sell/list-66.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '生鲜水果', 'name': '柑桔', 'url': 'http://www.zgncpw.com/sell/list-67.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'type': '生鲜水果', 'name': '橙', 'url': 'http://www.zgncpw.com/sell/list-68.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '柠檬', 'url': 'http://www.zgncpw.com/sell/list-590.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '葡萄', 'url': 'http://www.zgncpw.com/sell/list-591.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '大红果', 'url': 'http://www.zgncpw.com/sell/list-592.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '瓜果', 'url': 'http://www.zgncpw.com/sell/list-593.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '芒果', 'url': 'http://www.zgncpw.com/sell/list-594.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '提子', 'url': 'http://www.zgncpw.com/sell/list-595.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'type': '生鲜水果', 'name': '其他水果', 'url': 'http://www.zgncpw.com/sell/list-596.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '菠萝', 'url': 'http://www.zgncpw.com/sell/list-750.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '柚子', 'url': 'http://www.zgncpw.com/sell/list-751.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '猕猴桃', 'url': 'http://www.zgncpw.com/sell/list-764.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '甜瓜', 'url': 'http://www.zgncpw.com/sell/list-765.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '西瓜', 'url': 'http://www.zgncpw.com/sell/list-769.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '哈密瓜', 'url': 'http://www.zgncpw.com/sell/list-770.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'type': '生鲜水果', 'name': '桃', 'url': 'http://www.zgncpw.com/sell/list-771.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'type': '生鲜水果', 'name': '桔', 'url': 'http://www.zgncpw.com/sell/list-772.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'type': '生鲜水果', 'name': '柑', 'url': 'http://www.zgncpw.com/sell/list-773.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '金桔', 'url': 'http://www.zgncpw.com/sell/list-774.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'type': '生鲜水果', 'name': '李', 'url': 'http://www.zgncpw.com/sell/list-775.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'type': '生鲜水果', 'name': '杏', 'url': 'http://www.zgncpw.com/sell/list-776.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '圣女果', 'url': 'http://www.zgncpw.com/sell/list-777.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '樱桃', 'url': 'http://www.zgncpw.com/sell/list-778.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '车厘子', 'url': 'http://www.zgncpw.com/sell/list-779.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '龙眼', 'url': 'http://www.zgncpw.com/sell/list-780.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '甘蔗', 'url': 'http://www.zgncpw.com/sell/list-781.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '山竹', 'url': 'http://www.zgncpw.com/sell/list-782.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '杨桃', 'url': 'http://www.zgncpw.com/sell/list-783.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '杨梅', 'url': 'http://www.zgncpw.com/sell/list-784.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '无花果', 'url': 'http://www.zgncpw.com/sell/list-785.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '黄金瓜', 'url': 'http://www.zgncpw.com/sell/list-786.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '黄桃', 'url': 'http://www.zgncpw.com/sell/list-787.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '毛桃', 'url': 'http://www.zgncpw.com/sell/list-788.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '榴莲', 'url': 'http://www.zgncpw.com/sell/list-789.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '柿子', 'url': 'http://www.zgncpw.com/sell/list-790.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '人参果', 'url': 'http://www.zgncpw.com/sell/list-791.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '木瓜', 'url': 'http://www.zgncpw.com/sell/list-792.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '石榴', 'url': 'http://www.zgncpw.com/sell/list-793.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '冬枣', 'url': 'http://www.zgncpw.com/sell/list-794.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '枇杷', 'url': 'http://www.zgncpw.com/sell/list-795.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '山楂', 'url': 'http://www.zgncpw.com/sell/list-796.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '生鲜水果', 'name': '番石榴', 'url': 'http://www.zgncpw.com/sell/list-797.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '橄榄', 'url': 'http://www.zgncpw.com/sell/list-798.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '香瓜', 'url': 'http://www.zgncpw.com/sell/list-799.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '生鲜水果', 'name': '椰子', 'url': 'http://www.zgncpw.com/sell/list-800.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{'type': '生鲜水果', 'name': '蓝莓', 'url': 'http://www.zgncpw.com/sell/list-2792.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '槟榔', 'url': 'http://www.zgncpw.com/sell/list-17864.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '灯笼果', 'url': 'http://www.zgncpw.com/sell/list-18188.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '桑葚', 'url': 'http://www.zgncpw.com/sell/list-18311.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '乌梅', 'url': 'http://www.zgncpw.com/sell/list-18411.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '百香果', 'url': 'http://www.zgncpw.com/sell/list-18416.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '梅子', 'url': 'http://www.zgncpw.com/sell/list-23914.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '羊奶果', 'url': 'http://www.zgncpw.com/sell/list-24185.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '红枣', 'url': 'http://www.zgncpw.com/sell/list-24189.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '牛油果', 'url': 'http://www.zgncpw.com/sell/list-24228.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '神秘果', 'url': 'http://www.zgncpw.com/sell/list-24453.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '释迦果', 'url': 'http://www.zgncpw.com/sell/list-24478.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '雪莲果', 'url': 'http://www.zgncpw.com/sell/list-24757.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '荸荠', 'url': 'http://www.zgncpw.com/sell/list-25106.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '丑橘', 'url': 'http://www.zgncpw.com/sell/list-25151.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '八月瓜', 'url': 'http://www.zgncpw.com/sell/list-25195.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '含羞果', 'url': 'http://www.zgncpw.com/sell/list-25296.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '猫屎瓜', 'url': 'http://www.zgncpw.com/sell/list-25322.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '刺角瓜', 'url': 'http://www.zgncpw.com/sell/list-25794.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '树莓', 'url': 'http://www.zgncpw.com/sell/list-25916.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '金星果', 'url': 'http://www.zgncpw.com/sell/list-25977.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '青枣', 'url': 'http://www.zgncpw.com/sell/list-25979.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '芭蕉', 'url': 'http://www.zgncpw.com/sell/list-26044.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '海棠果', 'url': 'http://www.zgncpw.com/sell/list-27487.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '油桃', 'url': 'http://www.zgncpw.com/sell/list-27488.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '菠萝蜜', 'url': 'http://www.zgncpw.com/sell/list-89092.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '生鲜水果', 'name': '沙棘果', 'url': 'http://www.zgncpw.com/sell/list-96708.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '生鲜水果', 'name': '菱角', 'url': 'http://www.zgncpw.com/sell/list-96781.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '新鲜蔬菜', 'name': '竹笋', 'url': 'http://www.zgncpw.com/sell/list-40.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '新鲜蔬菜', 'name': '腌菜', 'url': 'http://www.zgncpw.com/sell/list-44.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'type': '新鲜蔬菜', 'name': '葱', 'url': 'http://www.zgncpw.com/sell/list-48.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '新鲜蔬菜', 'name': '辣椒', 'url': 'http://www.zgncpw.com/sell/list-49.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '大白菜', 'url': 'http://www.zgncpw.com/sell/list-51.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '新鲜蔬菜', 'name': '平菇', 'url': 'http://www.zgncpw.com/sell/list-57.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '新鲜蔬菜', 'name': '草菇', 'url': 'http://www.zgncpw.com/sell/list-58.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '金针菇', 'url': 'http://www.zgncpw.com/sell/list-59.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '新鲜蔬菜', 'name': '木耳', 'url': 'http://www.zgncpw.com/sell/list-60.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '新鲜蔬菜', 'name': '其它', 'url': 'http://www.zgncpw.com/sell/list-61.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '新鲜蔬菜', 'name': '甘薯/地瓜', 'url': 'http://www.zgncpw.com/sell/list-763.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '新鲜蔬菜', 'name': '土豆/马铃薯', 'url': 'http://www.zgncpw.com/sell/list-762.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '冬瓜', 'url': 'http://www.zgncpw.com/sell/list-597.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '小白菜', 'url': 'http://www.zgncpw.com/sell/list-801.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '生菜', 'url': 'http://www.zgncpw.com/sell/list-802.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '包菜', 'url': 'http://www.zgncpw.com/sell/list-803.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '韭菜', 'url': 'http://www.zgncpw.com/sell/list-804.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '香菜', 'url': 'http://www.zgncpw.com/sell/list-805.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '菜苔', 'url': 'http://www.zgncpw.com/sell/list-806.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '油麦菜', 'url': 'http://www.zgncpw.com/sell/list-807.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '韭黄', 'url': 'http://www.zgncpw.com/sell/list-808.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '莴笋', 'url': 'http://www.zgncpw.com/sell/list-809.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '芹菜', 'url': 'http://www.zgncpw.com/sell/list-810.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '花椰菜', 'url': 'http://www.zgncpw.com/sell/list-811.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '黄花菜', 'url': 'http://www.zgncpw.com/sell/list-812.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '西兰花', 'url': 'http://www.zgncpw.com/sell/list-813.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '萝卜', 'url': 'http://www.zgncpw.com/sell/list-814.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '胡萝卜', 'url': 'http://www.zgncpw.com/sell/list-815.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '南瓜', 'url': 'http://www.zgncpw.com/sell/list-816.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '丝瓜', 'url': 'http://www.zgncpw.com/sell/list-817.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '黄瓜', 'url': 'http://www.zgncpw.com/sell/list-818.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '苦瓜', 'url': 'http://www.zgncpw.com/sell/list-819.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '新鲜蔬菜', 'name': '西红柿/番茄', 'url': 'http://www.zgncpw.com/sell/list-821.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '秋葵', 'url': 'http://www.zgncpw.com/sell/list-822.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '莲藕', 'url': 'http://www.zgncpw.com/sell/list-823.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '红薯', 'url': 'http://www.zgncpw.com/sell/list-824.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '紫薯', 'url': 'http://www.zgncpw.com/sell/list-825.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '芋头', 'url': 'http://www.zgncpw.com/sell/list-826.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '淮山', 'url': 'http://www.zgncpw.com/sell/list-827.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '鲜葛根', 'url': 'http://www.zgncpw.com/sell/list-828.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '魔芋', 'url': 'http://www.zgncpw.com/sell/list-829.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '香菇', 'url': 'http://www.zgncpw.com/sell/list-830.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '黑木耳', 'url': 'http://www.zgncpw.com/sell/list-831.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '杏鲍菇', 'url': 'http://www.zgncpw.com/sell/list-832.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '茶树菇', 'url': 'http://www.zgncpw.com/sell/list-833.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '竹荪', 'url': 'http://www.zgncpw.com/sell/list-834.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '蘑菇', 'url': 'http://www.zgncpw.com/sell/list-835.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '小葱', 'url': 'http://www.zgncpw.com/sell/list-836.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '蒜薹', 'url': 'http://www.zgncpw.com/sell/list-837.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '洋葱', 'url': 'http://www.zgncpw.com/sell/list-838.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '蒜苗', 'url': 'http://www.zgncpw.com/sell/list-839.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '春笋', 'url': 'http://www.zgncpw.com/sell/list-840.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '新鲜蔬菜', 'name': '茨菰', 'url': 'http://www.zgncpw.com/sell/list-841.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '香椿芽', 'url': 'http://www.zgncpw.com/sell/list-842.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '鲜百合', 'url': 'http://www.zgncpw.com/sell/list-844.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '空心菜', 'url': 'http://www.zgncpw.com/sell/list-846.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{'type': '新鲜蔬菜', 'name': '山药', 'url': 'http://www.zgncpw.com/sell/list-1743.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$115
+{'type': '新鲜蔬菜', 'name': '樱桃番茄（圣女果）', 'url': 'http://www.zgncpw.com/sell/list-1744.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '西葫芦', 'url': 'http://www.zgncpw.com/sell/list-18356.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '猴头菇', 'url': 'http://www.zgncpw.com/sell/list-18420.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '牛肝菌', 'url': 'http://www.zgncpw.com/sell/list-18423.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '姬松茸', 'url': 'http://www.zgncpw.com/sell/list-18426.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '芦笋', 'url': 'http://www.zgncpw.com/sell/list-18455.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '茭白', 'url': 'http://www.zgncpw.com/sell/list-23919.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '卷心菜', 'url': 'http://www.zgncpw.com/sell/list-24196.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '茼蒿', 'url': 'http://www.zgncpw.com/sell/list-24481.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '白木耳', 'url': 'http://www.zgncpw.com/sell/list-24826.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '海苔', 'url': 'http://www.zgncpw.com/sell/list-24829.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '油菜', 'url': 'http://www.zgncpw.com/sell/list-24841.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '黑番茄', 'url': 'http://www.zgncpw.com/sell/list-24850.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '地皮菜', 'url': 'http://www.zgncpw.com/sell/list-25110.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '新鲜蔬菜', 'name': '大球盖菇', 'url': 'http://www.zgncpw.com/sell/list-25114.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '海鲜菇', 'url': 'http://www.zgncpw.com/sell/list-25157.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '毛木耳', 'url': 'http://www.zgncpw.com/sell/list-25160.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '秀珍菇', 'url': 'http://www.zgncpw.com/sell/list-25228.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '芽菜', 'url': 'http://www.zgncpw.com/sell/list-25239.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '彩椒', 'url': 'http://www.zgncpw.com/sell/list-25242.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '甘蓝', 'url': 'http://www.zgncpw.com/sell/list-25299.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '儿菜', 'url': 'http://www.zgncpw.com/sell/list-25302.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '番杏', 'url': 'http://www.zgncpw.com/sell/list-25325.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '飞碟瓜', 'url': 'http://www.zgncpw.com/sell/list-25330.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '猴腿菜', 'url': 'http://www.zgncpw.com/sell/list-25690.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '砍瓜', 'url': 'http://www.zgncpw.com/sell/list-25949.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '马齿菜', 'url': 'http://www.zgncpw.com/sell/list-26052.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '食用菌', 'url': 'http://www.zgncpw.com/sell/list-27279.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '栗菇', 'url': 'http://www.zgncpw.com/sell/list-27284.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '松露', 'url': 'http://www.zgncpw.com/sell/list-27285.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '双孢菇', 'url': 'http://www.zgncpw.com/sell/list-27286.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '青椒', 'url': 'http://www.zgncpw.com/sell/list-27289.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '菠菜', 'url': 'http://www.zgncpw.com/sell/list-27290.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '娃娃菜', 'url': 'http://www.zgncpw.com/sell/list-27291.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '甜椒', 'url': 'http://www.zgncpw.com/sell/list-27292.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '荠菜', 'url': 'http://www.zgncpw.com/sell/list-27294.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '毛芋', 'url': 'http://www.zgncpw.com/sell/list-27296.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '青花椒', 'url': 'http://www.zgncpw.com/sell/list-27297.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '荔浦芋', 'url': 'http://www.zgncpw.com/sell/list-27369.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'type': '新鲜蔬菜', 'name': '蔓菁/芥蓝', 'url': 'http://www.zgncpw.com/sell/list-27370.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '茄子', 'url': 'http://www.zgncpw.com/sell/list-27475.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '莴苣', 'url': 'http://www.zgncpw.com/sell/list-29059.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '脚板薯', 'url': 'http://www.zgncpw.com/sell/list-29344.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '苦苣', 'url': 'http://www.zgncpw.com/sell/list-88961.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$107
+{'type': '新鲜蔬菜', 'name': '苔干（贡菜）', 'url': 'http://www.zgncpw.com/sell/list-88962.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$110
+{'type': '新鲜蔬菜', 'name': '四季豆（菜豆）', 'url': 'http://www.zgncpw.com/sell/list-88963.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '豌豆', 'url': 'http://www.zgncpw.com/sell/list-88964.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '鲜蚕豆', 'url': 'http://www.zgncpw.com/sell/list-88966.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '扁豆', 'url': 'http://www.zgncpw.com/sell/list-88967.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '豇豆', 'url': 'http://www.zgncpw.com/sell/list-88968.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '刀豆', 'url': 'http://www.zgncpw.com/sell/list-88969.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '新鲜蔬菜', 'name': '海带', 'url': 'http://www.zgncpw.com/sell/list-89122.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '猪毛菜', 'url': 'http://www.zgncpw.com/sell/list-89123.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '新鲜蔬菜', 'name': '荷兰豆', 'url': 'http://www.zgncpw.com/sell/list-89210.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '新鲜蔬菜', 'name': '紫菜', 'url': 'http://www.zgncpw.com/sell/list-108583.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '畜牧水产', 'name': '畜禽类', 'url': 'http://www.zgncpw.com/sell/list-767.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '畜牧水产', 'name': '水产类', 'url': 'http://www.zgncpw.com/sell/list-992.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '畜牧水产', 'name': '特种类', 'url': 'http://www.zgncpw.com/sell/list-1003.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '畜牧水产', 'name': '繁育种苗', 'url': 'http://www.zgncpw.com/sell/list-1004.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '畜牧水产', 'name': '宠物及其它', 'url': 'http://www.zgncpw.com/sell/list-88.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$91
+{'type': '米面粮油', 'name': '主粮', 'url': 'http://www.zgncpw.com/sell/list-5.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '米面粮油', 'name': '食用油', 'url': 'http://www.zgncpw.com/sell/list-308.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{'type': '米面粮油', 'name': '杂粮', 'url': 'http://www.zgncpw.com/sell/list-1032.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'type': '米面粮油', 'name': '其它', 'url': 'http://www.zgncpw.com/sell/list-28.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '农副产品', 'name': '茶叶酒饮', 'url': 'http://www.zgncpw.com/sell/list-15.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '农副产品', 'name': '果仁籽类', 'url': 'http://www.zgncpw.com/sell/list-7.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '农副产品', 'name': '土特产', 'url': 'http://www.zgncpw.com/sell/list-206.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '农副产品', 'name': '调味品', 'url': 'http://www.zgncpw.com/sell/list-207.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'type': '农副产品', 'name': '食品类', 'url': 'http://www.zgncpw.com/sell/list-210.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'type': '农副产品', 'name': '经济作物', 'url': 'http://www.zgncpw.com/sell/list-625.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'type': '农副产品', 'name': '礼盒包装', 'url': 'http://www.zgncpw.com/sell/list-624.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '农资产品', 'name': '化肥', 'url': 'http://www.zgncpw.com/sell/list-612.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '农资产品', 'name': '种子', 'url': 'http://www.zgncpw.com/sell/list-613.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{'type': '农资产品', 'name': '饲料', 'url': 'http://www.zgncpw.com/sell/list-614.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'type': '农资产品', 'name': '调节剂', 'url': 'http://www.zgncpw.com/sell/list-18.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '花卉苗木', 'name': '绿化类苗木', 'url': 'http://www.zgncpw.com/sell/list-89.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '花卉苗木', 'name': '果树类苗木', 'url': 'http://www.zgncpw.com/sell/list-90.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '花卉苗木', 'name': '观叶类花卉', 'url': 'http://www.zgncpw.com/sell/list-5500.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '花卉苗木', 'name': '观果类花卉', 'url': 'http://www.zgncpw.com/sell/list-5501.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'type': '花卉苗木', 'name': '观花类苗木', 'url': 'http://www.zgncpw.com/sell/list-23935.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '花卉苗木', 'name': '观茎类花卉', 'url': 'http://www.zgncpw.com/sell/list-5503.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '花卉苗木', 'name': '芳香类花卉', 'url': 'http://www.zgncpw.com/sell/list-5504.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$106
+{'type': '花卉苗木', 'name': '其他花卉苗木', 'url': 'http://www.zgncpw.com/sell/list-5505.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '根茎类', 'url': 'http://www.zgncpw.com/sell/list-1141.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '中草药材', 'name': '果实籽仁类', 'url': 'http://www.zgncpw.com/sell/list-1142.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '全草类', 'url': 'http://www.zgncpw.com/sell/list-1143.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{'type': '中草药材', 'name': '花类', 'url': 'http://www.zgncpw.com/sell/list-1144.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{'type': '中草药材', 'name': '叶类', 'url': 'http://www.zgncpw.com/sell/list-1145.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '树皮类', 'url': 'http://www.zgncpw.com/sell/list-1146.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '藤木类', 'url': 'http://www.zgncpw.com/sell/list-1147.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '菌藻类', 'url': 'http://www.zgncpw.com/sell/list-1148.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '动物类', 'url': 'http://www.zgncpw.com/sell/list-1149.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '矿物类', 'url': 'http://www.zgncpw.com/sell/list-1150.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'type': '中草药材', 'name': '加工类', 'url': 'http://www.zgncpw.com/sell/list-1151.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '收获机械', 'url': 'http://www.zgncpw.com/sell/list-1312.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '农机配件', 'url': 'http://www.zgncpw.com/sell/list-1313.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '饲料加工', 'url': 'http://www.zgncpw.com/sell/list-1314.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '粮油加工', 'url': 'http://www.zgncpw.com/sell/list-1315.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '农副加工', 'url': 'http://www.zgncpw.com/sell/list-1316.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '种植机械', 'url': 'http://www.zgncpw.com/sell/list-1317.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '耕整机械', 'url': 'http://www.zgncpw.com/sell/list-1318.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '畜牧机械', 'url': 'http://www.zgncpw.com/sell/list-1319.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '园林机械', 'url': 'http://www.zgncpw.com/sell/list-1320.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '灌溉设备', 'url': 'http://www.zgncpw.com/sell/list-1321.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '种子机械', 'url': 'http://www.zgncpw.com/sell/list-1322.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '农业机械', 'name': '运输机械', 'url': 'http://www.zgncpw.com/sell/list-1323.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'type': '农业机械', 'name': '其它农机', 'url': 'http://www.zgncpw.com/sell/list-217.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'type': '农业机械', 'name': '养殖机械', 'url': 'http://www.zgncpw.com/sell/list-216.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'type': '农业机械', 'name': '进口机械', 'url': 'http://www.zgncpw.com/sell/list-615.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '北京特产', 'url': 'http://www.zgncpw.com/sell/list-1865.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '天津特产', 'url': 'http://www.zgncpw.com/sell/list-1697.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '河北特产', 'url': 'http://www.zgncpw.com/sell/list-1698.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '山西特产', 'url': 'http://www.zgncpw.com/sell/list-1699.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '地方特产', 'name': '内蒙古特产', 'url': 'http://www.zgncpw.com/sell/list-1700.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '辽宁特产', 'url': 'http://www.zgncpw.com/sell/list-1701.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '吉林特产', 'url': 'http://www.zgncpw.com/sell/list-1702.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '地方特产', 'name': '黑龙江特产', 'url': 'http://www.zgncpw.com/sell/list-1703.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '上海特产', 'url': 'http://www.zgncpw.com/sell/list-1704.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '江苏特产', 'url': 'http://www.zgncpw.com/sell/list-1705.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '浙江特产', 'url': 'http://www.zgncpw.com/sell/list-1706.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '安徽特产', 'url': 'http://www.zgncpw.com/sell/list-1707.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '福建特产', 'url': 'http://www.zgncpw.com/sell/list-1708.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '江西特产', 'url': 'http://www.zgncpw.com/sell/list-1709.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '山东特产', 'url': 'http://www.zgncpw.com/sell/list-1710.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '河南特产', 'url': 'http://www.zgncpw.com/sell/list-1711.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '湖北特产', 'url': 'http://www.zgncpw.com/sell/list-1712.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '湖南特产', 'url': 'http://www.zgncpw.com/sell/list-1713.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '广东特产', 'url': 'http://www.zgncpw.com/sell/list-1714.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '广西特产', 'url': 'http://www.zgncpw.com/sell/list-1715.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '海南特产', 'url': 'http://www.zgncpw.com/sell/list-1716.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '重庆特产', 'url': 'http://www.zgncpw.com/sell/list-1717.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '四川特产', 'url': 'http://www.zgncpw.com/sell/list-1718.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '贵州特产', 'url': 'http://www.zgncpw.com/sell/list-1719.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '云南特产', 'url': 'http://www.zgncpw.com/sell/list-1720.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '西藏特产', 'url': 'http://www.zgncpw.com/sell/list-1721.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '陕西特产', 'url': 'http://www.zgncpw.com/sell/list-1722.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '甘肃特产', 'url': 'http://www.zgncpw.com/sell/list-1723.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '青海特产', 'url': 'http://www.zgncpw.com/sell/list-1724.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '宁夏特产', 'url': 'http://www.zgncpw.com/sell/list-1725.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '新疆特产', 'url': 'http://www.zgncpw.com/sell/list-1726.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '香港特产', 'url': 'http://www.zgncpw.com/sell/list-1727.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '澳门特产', 'url': 'http://www.zgncpw.com/sell/list-1728.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '地方特产', 'name': '台湾特产', 'url': 'http://www.zgncpw.com/sell/list-1729.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '北京民宿', 'url': 'http://www.zgncpw.com/sell/list-1692.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '天津民宿', 'url': 'http://www.zgncpw.com/sell/list-2345.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '河北民宿', 'url': 'http://www.zgncpw.com/sell/list-2346.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '山西民宿', 'url': 'http://www.zgncpw.com/sell/list-2347.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '民宿民居', 'name': '内蒙古民宿', 'url': 'http://www.zgncpw.com/sell/list-2348.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '辽宁民宿', 'url': 'http://www.zgncpw.com/sell/list-2349.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '吉林民宿', 'url': 'http://www.zgncpw.com/sell/list-2350.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'type': '民宿民居', 'name': '黑龙江民宿', 'url': 'http://www.zgncpw.com/sell/list-2351.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '上海民宿', 'url': 'http://www.zgncpw.com/sell/list-2352.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '江苏民宿', 'url': 'http://www.zgncpw.com/sell/list-2353.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '浙江民宿', 'url': 'http://www.zgncpw.com/sell/list-2354.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '安徽民宿', 'url': 'http://www.zgncpw.com/sell/list-2355.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '福建民宿', 'url': 'http://www.zgncpw.com/sell/list-2356.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '江西民宿', 'url': 'http://www.zgncpw.com/sell/list-2357.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '山东民宿', 'url': 'http://www.zgncpw.com/sell/list-2358.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '河南民宿', 'url': 'http://www.zgncpw.com/sell/list-2359.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '湖北民宿', 'url': 'http://www.zgncpw.com/sell/list-2360.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '湖南民宿', 'url': 'http://www.zgncpw.com/sell/list-2361.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '广东民宿', 'url': 'http://www.zgncpw.com/sell/list-2362.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '广西民宿', 'url': 'http://www.zgncpw.com/sell/list-2363.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '海南民宿', 'url': 'http://www.zgncpw.com/sell/list-2364.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '重庆民宿', 'url': 'http://www.zgncpw.com/sell/list-2365.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '四川民宿', 'url': 'http://www.zgncpw.com/sell/list-2366.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '贵州民宿', 'url': 'http://www.zgncpw.com/sell/list-2367.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '云南民宿', 'url': 'http://www.zgncpw.com/sell/list-2368.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '西藏民宿', 'url': 'http://www.zgncpw.com/sell/list-2369.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '陕西民宿', 'url': 'http://www.zgncpw.com/sell/list-2370.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '甘肃民宿', 'url': 'http://www.zgncpw.com/sell/list-2371.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '青海民宿', 'url': 'http://www.zgncpw.com/sell/list-2372.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '宁夏民宿', 'url': 'http://www.zgncpw.com/sell/list-2373.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '民宿民居', 'name': '新疆民宿', 'url': 'http://www.zgncpw.com/sell/list-2374.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '民宿民居', 'name': '香港民宿', 'url': 'http://www.zgncpw.com/sell/list-28908.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '民宿民居', 'name': '澳门民宿', 'url': 'http://www.zgncpw.com/sell/list-28909.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '民宿民居', 'name': '台湾民宿', 'url': 'http://www.zgncpw.com/sell/list-28910.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '仓储物流', 'name': '仓储服务', 'url': 'http://www.zgncpw.com/sell/list-1628.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '仓储物流', 'name': '装卸搬运', 'url': 'http://www.zgncpw.com/sell/list-1629.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '仓储物流', 'name': '运输设备', 'url': 'http://www.zgncpw.com/sell/list-1630.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '仓储物流', 'name': '包装服务', 'url': 'http://www.zgncpw.com/sell/list-1631.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '仓储物流', 'name': '流通加工', 'url': 'http://www.zgncpw.com/sell/list-1632.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$109
+{'type': '仓储物流', 'name': '信息采集与处理', 'url': 'http://www.zgncpw.com/sell/list-1633.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$109
+{'type': '仓储物流', 'name': '集装单元化装备', 'url': 'http://www.zgncpw.com/sell/list-1636.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'type': '仓储物流', 'name': '物流配货', 'url': 'http://www.zgncpw.com/sell/list-1844.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '学生农训', 'url': 'http://www.zgncpw.com/sell/list-44194.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '种植培训', 'url': 'http://www.zgncpw.com/sell/list-44195.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '养殖培训', 'url': 'http://www.zgncpw.com/sell/list-44196.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '厨师厨艺', 'url': 'http://www.zgncpw.com/sell/list-44197.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '技术培训', 'name': '电焊工', 'url': 'http://www.zgncpw.com/sell/list-44198.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'type': '技术培训', 'name': '驾驶员', 'url': 'http://www.zgncpw.com/sell/list-44199.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '汽车维修', 'url': 'http://www.zgncpw.com/sell/list-44200.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'type': '技术培训', 'name': '计算机操作', 'url': 'http://www.zgncpw.com/sell/list-44201.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '数控车工', 'url': 'http://www.zgncpw.com/sell/list-44202.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '白酒酿造', 'url': 'http://www.zgncpw.com/sell/list-44203.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '装饰装潢', 'url': 'http://www.zgncpw.com/sell/list-44204.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '装配钳工', 'url': 'http://www.zgncpw.com/sell/list-44205.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '机修钳工', 'url': 'http://www.zgncpw.com/sell/list-44206.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '园林农艺', 'url': 'http://www.zgncpw.com/sell/list-44207.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '动物饲养', 'url': 'http://www.zgncpw.com/sell/list-44208.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '混凝土工', 'url': 'http://www.zgncpw.com/sell/list-44211.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '家政服务', 'url': 'http://www.zgncpw.com/sell/list-44212.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '美容美发', 'url': 'http://www.zgncpw.com/sell/list-44213.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '挖掘机工', 'url': 'http://www.zgncpw.com/sell/list-44214.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '强弱电工', 'url': 'http://www.zgncpw.com/sell/list-44215.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '水暖管工', 'url': 'http://www.zgncpw.com/sell/list-44216.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '其他培训', 'url': 'http://www.zgncpw.com/sell/list-44217.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'type': '技术培训', 'name': '合作加盟', 'url': 'http://www.zgncpw.com/sell/list-44218.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'type': '技术培训', 'name': '植物医生', 'url': 'http://www.zgncpw.com/sell/list-134246.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'type': '技术培训', 'name': '兽医服务', 'url': 'http://www.zgncpw.com/sell/list-134247.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'type': '技术培训', 'name': '种植咨询', 'url': 'http://www.zgncpw.com/sell/list-134248.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'type': '技术培训', 'name': '养殖咨询', 'url': 'http://www.zgncpw.com/sell/list-134249.html'}
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$3
+del
+$13
+category_task
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '草莓', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-62.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '荔枝', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-63.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'name': '梨', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-64.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '苹果', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-65.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '香蕉', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-66.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '柑桔', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-67.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'name': '橙', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-68.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '柠檬',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-590.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '葡萄',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-591.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '大红果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-592.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '瓜果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-593.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '芒果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-594.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '提子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-595.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '其他水果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-596.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '菠萝',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-750.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '柚子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-751.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '猕猴桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-764.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '甜瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-765.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '西瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-769.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '哈密瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-770.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '桃', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-771.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '桔', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-772.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '柑', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-773.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '金桔',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-774.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '李', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-775.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{'name': '杏', 'type': '生鲜水果', 'url': 'http://www.zgncpw.com/sell/list-776.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '圣女果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-777.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '樱桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-778.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '车厘子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-779.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '龙眼',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-780.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '甘蔗',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-781.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '山竹',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-782.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '杨桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-783.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '杨梅',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-784.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '无花果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-785.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '黄金瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-786.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '黄桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-787.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '毛桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-788.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '榴莲',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-789.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '柿子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-790.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '人参果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-791.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '木瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-792.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '石榴',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-793.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '冬枣',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-794.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '枇杷',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-795.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '山楂',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-796.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '番石榴',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-797.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '橄榄',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-798.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '香瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-799.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '椰子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-800.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '蓝莓',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-2792.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '槟榔',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-17864.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '灯笼果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18188.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '桑葚',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18311.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '乌梅',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18411.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '百香果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-18416.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '梅子',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-23914.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '羊奶果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24185.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '红枣',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24189.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '牛油果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24228.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '神秘果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24453.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '释迦果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24478.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '雪莲果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-24757.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '荸荠',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25106.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '丑橘',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25151.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '八月瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25195.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '含羞果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25296.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猫屎瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25322.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '刺角瓜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25794.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '树莓',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25916.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '金星果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25977.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '青枣',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-25979.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '芭蕉',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-26044.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '海棠果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-27487.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '油桃',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-27488.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '菠萝蜜',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-89092.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '沙棘果',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-96708.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '菱角',
+ 'type': '生鲜水果',
+ 'url': 'http://www.zgncpw.com/sell/list-96781.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '竹笋', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-40.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '腌菜', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-44.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{'name': '葱', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-48.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '辣椒', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-49.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '大白菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-51.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '平菇', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-57.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '草菇', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-58.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '金针菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-59.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '木耳', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-60.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '其它', 'type': '新鲜蔬菜', 'url': 'http://www.zgncpw.com/sell/list-61.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '甘薯/地瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-763.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '土豆/马铃薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-762.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '冬瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-597.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '小白菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-801.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '生菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-802.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '包菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-803.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '韭菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-804.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '香菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-805.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '菜苔',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-806.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '油麦菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-807.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '韭黄',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-808.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '莴笋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-809.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '芹菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-810.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '花椰菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-811.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '黄花菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-812.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '西兰花',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-813.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '萝卜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-814.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '胡萝卜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-815.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '南瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-816.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '丝瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-817.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '黄瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-818.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '苦瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-819.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '西红柿/番茄',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-821.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '秋葵',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-822.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '莲藕',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-823.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '红薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-824.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '紫薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-825.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '芋头',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-826.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '淮山',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-827.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '鲜葛根',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-828.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '魔芋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-829.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '香菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-830.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '黑木耳',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-831.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '杏鲍菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-832.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '茶树菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-833.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '竹荪',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-834.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '蘑菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-835.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '小葱',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-836.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '蒜薹',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-837.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '洋葱',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-838.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '蒜苗',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-839.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '春笋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-840.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '茨菰',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-841.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '香椿芽',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-842.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '鲜百合',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-844.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '空心菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-846.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '山药',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-1743.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$117
+{'name': '樱桃番茄（圣女果）',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-1744.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '西葫芦',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18356.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猴头菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18420.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '牛肝菌',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18423.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '姬松茸',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18426.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '芦笋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-18455.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '茭白',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-23919.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '卷心菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24196.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '茼蒿',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24481.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '白木耳',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24826.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '海苔',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24829.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '油菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24841.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '黑番茄',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-24850.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '地皮菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25110.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '大球盖菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25114.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '海鲜菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25157.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '毛木耳',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25160.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '秀珍菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25228.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '芽菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25239.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '彩椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25242.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '甘蓝',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25299.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '儿菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25302.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '番杏',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25325.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '飞碟瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25330.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猴腿菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25690.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '砍瓜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-25949.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '马齿菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-26052.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '食用菌',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27279.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '栗菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27284.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '松露',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27285.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '双孢菇',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27286.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '青椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27289.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '菠菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27290.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '娃娃菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27291.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '甜椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27292.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '荠菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27294.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '毛芋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27296.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '青花椒',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27297.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '荔浦芋',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27369.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '蔓菁/芥蓝',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27370.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '茄子',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-27475.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '莴苣',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-29059.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '脚板薯',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-29344.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '苦苣',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88961.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$109
+{'name': '苔干（贡菜）',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88962.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$112
+{'name': '四季豆（菜豆）',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88963.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '豌豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88964.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '鲜蚕豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88966.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '扁豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88967.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '豇豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88968.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '刀豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-88969.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '海带',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-89122.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '猪毛菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-89123.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '荷兰豆',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-89210.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '紫菜',
+ 'type': '新鲜蔬菜',
+ 'url': 'http://www.zgncpw.com/sell/list-108583.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '畜禽类',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-767.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '水产类',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-992.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '特种类',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-1003.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '繁育种苗',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-1004.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '宠物及其它',
+ 'type': '畜牧水产',
+ 'url': 'http://www.zgncpw.com/sell/list-88.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$91
+{'name': '主粮', 'type': '米面粮油', 'url': 'http://www.zgncpw.com/sell/list-5.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '食用油',
+ 'type': '米面粮油',
+ 'url': 'http://www.zgncpw.com/sell/list-308.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '杂粮',
+ 'type': '米面粮油',
+ 'url': 'http://www.zgncpw.com/sell/list-1032.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{'name': '其它', 'type': '米面粮油', 'url': 'http://www.zgncpw.com/sell/list-28.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '茶叶酒饮',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-15.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '果仁籽类',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-7.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '土特产',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-206.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '调味品',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-207.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{'name': '食品类',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-210.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '经济作物',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-625.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '礼盒包装',
+ 'type': '农副产品',
+ 'url': 'http://www.zgncpw.com/sell/list-624.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '化肥',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-612.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '种子',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-613.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{'name': '饲料',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-614.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{'name': '调节剂',
+ 'type': '农资产品',
+ 'url': 'http://www.zgncpw.com/sell/list-18.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '绿化类苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-89.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '果树类苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-90.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '观叶类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5500.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '观果类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5501.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$106
+{'name': '观花类苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-23935.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '观茎类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5503.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '芳香类花卉',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5504.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$108
+{'name': '其他花卉苗木',
+ 'type': '花卉苗木',
+ 'url': 'http://www.zgncpw.com/sell/list-5505.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '根茎类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1141.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '果实籽仁类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1142.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '全草类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1143.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '花类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1144.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{'name': '叶类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1145.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '树皮类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1146.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '藤木类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1147.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '菌藻类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1148.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '动物类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1149.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '矿物类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1150.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{'name': '加工类',
+ 'type': '中草药材',
+ 'url': 'http://www.zgncpw.com/sell/list-1151.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '收获机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1312.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '农机配件',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1313.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '饲料加工',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1314.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '粮油加工',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1315.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '农副加工',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1316.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '种植机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1317.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '耕整机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1318.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '畜牧机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1319.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '园林机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1320.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '灌溉设备',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1321.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '种子机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1322.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '运输机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-1323.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '其它农机',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-217.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '养殖机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-216.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{'name': '进口机械',
+ 'type': '农业机械',
+ 'url': 'http://www.zgncpw.com/sell/list-615.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '北京特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1865.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '天津特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1697.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河北特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1698.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1699.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '内蒙古特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1700.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '辽宁特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1701.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '吉林特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1702.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '黑龙江特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1703.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '上海特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1704.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江苏特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1705.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '浙江特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1706.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '安徽特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1707.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '福建特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1708.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1709.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山东特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1710.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1711.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖北特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1712.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1713.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广东特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1714.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1715.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '海南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1716.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '重庆特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1717.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '四川特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1718.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '贵州特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1719.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '云南特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1720.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '西藏特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1721.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '陕西特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1722.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '甘肃特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1723.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '青海特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1724.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '宁夏特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1725.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '新疆特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1726.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '香港特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1727.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '澳门特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1728.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '台湾特产',
+ 'type': '地方特产',
+ 'url': 'http://www.zgncpw.com/sell/list-1729.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '北京民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-1692.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '天津民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2345.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河北民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2346.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2347.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '内蒙古民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2348.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '辽宁民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2349.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '吉林民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2350.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$105
+{'name': '黑龙江民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2351.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '上海民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2352.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江苏民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2353.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '浙江民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2354.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '安徽民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2355.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '福建民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2356.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '江西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2357.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '山东民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2358.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '河南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2359.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖北民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2360.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '湖南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2361.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广东民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2362.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '广西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2363.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '海南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2364.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '重庆民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2365.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '四川民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2366.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '贵州民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2367.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '云南民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2368.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '西藏民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2369.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '陕西民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2370.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '甘肃民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2371.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '青海民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2372.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '宁夏民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2373.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '新疆民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-2374.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '香港民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-28908.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '澳门民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-28909.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '台湾民宿',
+ 'type': '民宿民居',
+ 'url': 'http://www.zgncpw.com/sell/list-28910.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '仓储服务',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1628.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '装卸搬运',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1629.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '运输设备',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1630.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '包装服务',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1631.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '流通加工',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1632.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$111
+{'name': '信息采集与处理',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1633.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$111
+{'name': '集装单元化装备',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1636.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{'name': '物流配货',
+ 'type': '仓储物流',
+ 'url': 'http://www.zgncpw.com/sell/list-1844.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '学生农训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44194.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '种植培训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44195.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '养殖培训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44196.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '厨师厨艺',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44197.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '电焊工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44198.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{'name': '驾驶员',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44199.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '汽车维修',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44200.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$106
+{'name': '计算机操作',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44201.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '数控车工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44202.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '白酒酿造',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44203.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '装饰装潢',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44204.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '装配钳工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44205.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '机修钳工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44206.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '园林农艺',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44207.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '动物饲养',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44208.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '混凝土工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44211.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '家政服务',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44212.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '美容美发',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44213.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '挖掘机工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44214.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '强弱电工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44215.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '水暖管工',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44216.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '其他培训',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44217.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{'name': '合作加盟',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-44218.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '植物医生',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134246.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '兽医服务',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134247.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '种植咨询',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134248.html'}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{'name': '养殖咨询',
+ 'type': '技术培训',
+ 'url': 'http://www.zgncpw.com/sell/list-134249.html'}
+*2
+$3
+del
+$13
+category_task
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "生鲜水果", "name": "草莓", "url": "http://www.zgncpw.com/sell/list-62.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "生鲜水果", "name": "荔枝", "url": "http://www.zgncpw.com/sell/list-63.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{"type": "生鲜水果", "name": "梨", "url": "http://www.zgncpw.com/sell/list-64.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "生鲜水果", "name": "苹果", "url": "http://www.zgncpw.com/sell/list-65.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "生鲜水果", "name": "香蕉", "url": "http://www.zgncpw.com/sell/list-66.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "生鲜水果", "name": "柑桔", "url": "http://www.zgncpw.com/sell/list-67.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{"type": "生鲜水果", "name": "橙", "url": "http://www.zgncpw.com/sell/list-68.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "柠檬", "url": "http://www.zgncpw.com/sell/list-590.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "葡萄", "url": "http://www.zgncpw.com/sell/list-591.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "大红果", "url": "http://www.zgncpw.com/sell/list-592.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "瓜果", "url": "http://www.zgncpw.com/sell/list-593.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "芒果", "url": "http://www.zgncpw.com/sell/list-594.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "提子", "url": "http://www.zgncpw.com/sell/list-595.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{"type": "生鲜水果", "name": "其他水果", "url": "http://www.zgncpw.com/sell/list-596.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "菠萝", "url": "http://www.zgncpw.com/sell/list-750.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "柚子", "url": "http://www.zgncpw.com/sell/list-751.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "猕猴桃", "url": "http://www.zgncpw.com/sell/list-764.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "甜瓜", "url": "http://www.zgncpw.com/sell/list-765.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "西瓜", "url": "http://www.zgncpw.com/sell/list-769.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "哈密瓜", "url": "http://www.zgncpw.com/sell/list-770.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{"type": "生鲜水果", "name": "桃", "url": "http://www.zgncpw.com/sell/list-771.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{"type": "生鲜水果", "name": "桔", "url": "http://www.zgncpw.com/sell/list-772.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{"type": "生鲜水果", "name": "柑", "url": "http://www.zgncpw.com/sell/list-773.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "金桔", "url": "http://www.zgncpw.com/sell/list-774.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{"type": "生鲜水果", "name": "李", "url": "http://www.zgncpw.com/sell/list-775.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$90
+{"type": "生鲜水果", "name": "杏", "url": "http://www.zgncpw.com/sell/list-776.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "圣女果", "url": "http://www.zgncpw.com/sell/list-777.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "樱桃", "url": "http://www.zgncpw.com/sell/list-778.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "车厘子", "url": "http://www.zgncpw.com/sell/list-779.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "龙眼", "url": "http://www.zgncpw.com/sell/list-780.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "甘蔗", "url": "http://www.zgncpw.com/sell/list-781.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "山竹", "url": "http://www.zgncpw.com/sell/list-782.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "杨桃", "url": "http://www.zgncpw.com/sell/list-783.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "杨梅", "url": "http://www.zgncpw.com/sell/list-784.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "无花果", "url": "http://www.zgncpw.com/sell/list-785.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "黄金瓜", "url": "http://www.zgncpw.com/sell/list-786.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "黄桃", "url": "http://www.zgncpw.com/sell/list-787.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "毛桃", "url": "http://www.zgncpw.com/sell/list-788.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "榴莲", "url": "http://www.zgncpw.com/sell/list-789.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "柿子", "url": "http://www.zgncpw.com/sell/list-790.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "人参果", "url": "http://www.zgncpw.com/sell/list-791.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "木瓜", "url": "http://www.zgncpw.com/sell/list-792.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "石榴", "url": "http://www.zgncpw.com/sell/list-793.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "冬枣", "url": "http://www.zgncpw.com/sell/list-794.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "枇杷", "url": "http://www.zgncpw.com/sell/list-795.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "山楂", "url": "http://www.zgncpw.com/sell/list-796.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "生鲜水果", "name": "番石榴", "url": "http://www.zgncpw.com/sell/list-797.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "橄榄", "url": "http://www.zgncpw.com/sell/list-798.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "香瓜", "url": "http://www.zgncpw.com/sell/list-799.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "生鲜水果", "name": "椰子", "url": "http://www.zgncpw.com/sell/list-800.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{"type": "生鲜水果", "name": "蓝莓", "url": "http://www.zgncpw.com/sell/list-2792.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "槟榔", "url": "http://www.zgncpw.com/sell/list-17864.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "灯笼果", "url": "http://www.zgncpw.com/sell/list-18188.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "桑葚", "url": "http://www.zgncpw.com/sell/list-18311.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "乌梅", "url": "http://www.zgncpw.com/sell/list-18411.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "百香果", "url": "http://www.zgncpw.com/sell/list-18416.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "梅子", "url": "http://www.zgncpw.com/sell/list-23914.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "羊奶果", "url": "http://www.zgncpw.com/sell/list-24185.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "红枣", "url": "http://www.zgncpw.com/sell/list-24189.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "牛油果", "url": "http://www.zgncpw.com/sell/list-24228.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "神秘果", "url": "http://www.zgncpw.com/sell/list-24453.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "释迦果", "url": "http://www.zgncpw.com/sell/list-24478.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "雪莲果", "url": "http://www.zgncpw.com/sell/list-24757.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "荸荠", "url": "http://www.zgncpw.com/sell/list-25106.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "丑橘", "url": "http://www.zgncpw.com/sell/list-25151.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "八月瓜", "url": "http://www.zgncpw.com/sell/list-25195.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "含羞果", "url": "http://www.zgncpw.com/sell/list-25296.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "猫屎瓜", "url": "http://www.zgncpw.com/sell/list-25322.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "刺角瓜", "url": "http://www.zgncpw.com/sell/list-25794.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "树莓", "url": "http://www.zgncpw.com/sell/list-25916.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "金星果", "url": "http://www.zgncpw.com/sell/list-25977.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "青枣", "url": "http://www.zgncpw.com/sell/list-25979.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "芭蕉", "url": "http://www.zgncpw.com/sell/list-26044.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "海棠果", "url": "http://www.zgncpw.com/sell/list-27487.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "油桃", "url": "http://www.zgncpw.com/sell/list-27488.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "菠萝蜜", "url": "http://www.zgncpw.com/sell/list-89092.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "生鲜水果", "name": "沙棘果", "url": "http://www.zgncpw.com/sell/list-96708.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "生鲜水果", "name": "菱角", "url": "http://www.zgncpw.com/sell/list-96781.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "新鲜蔬菜", "name": "竹笋", "url": "http://www.zgncpw.com/sell/list-40.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "新鲜蔬菜", "name": "腌菜", "url": "http://www.zgncpw.com/sell/list-44.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$89
+{"type": "新鲜蔬菜", "name": "葱", "url": "http://www.zgncpw.com/sell/list-48.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "新鲜蔬菜", "name": "辣椒", "url": "http://www.zgncpw.com/sell/list-49.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "大白菜", "url": "http://www.zgncpw.com/sell/list-51.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "新鲜蔬菜", "name": "平菇", "url": "http://www.zgncpw.com/sell/list-57.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "新鲜蔬菜", "name": "草菇", "url": "http://www.zgncpw.com/sell/list-58.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "金针菇", "url": "http://www.zgncpw.com/sell/list-59.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "新鲜蔬菜", "name": "木耳", "url": "http://www.zgncpw.com/sell/list-60.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "新鲜蔬菜", "name": "其它", "url": "http://www.zgncpw.com/sell/list-61.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "新鲜蔬菜", "name": "甘薯/地瓜", "url": "http://www.zgncpw.com/sell/list-763.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "新鲜蔬菜", "name": "土豆/马铃薯", "url": "http://www.zgncpw.com/sell/list-762.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "冬瓜", "url": "http://www.zgncpw.com/sell/list-597.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "小白菜", "url": "http://www.zgncpw.com/sell/list-801.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "生菜", "url": "http://www.zgncpw.com/sell/list-802.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "包菜", "url": "http://www.zgncpw.com/sell/list-803.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "韭菜", "url": "http://www.zgncpw.com/sell/list-804.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "香菜", "url": "http://www.zgncpw.com/sell/list-805.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "菜苔", "url": "http://www.zgncpw.com/sell/list-806.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "油麦菜", "url": "http://www.zgncpw.com/sell/list-807.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "韭黄", "url": "http://www.zgncpw.com/sell/list-808.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "莴笋", "url": "http://www.zgncpw.com/sell/list-809.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "芹菜", "url": "http://www.zgncpw.com/sell/list-810.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "花椰菜", "url": "http://www.zgncpw.com/sell/list-811.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "黄花菜", "url": "http://www.zgncpw.com/sell/list-812.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "西兰花", "url": "http://www.zgncpw.com/sell/list-813.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "萝卜", "url": "http://www.zgncpw.com/sell/list-814.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "胡萝卜", "url": "http://www.zgncpw.com/sell/list-815.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "南瓜", "url": "http://www.zgncpw.com/sell/list-816.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "丝瓜", "url": "http://www.zgncpw.com/sell/list-817.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "黄瓜", "url": "http://www.zgncpw.com/sell/list-818.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "苦瓜", "url": "http://www.zgncpw.com/sell/list-819.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "新鲜蔬菜", "name": "西红柿/番茄", "url": "http://www.zgncpw.com/sell/list-821.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "秋葵", "url": "http://www.zgncpw.com/sell/list-822.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "莲藕", "url": "http://www.zgncpw.com/sell/list-823.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "红薯", "url": "http://www.zgncpw.com/sell/list-824.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "紫薯", "url": "http://www.zgncpw.com/sell/list-825.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "芋头", "url": "http://www.zgncpw.com/sell/list-826.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "淮山", "url": "http://www.zgncpw.com/sell/list-827.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "鲜葛根", "url": "http://www.zgncpw.com/sell/list-828.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "魔芋", "url": "http://www.zgncpw.com/sell/list-829.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "香菇", "url": "http://www.zgncpw.com/sell/list-830.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "黑木耳", "url": "http://www.zgncpw.com/sell/list-831.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "杏鲍菇", "url": "http://www.zgncpw.com/sell/list-832.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "茶树菇", "url": "http://www.zgncpw.com/sell/list-833.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "竹荪", "url": "http://www.zgncpw.com/sell/list-834.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "蘑菇", "url": "http://www.zgncpw.com/sell/list-835.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "小葱", "url": "http://www.zgncpw.com/sell/list-836.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "蒜薹", "url": "http://www.zgncpw.com/sell/list-837.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "洋葱", "url": "http://www.zgncpw.com/sell/list-838.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "蒜苗", "url": "http://www.zgncpw.com/sell/list-839.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "春笋", "url": "http://www.zgncpw.com/sell/list-840.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "新鲜蔬菜", "name": "茨菰", "url": "http://www.zgncpw.com/sell/list-841.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "香椿芽", "url": "http://www.zgncpw.com/sell/list-842.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "鲜百合", "url": "http://www.zgncpw.com/sell/list-844.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "空心菜", "url": "http://www.zgncpw.com/sell/list-846.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{"type": "新鲜蔬菜", "name": "山药", "url": "http://www.zgncpw.com/sell/list-1743.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$115
+{"type": "新鲜蔬菜", "name": "樱桃番茄（圣女果）", "url": "http://www.zgncpw.com/sell/list-1744.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "西葫芦", "url": "http://www.zgncpw.com/sell/list-18356.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "猴头菇", "url": "http://www.zgncpw.com/sell/list-18420.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "牛肝菌", "url": "http://www.zgncpw.com/sell/list-18423.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "姬松茸", "url": "http://www.zgncpw.com/sell/list-18426.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "芦笋", "url": "http://www.zgncpw.com/sell/list-18455.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "茭白", "url": "http://www.zgncpw.com/sell/list-23919.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "卷心菜", "url": "http://www.zgncpw.com/sell/list-24196.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "茼蒿", "url": "http://www.zgncpw.com/sell/list-24481.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "白木耳", "url": "http://www.zgncpw.com/sell/list-24826.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "海苔", "url": "http://www.zgncpw.com/sell/list-24829.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "油菜", "url": "http://www.zgncpw.com/sell/list-24841.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "黑番茄", "url": "http://www.zgncpw.com/sell/list-24850.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "地皮菜", "url": "http://www.zgncpw.com/sell/list-25110.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "新鲜蔬菜", "name": "大球盖菇", "url": "http://www.zgncpw.com/sell/list-25114.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "海鲜菇", "url": "http://www.zgncpw.com/sell/list-25157.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "毛木耳", "url": "http://www.zgncpw.com/sell/list-25160.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "秀珍菇", "url": "http://www.zgncpw.com/sell/list-25228.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "芽菜", "url": "http://www.zgncpw.com/sell/list-25239.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "彩椒", "url": "http://www.zgncpw.com/sell/list-25242.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "甘蓝", "url": "http://www.zgncpw.com/sell/list-25299.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "儿菜", "url": "http://www.zgncpw.com/sell/list-25302.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "番杏", "url": "http://www.zgncpw.com/sell/list-25325.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "飞碟瓜", "url": "http://www.zgncpw.com/sell/list-25330.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "猴腿菜", "url": "http://www.zgncpw.com/sell/list-25690.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "砍瓜", "url": "http://www.zgncpw.com/sell/list-25949.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "马齿菜", "url": "http://www.zgncpw.com/sell/list-26052.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "食用菌", "url": "http://www.zgncpw.com/sell/list-27279.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "栗菇", "url": "http://www.zgncpw.com/sell/list-27284.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "松露", "url": "http://www.zgncpw.com/sell/list-27285.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "双孢菇", "url": "http://www.zgncpw.com/sell/list-27286.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "青椒", "url": "http://www.zgncpw.com/sell/list-27289.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "菠菜", "url": "http://www.zgncpw.com/sell/list-27290.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "娃娃菜", "url": "http://www.zgncpw.com/sell/list-27291.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "甜椒", "url": "http://www.zgncpw.com/sell/list-27292.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "荠菜", "url": "http://www.zgncpw.com/sell/list-27294.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "毛芋", "url": "http://www.zgncpw.com/sell/list-27296.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "青花椒", "url": "http://www.zgncpw.com/sell/list-27297.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "荔浦芋", "url": "http://www.zgncpw.com/sell/list-27369.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{"type": "新鲜蔬菜", "name": "蔓菁/芥蓝", "url": "http://www.zgncpw.com/sell/list-27370.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "茄子", "url": "http://www.zgncpw.com/sell/list-27475.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "莴苣", "url": "http://www.zgncpw.com/sell/list-29059.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "脚板薯", "url": "http://www.zgncpw.com/sell/list-29344.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "苦苣", "url": "http://www.zgncpw.com/sell/list-88961.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$107
+{"type": "新鲜蔬菜", "name": "苔干（贡菜）", "url": "http://www.zgncpw.com/sell/list-88962.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$110
+{"type": "新鲜蔬菜", "name": "四季豆（菜豆）", "url": "http://www.zgncpw.com/sell/list-88963.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "豌豆", "url": "http://www.zgncpw.com/sell/list-88964.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "鲜蚕豆", "url": "http://www.zgncpw.com/sell/list-88966.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "扁豆", "url": "http://www.zgncpw.com/sell/list-88967.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "豇豆", "url": "http://www.zgncpw.com/sell/list-88968.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "刀豆", "url": "http://www.zgncpw.com/sell/list-88969.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "新鲜蔬菜", "name": "海带", "url": "http://www.zgncpw.com/sell/list-89122.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "猪毛菜", "url": "http://www.zgncpw.com/sell/list-89123.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "新鲜蔬菜", "name": "荷兰豆", "url": "http://www.zgncpw.com/sell/list-89210.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "新鲜蔬菜", "name": "紫菜", "url": "http://www.zgncpw.com/sell/list-108583.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "畜牧水产", "name": "畜禽类", "url": "http://www.zgncpw.com/sell/list-767.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "畜牧水产", "name": "水产类", "url": "http://www.zgncpw.com/sell/list-992.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "畜牧水产", "name": "特种类", "url": "http://www.zgncpw.com/sell/list-1003.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "畜牧水产", "name": "繁育种苗", "url": "http://www.zgncpw.com/sell/list-1004.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "畜牧水产", "name": "宠物及其它", "url": "http://www.zgncpw.com/sell/list-88.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$91
+{"type": "米面粮油", "name": "主粮", "url": "http://www.zgncpw.com/sell/list-5.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "米面粮油", "name": "食用油", "url": "http://www.zgncpw.com/sell/list-308.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{"type": "米面粮油", "name": "杂粮", "url": "http://www.zgncpw.com/sell/list-1032.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$92
+{"type": "米面粮油", "name": "其它", "url": "http://www.zgncpw.com/sell/list-28.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "农副产品", "name": "茶叶酒饮", "url": "http://www.zgncpw.com/sell/list-15.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "农副产品", "name": "果仁籽类", "url": "http://www.zgncpw.com/sell/list-7.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "农副产品", "name": "土特产", "url": "http://www.zgncpw.com/sell/list-206.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "农副产品", "name": "调味品", "url": "http://www.zgncpw.com/sell/list-207.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$96
+{"type": "农副产品", "name": "食品类", "url": "http://www.zgncpw.com/sell/list-210.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{"type": "农副产品", "name": "经济作物", "url": "http://www.zgncpw.com/sell/list-625.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{"type": "农副产品", "name": "礼盒包装", "url": "http://www.zgncpw.com/sell/list-624.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "农资产品", "name": "化肥", "url": "http://www.zgncpw.com/sell/list-612.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "农资产品", "name": "种子", "url": "http://www.zgncpw.com/sell/list-613.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$93
+{"type": "农资产品", "name": "饲料", "url": "http://www.zgncpw.com/sell/list-614.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$95
+{"type": "农资产品", "name": "调节剂", "url": "http://www.zgncpw.com/sell/list-18.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "花卉苗木", "name": "绿化类苗木", "url": "http://www.zgncpw.com/sell/list-89.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "花卉苗木", "name": "果树类苗木", "url": "http://www.zgncpw.com/sell/list-90.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "花卉苗木", "name": "观叶类花卉", "url": "http://www.zgncpw.com/sell/list-5500.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "花卉苗木", "name": "观果类花卉", "url": "http://www.zgncpw.com/sell/list-5501.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{"type": "花卉苗木", "name": "观花类苗木", "url": "http://www.zgncpw.com/sell/list-23935.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "花卉苗木", "name": "观茎类花卉", "url": "http://www.zgncpw.com/sell/list-5503.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "花卉苗木", "name": "芳香类花卉", "url": "http://www.zgncpw.com/sell/list-5504.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$106
+{"type": "花卉苗木", "name": "其他花卉苗木", "url": "http://www.zgncpw.com/sell/list-5505.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "根茎类", "url": "http://www.zgncpw.com/sell/list-1141.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "中草药材", "name": "果实籽仁类", "url": "http://www.zgncpw.com/sell/list-1142.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "全草类", "url": "http://www.zgncpw.com/sell/list-1143.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{"type": "中草药材", "name": "花类", "url": "http://www.zgncpw.com/sell/list-1144.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$94
+{"type": "中草药材", "name": "叶类", "url": "http://www.zgncpw.com/sell/list-1145.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "树皮类", "url": "http://www.zgncpw.com/sell/list-1146.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "藤木类", "url": "http://www.zgncpw.com/sell/list-1147.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "菌藻类", "url": "http://www.zgncpw.com/sell/list-1148.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "动物类", "url": "http://www.zgncpw.com/sell/list-1149.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "矿物类", "url": "http://www.zgncpw.com/sell/list-1150.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$97
+{"type": "中草药材", "name": "加工类", "url": "http://www.zgncpw.com/sell/list-1151.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "收获机械", "url": "http://www.zgncpw.com/sell/list-1312.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "农机配件", "url": "http://www.zgncpw.com/sell/list-1313.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "饲料加工", "url": "http://www.zgncpw.com/sell/list-1314.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "粮油加工", "url": "http://www.zgncpw.com/sell/list-1315.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "农副加工", "url": "http://www.zgncpw.com/sell/list-1316.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "种植机械", "url": "http://www.zgncpw.com/sell/list-1317.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "耕整机械", "url": "http://www.zgncpw.com/sell/list-1318.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "畜牧机械", "url": "http://www.zgncpw.com/sell/list-1319.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "园林机械", "url": "http://www.zgncpw.com/sell/list-1320.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "灌溉设备", "url": "http://www.zgncpw.com/sell/list-1321.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "种子机械", "url": "http://www.zgncpw.com/sell/list-1322.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "农业机械", "name": "运输机械", "url": "http://www.zgncpw.com/sell/list-1323.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{"type": "农业机械", "name": "其它农机", "url": "http://www.zgncpw.com/sell/list-217.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{"type": "农业机械", "name": "养殖机械", "url": "http://www.zgncpw.com/sell/list-216.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$99
+{"type": "农业机械", "name": "进口机械", "url": "http://www.zgncpw.com/sell/list-615.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "北京特产", "url": "http://www.zgncpw.com/sell/list-1865.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "天津特产", "url": "http://www.zgncpw.com/sell/list-1697.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "河北特产", "url": "http://www.zgncpw.com/sell/list-1698.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "山西特产", "url": "http://www.zgncpw.com/sell/list-1699.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "地方特产", "name": "内蒙古特产", "url": "http://www.zgncpw.com/sell/list-1700.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "辽宁特产", "url": "http://www.zgncpw.com/sell/list-1701.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "吉林特产", "url": "http://www.zgncpw.com/sell/list-1702.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "地方特产", "name": "黑龙江特产", "url": "http://www.zgncpw.com/sell/list-1703.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "上海特产", "url": "http://www.zgncpw.com/sell/list-1704.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "江苏特产", "url": "http://www.zgncpw.com/sell/list-1705.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "浙江特产", "url": "http://www.zgncpw.com/sell/list-1706.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "安徽特产", "url": "http://www.zgncpw.com/sell/list-1707.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "福建特产", "url": "http://www.zgncpw.com/sell/list-1708.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "江西特产", "url": "http://www.zgncpw.com/sell/list-1709.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "山东特产", "url": "http://www.zgncpw.com/sell/list-1710.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "河南特产", "url": "http://www.zgncpw.com/sell/list-1711.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "湖北特产", "url": "http://www.zgncpw.com/sell/list-1712.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "湖南特产", "url": "http://www.zgncpw.com/sell/list-1713.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "广东特产", "url": "http://www.zgncpw.com/sell/list-1714.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "广西特产", "url": "http://www.zgncpw.com/sell/list-1715.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "海南特产", "url": "http://www.zgncpw.com/sell/list-1716.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "重庆特产", "url": "http://www.zgncpw.com/sell/list-1717.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "四川特产", "url": "http://www.zgncpw.com/sell/list-1718.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "贵州特产", "url": "http://www.zgncpw.com/sell/list-1719.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "云南特产", "url": "http://www.zgncpw.com/sell/list-1720.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "西藏特产", "url": "http://www.zgncpw.com/sell/list-1721.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "陕西特产", "url": "http://www.zgncpw.com/sell/list-1722.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "甘肃特产", "url": "http://www.zgncpw.com/sell/list-1723.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "青海特产", "url": "http://www.zgncpw.com/sell/list-1724.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "宁夏特产", "url": "http://www.zgncpw.com/sell/list-1725.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "新疆特产", "url": "http://www.zgncpw.com/sell/list-1726.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "香港特产", "url": "http://www.zgncpw.com/sell/list-1727.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "澳门特产", "url": "http://www.zgncpw.com/sell/list-1728.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "地方特产", "name": "台湾特产", "url": "http://www.zgncpw.com/sell/list-1729.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "北京民宿", "url": "http://www.zgncpw.com/sell/list-1692.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "天津民宿", "url": "http://www.zgncpw.com/sell/list-2345.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "河北民宿", "url": "http://www.zgncpw.com/sell/list-2346.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "山西民宿", "url": "http://www.zgncpw.com/sell/list-2347.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "民宿民居", "name": "内蒙古民宿", "url": "http://www.zgncpw.com/sell/list-2348.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "辽宁民宿", "url": "http://www.zgncpw.com/sell/list-2349.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "吉林民宿", "url": "http://www.zgncpw.com/sell/list-2350.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$103
+{"type": "民宿民居", "name": "黑龙江民宿", "url": "http://www.zgncpw.com/sell/list-2351.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "上海民宿", "url": "http://www.zgncpw.com/sell/list-2352.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "江苏民宿", "url": "http://www.zgncpw.com/sell/list-2353.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "浙江民宿", "url": "http://www.zgncpw.com/sell/list-2354.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "安徽民宿", "url": "http://www.zgncpw.com/sell/list-2355.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "福建民宿", "url": "http://www.zgncpw.com/sell/list-2356.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "江西民宿", "url": "http://www.zgncpw.com/sell/list-2357.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "山东民宿", "url": "http://www.zgncpw.com/sell/list-2358.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "河南民宿", "url": "http://www.zgncpw.com/sell/list-2359.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "湖北民宿", "url": "http://www.zgncpw.com/sell/list-2360.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "湖南民宿", "url": "http://www.zgncpw.com/sell/list-2361.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "广东民宿", "url": "http://www.zgncpw.com/sell/list-2362.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "广西民宿", "url": "http://www.zgncpw.com/sell/list-2363.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "海南民宿", "url": "http://www.zgncpw.com/sell/list-2364.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "重庆民宿", "url": "http://www.zgncpw.com/sell/list-2365.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "四川民宿", "url": "http://www.zgncpw.com/sell/list-2366.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "贵州民宿", "url": "http://www.zgncpw.com/sell/list-2367.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "云南民宿", "url": "http://www.zgncpw.com/sell/list-2368.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "西藏民宿", "url": "http://www.zgncpw.com/sell/list-2369.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "陕西民宿", "url": "http://www.zgncpw.com/sell/list-2370.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "甘肃民宿", "url": "http://www.zgncpw.com/sell/list-2371.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "青海民宿", "url": "http://www.zgncpw.com/sell/list-2372.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "宁夏民宿", "url": "http://www.zgncpw.com/sell/list-2373.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "民宿民居", "name": "新疆民宿", "url": "http://www.zgncpw.com/sell/list-2374.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "民宿民居", "name": "香港民宿", "url": "http://www.zgncpw.com/sell/list-28908.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "民宿民居", "name": "澳门民宿", "url": "http://www.zgncpw.com/sell/list-28909.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "民宿民居", "name": "台湾民宿", "url": "http://www.zgncpw.com/sell/list-28910.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "仓储物流", "name": "仓储服务", "url": "http://www.zgncpw.com/sell/list-1628.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "仓储物流", "name": "装卸搬运", "url": "http://www.zgncpw.com/sell/list-1629.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "仓储物流", "name": "运输设备", "url": "http://www.zgncpw.com/sell/list-1630.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "仓储物流", "name": "包装服务", "url": "http://www.zgncpw.com/sell/list-1631.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "仓储物流", "name": "流通加工", "url": "http://www.zgncpw.com/sell/list-1632.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$109
+{"type": "仓储物流", "name": "信息采集与处理", "url": "http://www.zgncpw.com/sell/list-1633.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$109
+{"type": "仓储物流", "name": "集装单元化装备", "url": "http://www.zgncpw.com/sell/list-1636.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$100
+{"type": "仓储物流", "name": "物流配货", "url": "http://www.zgncpw.com/sell/list-1844.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "学生农训", "url": "http://www.zgncpw.com/sell/list-44194.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "种植培训", "url": "http://www.zgncpw.com/sell/list-44195.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "养殖培训", "url": "http://www.zgncpw.com/sell/list-44196.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "厨师厨艺", "url": "http://www.zgncpw.com/sell/list-44197.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "技术培训", "name": "电焊工", "url": "http://www.zgncpw.com/sell/list-44198.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$98
+{"type": "技术培训", "name": "驾驶员", "url": "http://www.zgncpw.com/sell/list-44199.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "汽车维修", "url": "http://www.zgncpw.com/sell/list-44200.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$104
+{"type": "技术培训", "name": "计算机操作", "url": "http://www.zgncpw.com/sell/list-44201.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "数控车工", "url": "http://www.zgncpw.com/sell/list-44202.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "白酒酿造", "url": "http://www.zgncpw.com/sell/list-44203.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "装饰装潢", "url": "http://www.zgncpw.com/sell/list-44204.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "装配钳工", "url": "http://www.zgncpw.com/sell/list-44205.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "机修钳工", "url": "http://www.zgncpw.com/sell/list-44206.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "园林农艺", "url": "http://www.zgncpw.com/sell/list-44207.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "动物饲养", "url": "http://www.zgncpw.com/sell/list-44208.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "混凝土工", "url": "http://www.zgncpw.com/sell/list-44211.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "家政服务", "url": "http://www.zgncpw.com/sell/list-44212.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "美容美发", "url": "http://www.zgncpw.com/sell/list-44213.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "挖掘机工", "url": "http://www.zgncpw.com/sell/list-44214.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "强弱电工", "url": "http://www.zgncpw.com/sell/list-44215.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "水暖管工", "url": "http://www.zgncpw.com/sell/list-44216.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "其他培训", "url": "http://www.zgncpw.com/sell/list-44217.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$101
+{"type": "技术培训", "name": "合作加盟", "url": "http://www.zgncpw.com/sell/list-44218.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{"type": "技术培训", "name": "植物医生", "url": "http://www.zgncpw.com/sell/list-134246.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{"type": "技术培训", "name": "兽医服务", "url": "http://www.zgncpw.com/sell/list-134247.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{"type": "技术培训", "name": "种植咨询", "url": "http://www.zgncpw.com/sell/list-134248.html"}
+*3
+$5
+RPUSH
+$13
+category_task
+$102
+{"type": "技术培训", "name": "养殖咨询", "url": "http://www.zgncpw.com/sell/list-134249.html"}
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$4
+LPOP
+$13
+category_task
+*2
+$4
+LPOP
+$13
+category_task
